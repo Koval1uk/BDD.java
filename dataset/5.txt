@@ -1,0 +1,1000 @@
+E + C!E + !AC + A!BD + D + !A!B + A!C + A!D + AB!E + D!E
+!BC!DE + AB!D!E + AB + ABC!D + A!C!D + !B + ABCDE
+!BDE + ABC!DE + A!B!CD!E + BD!E + B + E + !AC + A + CDE
+ACDE + C!D!E + C!E + ABC!D!E + !ABE + ABC!E + B + !B + !A!C + !A!CD + !AB!CD!E
+E + ABD!E + !AB!C!D
+!B!CD + BC + ABCDE + AB!CDE + !A!BD!E
+BCE + ABC!D + A!BC!D + !AB + !A!C!D + !D + D + A!BD!E + CDE + A!BC!D!E + AC!D + !A!B!C!DE + !B
+E + ABE + !ABC!D + AB!D!E + !A!B!D + !D + A!B!C!DE
+!ABC!D!E + BD!E + !B!C!D + !C!D + !A!DE + !B!D + ABE + AB!E + !AB + BC!DE + AB!C!E + !C!E + AB!CDE
+!ABC!D!E + C!D + D + A!BD + !B!C + !C!E + DE + B!D!E + BD + D!E + A!D
+A!CE + !B + AB!CD!E
+A + !E + !C!D + AD!E + CE + !ABCDE + !D!E
+AB!C!DE + C + !AB!DE + A!BD!E + !A!C + A!B!CDE + !AB!C
+!B!CD + !DE + A!BD!E + !BC!E + B!E + !C + BC + CE + A!C!DE + ACDE + B + C!D!E + !D + !A!C!D!E
+AB!C!D!E + BDE + !C + BCE + !E + ABDE + !A!BE
+!AB!C!D + !A + ABCD!E + CD!E
+ABC!D!E + BCE + !A + !AB!C!D!E + !ABC!D + !A!D + !C!E + !B!CDE + E
+!A!C!E + AB!CD!E + !A!B!CDE + !ABD + A!B!DE + !BCE + C!D + !C + B + !A!B!CD!E + !A!CE
+AC!D!E + !DE + BC!E + !B + AE
+B!CD!E + !A!B!CD + AE + !C + A!C!D!E + BC!D + !B!CDE + ABCE + !A!CD + CE
+ABD + AB!CE + !A!B!CD!E + !A!B + A!C!D!E + A!BCDE + !A!BC!D!E + !B + !ACD + A!BD!E + A!CD!E + !A!B!C!D + !A!CD + ACD
+!B!E + !DE + A!B!C!D!E + AB!D + ABC!D!E + B!C!D + BC!D + AC!E + ABC + A!B!DE + AB!CDE
+!B!C + !A!BE + BC!D + B!D!E + !AB!E + ABCDE + D + A!B!CDE + !A!D!E
+!AB + B + !ABC!DE + !AB!C!DE + A!B!C!D!E + CE + !AB!CE + !E + E + !A!BCE
+!ABCE + A!B!CD!E + B!D + ACD + A!BC!DE + !C + C + B + !A!C!DE + AB!C!D + AC!D!E
+!D + !ACDE + !CD + !BC + E + A + !A!BC + B!C + A!BCDE + B!C!D!E + !A
+!A!BCDE + !CE + !A!BCD!E + ABC + !ACD!E + D + A!BCDE + C + !B!D
+B!E + !C + !AD
+!AB!C!E + !D + !A!BCDE + ACDE + BCD!E + !A!B!C!D!E + !A!BC!D
+!BD + !A!BCE + A!B!CD + BCE + !AB + !CD + !AB!C!D!E + !A!BCDE + !A + A!CD + AB!E + !C!D
+!E + !C!D + AB!DE + !B!D + ABDE + !BC!D!E + !C + BC!D!E
+A!BC!DE + !A!C!D + !A!C + ABCD!E + C!D!E + A!BCD!E + A!BCD + !B!DE + CD!E + E + !ABCD!E + BD + A!BC
+A!B!CD!E + AB!CD!E + !A!B!C!D + !CE + !A!E
+!BE + !ABCE + !A!B!C!D!E + ACDE + !BC!DE + A + !D + !A
+BC + AB + C + B + B!C!D + E
+!AD + C + A!B!C!D + !D + AC!D!E
+AC!D + C + AB!C!DE + CE + B!E + !A!BC!D!E + !B + B!C + !AC!E
+B!E + B!C + !A!BC!DE + !B + B + !B!E + !D + A!CDE
+A!B!C!DE + A!B!C!D!E + CE + !D + E + AD!E
+A!B!C!D!E + !AB!CDE + !ABC!D!E + AC!D!E + CD!E + AE + AB!D + !A!BCD!E + !AB!CE + A + !BD!E
+!A!E + A!C!D!E + !AD + !ABCD!E + !A!C!E + D + !AB!CDE + A!B!CDE + !B
+!D + !BCDE + !AB!C!DE + B + A!B!CE + !A!BE + !A!B + !A!B!C!DE + !BD + !C
+!A!BC!D + ABC!E + AC!D + B!C!E + !BCD!E
+!AB!C!DE + ABCE + D
+!A + AB!C + !AE + D + !A!B!C!D + AD + AB!CD!E + C + !A!B!D + !AB
+!B!E + !C!D + ABC!DE + E + A + !A!BCD!E + !A!C!E + C!E + A!BE + ACD + !C!E + BC
+!AB!C!D + !B!E + !A!B!D + B!C + BD + A!BCD!E + B!CD!E + AB!CDE + CE + AD!E + !A!BC!DE + A!C!E + !BCD + A!D!E
+B!E + A!B!E + B + !AE + C + !C!D!E + !B!D + E + !B!C!DE + A + A!B!CD!E + A!B!CDE
+AE + !ADE + A!BE + E + A!BDE + !A
+!A!B!DE + !BD + !B!C!D!E + !D + BC + E + BC!D + BE + !A!CE + !ABC + BD!E
+C + !ABCD + !E + A!E + A!B!CDE + D!E + BC!D!E
+D + A!B!C!DE + !A!B!CD!E + !ACE + DE + !CE + A!B!C!D!E + C!D!E + A!BCDE + A!BC!D + BD + A!BC + !AB!D!E
+!BE + A!B!D!E + A!BCD!E + !A!B!DE + !A!C!D + !BCDE + !A!B!D!E
+!AB + !ACD!E + !A!B!CDE + !D + ABCDE + AD + A!BC!DE + C!D!E + C
+!AD + A!D!E + B!CD + !A!C + !AB!CD!E + !B + !B!E + B!C!DE + !E + A!CD + D + ABE
+!ADE + !ABCD!E + !AB!CD + A + !A!CDE + A!BCD!E
+!C!DE + !AB + !BCD + AB!CD!E + E
+!A + !AB!C!DE + !A!C!DE + !BC
+!A + ABCD + C + B + !ABE + !D
+AB!CD!E + B!C!D + !ABE + !AE + D + !BCD + !B!CD + A + !A!B!C!D!E + AB!C!E + A!BC!D!E + A!CDE + BC!D!E
+!C + CE + !A!B + !B!CDE + A!B + A + !A
+!BCD!E + !AC!E + !A!E + !A!C!E
+!A!B!D + B + !A!C!DE + !C + !BDE + B!C!DE + !AC!D!E + !A!BC + A!B!E + B!CDE + A!D!E + !E + !B!E
+B + A!CD!E + A!B!CD!E + !A!C!E + !E + A!B!D + !ABD!E
+A!D + !A!E + !A!BCDE + !ABC!D!E + ABD!E
+CDE + !A!BC!DE + !BE + ABC!DE
+D!E + !A + D + A + !A!BDE + BC!E + A!BC!DE + !AC!E
+A!CE + !C + B + !A!BC!D!E + ACE + ABC!D!E
+!AB!C!DE + A!BC + AB!DE
+!C + AB!C!D + !C!E + !D + BCDE
+A!B + AB!DE + A!BC!DE + ABC
+ABD!E + C!D!E + AB!DE + !A!DE + !AD + A!B!CDE + !A!E + !ACD + !BCDE + A!D + !C!E + B!D + !CD
+AC!E + !A!BD!E + !A!BCDE + C!D + B + !ABD + !ABCD!E + C!D!E
+!B!CD!E + CD + !ABC!DE + !ABDE + A!BD + BCD!E + !AB!C!E
+!ABC!D!E + !AC!E + !B!CE + !A!D!E + C!D + A!BCDE + !CD!E + B!D + A!BC!DE + B
+!C + A!C!D + DE + B + AB!C!DE
+AC + !B!CDE + !B!E + !A!BC!E + !A + A!CE + !AB
+E + AB!C!E + !E
+!A!BCDE + B!CD!E + B!D + !C + A!BCE + A!BC + !A!B!C + !B!CDE + A!B!D!E + !AB!C!D!E + A!CD
+!A!B!D + !B + !C!D!E + !ABC!DE + !A!BCD!E + BCD + A!B!C!D!E + A!BC!D + !AB!C!D!E + B!D!E + !E + !ABCE
+C!D!E + AB!C!DE + !A!C + !AB!CDE + !C + !AB!C!D + !A!BCDE + ABCD!E
+CDE + DE + A!BE + !A!BC!DE + A!CD!E
+E + A!C!DE + BDE + A!BCD!E + B!E + !AC!DE + !BD!E + !BCD!E + A!B!C!E + !AC!D!E + A!B!C!D + !C!D
+A!BCDE + !C!D!E + B
+A + !A!DE + AB!C!E + C!D + ACE + !AE + !A!B!C!DE + !AB!C!D!E
+!A!CD + A!B!C!D!E + C!D + AB!C!DE + !ABDE + !A!C!E + !B + !ABC!DE + !A!B!C!DE + CD + A!BC!D!E
+!BE + !ABC!DE + AD + !B + !E + AB!C!D!E
+BC + ABE + B!D!E + B!E + A!B!CE + AB!D!E + !ABC + !AB!CD
+B!CDE + !A!E + A!BD!E + !BE + !AB + A + A!B!C!D!E + B!C!D!E
+D + B!C + DE + !A!B!CDE + A!B!C!DE + !D + !ACD!E + !C
+E + A!B!C!E + ACD + !A!B!C!DE + AC!E + AB + !A!B!E + AB!E + A!BC!DE + A!B!CD + !BD!E + !A!E
+A!BC!DE + AB!C!D!E + B!C + AD + D + A!B!D
+ADE + AB!C!D!E + A + !ABC!D!E + ACD!E + !AB!CD!E + D + !A!BC!D + !C + !BCD!E + E + !A!B
+C!E + !D!E + ABC!D + !A!DE + !DE + !A + AB!C!D!E
+!A!BE + AD + !B + B!C + !B!CE
+!BDE + !ABCD!E + !AB!C!D!E + !A!C!DE + AB!C!D!E + A!B!D!E + !CD + !A!BCE + !A!C!D + B!E + !B + ACDE
+BD!E + B!CDE + AB!CD!E + A + C
+BC!D + !A!CD + !AB!CDE + A!C!D!E + !A!B + !A!BD!E + A!E + !ABD!E + !E + !B
+!A!B!C!D!E + ABCD!E + !C + !A!B!E + A!BC!E + ACE
+!ABC!D!E + BCD + AC!DE + !B + !AB!C!D!E + !A!BC!D!E + A
+!A!BC!DE + A!CE + !AC!E + C!D + B + !AB!CD + !AB!CDE
+!AB!C!D!E + !ABD!E + ABCE + ABE + CDE + !A!C!E + !A + !BCD + AB + !D + !C!D + !B + AC + !A!BCD!E
+A!B!CDE + !ABCDE + !A!BC!D!E + !A!BDE + !AC + A + !B + A!B + !B!C!E + A!D + !A!BCDE + !E + !C
+!D + A!CD!E + !A!B!C!DE + BC + D + !A!BD!E + !A!BC!D!E + A!BCDE + !A!D + !C + CE + !A!B!C!D
+E + !AB!C!DE + !B!CE + !B!CDE + B!C!DE
+!A!BC!D!E + !AB!DE + ABCDE + !C!D + AB!C + BC!E
+BC!D!E + A!BC!D!E + A!C!D + !A!BC!DE + ABC!DE + AB!C!D!E + A!BC!D
+!C + C + AB!C!D
+A!B!DE + B!CD + !A!BCD!E + !AE + !AB!C!D + !B!CDE
+A!BC!D!E + !B!C!E + !ABE + !B + !ABC!D!E + C!D + !CE + !D + !ABCD!E + ABCD
+AB!C!D!E + !AB!D!E + A!E + A!BC + !B!CD + !B + !A!BDE + BD + BDE + ABCD!E + BCDE + !AB!E
+!B!C!D + B!CD + !D + !AB!DE + !C!D!E
+A!BC!D + A!B!DE + A!BCDE + !AC!D!E + A + C + A!BC
+!C!D + AB!DE + C + A!C!DE + !ABDE + ABC!E + !BCDE + !A!CE
+!A!BC + !A + AB!C!D!E + !A!B!DE + AB!CD + A!DE + !B + A!C + AC!D + !A!B!C!D!E + AD!E
+C + !ABD + !AB!CD!E + !A!B!CE + A!DE + ABCE
+!AC!D!E + !AC!E + A!BDE + B!C!E + !A!BD
+!ABC!D!E + ABC + A!BCDE + !E + BCD!E + E + A!B!C!DE + AC + ABC!D!E
+A!B!C + A!B!C!D + A + AD!E + A!D!E + !AD + B + D + A!D
+!A!BCD + AB!C!D!E + !BDE + !A!CD!E + !AE + A!C + !BCD!E + E + AB!D + A!B!C!DE + !ABCD + AC!DE + A!B
+BCD!E + !AC!D + B + D!E + !A!BC!D + E + !A!BCD!E + !E
+!A + AC + !BCD!E
+!AB!CDE + A + D + !B!C!D + !BD!E
+!E + !A!B!C + A!D + AB!CD!E + !AB!CD!E
+A!B!CDE + D + CD + !B!DE + !A!BCD!E + A!BD + !A!BC + E + B + C!D!E + D!E + !E + !A!BC!D!E
+!D!E + ABCE + B + B!CD + E + A!DE + CD!E + !A!B!C!E + BC!D!E + C + C!D + !ABCD!E + !AB!E + !ABE
+!AB!D + BCD!E + AC!D + !A!BC!D!E + C!D!E + A!B + A!BC!D + !A + !ABC!D + !C + BC!D!E + D + !C!D + AB
+!A + B + ABCE + !B!DE + C + A!B!CDE + A!BCD!E + !A!BC!D!E
+!C + B!E + E + !AD + !AB!E + !A!D!E + !A + ABC!D!E + !ABC!E + !AB!C!D!E + !A!C!E + A!B!C!DE
+B!E + B!C + C!D + C + !ABC!D + !BE + ABC!D!E + !A!BC!DE
+!ABCDE + B!CD + A!BCDE + C + !AC!D!E
+!CD + B + !A + AB!CD
+!C + A!BD!E + A!B!C!D!E + CD + !A!B!CD!E + !ABCD + E
+B!D!E + !A!B!C!DE + !C!DE + CDE + !AB!C!DE + B + A + BC!E + ABC!DE + !ABE + !ABC!D!E
+!ABCDE + !A!CE + !BCD + A!BE + !AB!C!D + !ABC!D!E + !B + A!B!E + A!BC!DE
+!AC + AB!C + A!BCE + DE + A!C + !B + A!BC!DE + ABC!D + !A!B!C + !E + !CD + ABCD!E + !B!D
+!E + AB!C!DE + !A!CD!E + A!BC!E + A!BD!E + B + !B + !A!C!DE + A!BCE
+A!BCDE + !B + !AE + !ABC!D!E + D + B!CD
+ABCD + A!B!CD!E + ABC!D + !BD!E + !CD!E + !A!BC!DE
+A + !A!BC!D + B!C + !C + !CDE
+!ABCDE + !ABD + !A!B!C!DE + A!B!C!D + C + D + AB!D!E + !BCD + A!B
+!CE + !A + !ABDE + C!DE + !CD!E + !ABCDE + !ABCD!E + !D + A!DE
+BC!D!E + A!C!D!E + A!D + !A!B
+A!BD!E + !AB!C!DE + !C!DE + !A!B + C + A!B!DE + ABCDE + !C
+!E + !AB!CDE + !BDE + !A + B!D!E + !A!BCD!E + !A!C!D!E + !A!D + A!B!C!E + ABD + ABCDE + !ABC!E
+!B!C!E + A!BC!D!E + A!BCD!E + BCD + C + !A!B!CD + CE + ABC!D!E + !C + !D + !ABCD!E + AB!C!DE
+A!B!C!D + BCD + A!BC + !ABC!D!E + !A!B!C!D!E + E + !ABCDE + AC!D + AC + !A!BC!D!E + !ABD + !C + A!D
+!BC!D!E + !AB!CDE + E + B!E + BE + AC!D!E + !AB!D + !A!BC!D!E + !BC!DE + CE + !A!C!D!E
+AD + AB!C!D + !A!B!CDE + !AB!CDE + !B + BC!D!E + D + B!D + !AB!CD!E + !B!D!E + !BC
+!BC!DE + B!E + !AB!CE + BD + ABC!D!E + A!B!CD!E + !E + A!BCD
+CE + !AB!C!D + !AB!C!DE + C + A!B!C!E + C!E + C!DE + A!B!CD + AD + !AC + !B!C + D + !B
+B!CD!E + !ADE + !A!B + A!B!C!D!E + A!BCE + A!B + ABCD!E + BCE
+ABD + C + !A!BC!D!E + D + !A!B!CD!E + !E
+!A!BC + !ABDE + !ABC!D + A!C + !BE + CE + !B!DE + CD + A!BD!E + ADE + !A!B!CD!E
+!CDE + B!CE + A!B!CD!E + A!BCDE + AC!E + !D!E + !ABCD!E + !AB!CD + !A!CD!E + !E + E + !AC!D + B!C
+A!BCD!E + !D + !A + A!B!CE + AB!C!DE + BC!E + A!B!C!DE + ABCD!E + AB!C!D!E
+A!C!D + !A!BCD!E + ACE + B!CD!E + !A!CE + C + !AC!D + BCD + A!B!C!D!E
+!A + AB + B!C!D!E + B
+!C!DE + AC!D!E + !ABDE
+!B!CE + E + !ABC!D!E + !C!DE + !B!C!DE + AB!C!DE + BDE + ABDE + A!DE + !D
+C!D!E + B + !B + !CD + A!BD!E + ABD
+!A!E + !A!BCD!E + ACD + A!D!E + !A!BCDE + !A!B!C!D!E
+!ABC!DE + ACD!E + A!B!C!DE + B!D!E + !ADE + BDE
+ABCDE + BC!D!E + AE + !B!CDE + !A!B!D!E + !ABC!D!E + E + BCDE
+A!BC!D + B + E + !B!D
+!A + C!DE + !ABC + !A!B!D!E + D + A!B!E + !A!B!C!DE + AD + !E
+E + !AE + C + !A!BC!DE + BCE + A!BCDE + A!CE + !C + B
+A!C!E + !B!E + !A!B!CD!E + !AB!CDE
+AB!CE + !A!BC + A!DE + B!E
+!AB!C!D!E + E + !B!CE + !A!BC!E + !C + !A!BDE + !B!D!E
+BDE + !AC!D!E + !AB!C!D + AC
+!AC!DE + !A + A!B + !AD!E + DE + !AB!CDE + B!C!E + B!C + !BCE + !E + !BDE + A!B!C!D
+!C!E + !A!BC + A!BC!D!E
+A!B!C!D + !DE + ABDE + !B!CE + C!D + AB
+!ACE + B!D + !C!D!E + AD!E + !E + !C!D + !A!C!E + !A!D + !ABC!D!E
+!AB!D + !A!B!C!DE + !B!CE
+B!D + AB!CE + !BE + !B!CD!E + ABC!DE + !B!CDE + A!B!D!E + A!E + !AB!C!DE + !E + !ACD + !D!E
+!A!E + A!BE + C!D
+!A!B!D!E + !A!BCDE + !A!BC!DE + !ACD!E + !A + !D + B!D + A + !AB!D!E + !ABCD
+ABC!D!E + CD + !ABD!E + B + A!B + ABD + !A!C!D!E
+A!BC!D!E + B + A!B + !A!BC!D!E + BC!E + C!D + BD + E + A!BD!E + A!BC + B!CD!E + !A!B!CD!E
+A!B!C!DE + AB + BD
+BCD + B!CD!E + !B!E + !A + !A!B!CDE + BD
+A!BC + !A!B!D + ACD
+!AB!CD!E + A!BC!D!E + !A!BE + AB!CDE + E + ACD + !A + BC + !AB!CDE + A!D + !A!C!D + CDE + !A!E
+A!B!CD!E + A!B!DE + A + !B!C + !AB!D + !AB!CDE + !A!BC + !A!B!C!D + !AD + A!B!D + A!B!C!DE + BDE + D
+!ABD + !C + D + CE + BD + !ACD!E + B!C + AB!CD!E + !A!B!CD + A
+!A!CD!E + !A!BCDE + AB!CDE + A!B!C!D + A!CDE + !A!B!CDE + !A!B!C!DE + !C + C + !A + !AC!D!E + A + AB!C!D!E
+!A + !A!D + BC!E + !ACE + !BD!E + !AC!DE + !D!E + !CD + !A!E
+ABCDE + !AB!CE + !D + CE + !AE
+A!B!CDE + A!D + A!BC!D!E + B!C + !ABC!E + !AB!CE + A!B!D + A!B + !AB!C!DE + A!C + !C + ABCD!E
+!AB!E + !A!CD + !A + !BCD + AB!E + B!DE
+A!B!C!DE + !A!D!E + AB!E + A!BCE + !E + AC!D!E + B!CD + AB!DE + A!CDE + A!B!CD!E + D!E + !AB!D + !AB!C!DE + !C
+AB!C!D + !AB!D!E + AC!D + ABC!D!E + !BC + !A!B!CD!E + !A!BC!D + !E + !A!B!CDE + ABCD!E + !ABC!D!E + !AB!C!D!E + B + !ACD!E
+!A + AB!CE + A!CDE + !A!BC!DE + B!E + A!D + A!E + AE
+!C + BCE + !ABE + !AB!CE
+!E + !ADE + C + !B!CD!E
+!A!B!CDE + A!BC!DE + !A!B!CD!E + !AE + !ABCD!E + !ABCE + B!C!DE + AB!CE + !A!BCDE + D + !A!BC!D + !ABC!D!E + AE
+!C!D + AB!CD!E + ABC!DE + !AD!E + !A!CD!E
+!A!B!C!DE + !BC!DE + !ACD!E + !AC + !C
+ABC!E + AB!D + BDE + !A!BCD!E + A!CDE + A!BDE + !ABC!D + A!BC!DE + !C!D!E + AB!C!DE + !A!D + A!E + D
+A!BCD + !B!CD + !ABC + !AD + !ABCD!E + !A!D + ABC!D
+!E + !A!B!C!DE + C!D!E + !B!D + !D
+!D + !AB!CE + BC!DE + A + !B!D + BCE + !B + ACDE
+ABC!DE + !AE + !A!BCDE + B!CD + A!BCD!E + !A!C!DE + !C!DE + A!C!D!E
+!ABC!D!E + BD + A!BCDE + !C!DE + !A!BCD!E + !AC + !B + BC + A!E + AB!CD!E + A!B!C!D!E
+!E + !ABD + !A!BC + !BD + A + BCD + D!E + A!BC!E
+!BD + !A!B!E + BC!E + !A!B!CD!E
+AE + !CD!E + AC!D!E + !C!E + !AB!CDE + !CDE + !A!BC + E + BD!E + AB!D
+!A!B!CDE + A + A!B!CDE + CD + DE + !ACD + D!E + !A!B!CE + !B + !A!BC!D
+!A!B!C!DE + !A!B!CE + DE + B!C!DE
+!C!E + A!BD + !B!C + !ADE + AB!D!E + ACDE + !BDE + A!BCE + !AB!D!E + !E + A + BE + BCE
+!A + !B!E + !D + D + AB!CDE + AB + A!B!CD + A!CD + AB!D + !A!BD!E + ABC!E + A!BCE + ABD
+!BC + !BCD + !D + A!B!C!E + !B + A!C!D!E + A!B!C + ABCDE + !A!B!CE + B!C!D + E
+!AC!D!E + !B + !AB!D!E + !A!B!CD!E + A + !C!DE + E
+D + A!E + B!C!DE + !AC + A!BCD + A!B!C!D + !ADE
+!AB!C!DE + !A!B!CDE + A!BE + C!E + !A!C + !C
+!AB!C!D + !AB!CD!E + B + !AC!DE + !A!BCDE + CD!E + A!B!DE
+B + !A!BC!DE + A!B!CD!E + AC!D + A!B!C!DE + ABC!D!E + !A!BC!E + !A!CE + !CD!E + !A!BD!E + BCDE + ABCD!E + !AB!DE
+!A!BCD!E + !ABCDE + !AB!C!DE
+A!CD + E + B + !A + !A!CDE + AC + !BDE
+A!B!CE + !AB!CD + !A + !AB + ABCDE + !AC!E + !B!C + !BE + A!BCE + ABD + !ABC!DE + !ABCDE
+!A!BCE + !D!E + !CD + !A!BCD
+!A + A!D + A!B!C!D!E + AE + D
+AB + !C + !D + !AE + BC!DE + A!B!C!DE + A!B!D!E
+!B!C + !B + A!B!CD!E + !AD + !A!B!CDE + AB!C!DE + !A!C + B!CDE + !C!DE + C!D!E
+!C!D + ABDE + AB!CDE + !ABCD + B!C!DE + AB!CD!E + !A!BCDE + !B!D + A!E + AB!C + !AD
+D + !E + B!CD!E + !ABE + C + !AB!C!D
+BCD!E + ACDE + A!B!C!DE + C!E + !D + BD!E + !A!B!E + A!BCDE + !E
+CE + !A!D + A + !ABC!DE + !A + A!DE + B + !B!CD!E + !BE + A!CE + A!B!C!DE
+AD + B!E + !E
+B!CDE + A!BCE + !AC + E + C + B!C!E + !A!BCDE + !ABCDE + !ADE + !ABDE
+!D + B!CD!E + !A!BCD!E + B!E + E + !ABC!E + !AB!C!DE + A + !BE + C!E + !ACE + !C!DE
+!AB!C!DE + CD + A + A!B!CD!E + AB!CD + !B!CD!E + AE
+A!D + AB!C!DE + ACD!E + !A!C + !A!BC!D!E + !AC!D + !B!C!D + AB!C!D!E + !D!E + C + E
+!C + A!DE + !A!BE + !A!B!CDE + !CDE + !A!BCDE + !D
+A!D + E + !A!CD + !D + AD!E + !BCD + A!E + A + C + !B + AB!CD + A!C!D!E + !B!C!E
+!CD!E + !ABDE + !E + A!CDE + !B!E + BD + C!E + !A!BC!D + !A!B!C!D
+E + !CE + !A!C
+C!D!E + A!D!E + E + AB!D + !AB!C + !A!B!C!D!E + DE
+!AD + !ABCD!E + A!C!D!E
+!ABD + AB + !ABCDE + !ACDE
+!ABCDE + !AB!CE + !A!B!E + !AB!E + BE
+!B!CD!E + A!BDE + CE + !B + D
+!AD!E + D + A!C!DE + BCD!E + !A!BCD + !AB!C!DE + A!CD + !A!BCDE + !A!B + AD + !A!B!C!DE
+!B!CDE + !AB!E + !AB!C!D + !ABCD!E + !A!B + !C + !AB!C!D!E + B!C
+!AB!CD + A + !B!E + !B!CDE + BC + E + !BC!E + ABC!D + C + !A!B!CD!E + !AC!E + !BC!D
+B!D!E + AC + ABDE + !B + !A!B!C!D + B!D + !AC + B!C!DE
+A!B + !B!CD!E + A!CDE + !A!B!C!D!E + A!B!D!E + BDE
+B + C + !C + ABCD!E + C!D!E + !AB!C!E + !A!CE + !BCE + !A!B!CDE + !CD
+E + !B!C!DE + A!B!C!D + !A!C!D!E + AB!DE + A!BCD!E + !E + A!B!D + A
+D!E + !D!E + !B + AD + AB!CDE + !A!B!D + !AB!E
+B + A!B!D + !A!BCD!E + !C + A + BC!D!E + !BCE
+E + A!C + !A!BCE + B + ABCD!E + !AC!D!E + C!D!E + A!BC + ABC!D!E + !AB!CD!E + !A!BC!DE + !AE
+ABC + !BDE + !A + !BC!D!E + !AB!C!DE + B + AB!CDE + AB!C!D!E + B!E + !A!C!D
+B!CD!E + !AB!C!DE + !A!B!C!DE + C + A!D!E + AC!DE + !D + !BE + !ABCDE
+!B!CDE + !A!BD!E + !A + !ABC!D!E + AB!CD!E + !ACDE + A + D + A!B!C!DE
+ACDE + !BC!D!E + BD + !A
+C + !B!C + D + !ABC!D!E
+!ABC!D!E + ACD + !A!CDE + CD!E + A
+BDE + AB!CD + !CD!E + BCD + !A!BCD!E
+AC + B + !ABCDE + !A!BC!D!E + !AB!D + AB!D + A!CD!E + AB!D!E + A!BC!D!E + !A!B!C + !CDE + !CD!E
+!ACD + !D + !B + !A!B!C!D!E + !AB!C!D!E + !A!B!D + !A
+A!DE + B!C!D!E + !BCD!E + A!E + AB!CDE + B + A!C + !B!E + !ABCDE + AB!C!D!E + !A!BCDE + !BCD + !AB!CD
+E + !ABCD!E + B!C + A!C!DE + !B!C!D + BD + A!B!C!D!E + !B
+!D + !A + !AB!C!D!E + !B!D + !CD + B!DE + A!BCD + AB!CDE + B!C!DE + !C + !AB!C!D + !C!D!E + ABDE
+A!CD!E + B!C!D!E + A!B!CDE + B + !A!CE + C!E
+B!C!DE + A!C!D + !A!B!CDE + A!BC!DE + ABC!DE + !A!BDE + BCE + AC!DE + AD + C + !B!C!D + A!B!C!D!E + AE
+C + !A!BD + !D + E + !AB!CE + AB!C!DE + !B!C + !A!B!C!D + A!B!D!E + A!B!CDE + !A!CDE + !ABC!D!E + !A!C!E + A!BCDE
+!AB!C!D + !AB + C + A!BC!D!E + !C + A!B!CDE + !ABC + ABC!DE + A!BCDE + A!B
+!D + !ABC!D + !CD
+ACD + !A!CE + D
+!CE + !ABCE + !AC!DE + A!BDE + !A!C!DE + A!BC!D + !AB!C!D!E + ABC!D + !ACD + A!B!C + !C!DE + C!DE + AB!E
+!A!B!DE + !CD!E + !AE + !A!DE + A!BCD!E + B + !AB!D + AC!DE + AB!C!D + !A!E + !D!E + !A!D
+!ABE + A!B!E + B!C + ABCD + !A!B!C!DE + !AB + A!BC!DE + D + !BC!E
+!C!E + !D!E + ACE + !ADE + !CD + !E + !A + BC
+AB!C!DE + C!D + !ABC!DE + BC + !ABCE + !A + !ABCD!E + !AB!CE
+A!B!C + C!D + !A!B!CDE + BC + AC + !A!B!C!E + !CD!E + AB!CD!E + C!DE + !AB!CD!E + BDE + BE + !AE
+!E + !BC!E + A!BCDE
+C + !ABDE + A!BCE + !C!DE + !A!B!CDE + !CDE + !BCDE + !A + A!D!E
+B!C!DE + BE + AB!C!DE + !DE + A!D!E + !A!D!E + AC!D!E + !B!DE + !BC + A!B + AD + !D + A!C!D
+A + D + !A!B!C!DE + !B!C + BCE + !AC
+!AB!C + !AE + !AB!DE + CD + !A!B!CD!E + !AB!CD!E + A!B + AB + D
+AC!E + !D + ABCDE + AB!C!E + !ABC!D!E + !A!BC!D + !A!C + C + !ABE + !ABC!D
+ACD!E + !A!CDE + B + CD + !B!E
+!A!B!D!E + B!E + !BD!E + !C
+D!E + A!BC + AB!C!D + !A + !ACE + !C!E + ABC!D!E + !B + !AB!C
+BC!DE + A!BD!E + D + !AB!C!DE + AB!CDE + ABCDE + !A!B!C!D
+A!BCD!E + !A!B!C!D!E + !ABC!DE + !AB!CDE + !A!BC!DE + AB!C!DE + A!BC + CE + D + !A!B
+C + !A!B!D + !C!D + !A!BD
+AB!C!D!E + AB!CD + !B!C + B + !A!DE + !C!D!E
+A!C!DE + !BC!DE + B + !ABCD!E + !D!E + AC!D!E + !ABCE + !BDE + !BE + CD + A!BE
+A!BCD + BD + ABC!D!E + !AC + !AB!C!DE + !B!DE + C!D!E + !AC!DE + AD!E
+AB!DE + A!B + !AB!CE + AB!CDE + !A!D + !AB!CD!E + !A!B!CDE + !A!BCE + BCD!E + !A!BE + !ABCDE + A!BCD!E
+!BC!E + !D + !ABC!D!E + !D!E + !AE
+B + !ABD + !A + AB!C + !A!BC!D + A!B!C!D!E + AB!E + A + A!BCDE + !A!BCD!E + !B!D
+!A!B!C!D!E + !A!C + !B + !A!B!CD!E + !BC!E + AD + !BDE
+AB!D + !E + E + A!D!E + C + !D!E + A!B!C!D!E + !ABC!D!E + !A!B!C!D!E + A + !A!B!C + !A!BCDE + !CE
+A!BCDE + !C + B!D!E + C + A + !A
+E + !ABCE + !D + !BCD + A + !AC!D!E
+!BD!E + A!D + !BC!DE + !BC + ABCD!E + !C!D!E + E + !DE + A!B!C!DE + AB!C!DE + !ACD + !C + BC!D!E
+!CD + !ACDE + !B + C!E + E + !AB!CDE + !B!C + !A!C!D + !E + AC!D!E
+!AB + A!E + !A!B!D + !ABCDE + !D + !C!D + A
+A!BCDE + !E + !ABCD!E + !AB!C!D + !AD!E + !AB!C!E + !AB!C!D!E + AB!C!DE + ABC!E
+AB!C!D!E + !A + !ABC + A!BC!D!E + !B!CDE + AB!D!E + ABCD!E + A!BCD!E + !B + !C + E + AC!E + A!B!C!D!E
+A!B + BC + BE + !A + A!BCDE + !A!C!E + AB!D!E + A!CD!E + !BC!DE + !A!BCD!E + !AB!E
+A!BC!DE + C!E + !C!E + E + ABC!DE + BD + !E + !C!D!E
+B!C!D!E + B + B!D + !AB!CD + BC!D!E + A!BCD!E + !BC
+!CD + !BC!D!E + !A!BC!D
+!AC + !CD!E + !C + !A!BE + BC!D!E + A!B!D!E + !A!BCDE + A!CD!E + AE + A + BD + !A!BCD
+B!C + E + A!D + !AB!C + AD!E + B!E + AB!CDE + !ABDE + !A!BCDE + ACE + A!BCD!E + AE
+!E + B!E + ABC!D!E + A!BC!DE
+!ABDE + D + !AB + CD + ABC!D + !A!BD!E + BCE + A!CE + !ADE + A!B
+D + !AC!E + !A + B + AB!C!D!E + !AB!D + AB!CDE + !D
+AB!C!DE + A!B!CD!E + !A!BC!D!E + !A!D + BD!E + A!B!C + !A!B!D!E + A!B!CDE + AB!C
+A!B + CD!E + !A!BC!D!E
+D + AB!D + ABC!D!E
+A!C!E + !AE + A!BCDE + !B!D + B + !A!B!CDE + !C + A!BC!D!E
+!A!B!C!DE + !ABCD!E + !A!B!CD + !AE + !A!B!CDE + A!B!C!DE + C + !ABC!E + AB!C!DE + B + D!E + BC!D!E
+!AB!C!DE + C + A!E + A!BCD
+!AD + BC + !A!B!CD
+!ABC + !A!B!CD!E + !AD + !A!C!D + A!B!CDE + ABCDE + !E + AB!D
+ABCD!E + !A!B!D + !A!B!CD!E + A!BCD!E + CE + !BE + AC + ABC!DE + !A!B!C!D!E
+!D + !B!C!D + !AB!D!E + AB!C!D!E + AC + !A!B!CDE + A!BCD!E + !AB!CD!E + !BDE + !A!CD + !BC
+CD + !AB!C!DE + !C + ABCD!E + A!BCDE + AC + !AB!C!D!E + !A!B!CE + AB!C!DE
+AB!CDE + !A!B!CDE + A!DE + D!E + !A!CDE + ABCD!E + !B!DE + CD + B!D!E
+!B!C!D!E + A!B!D + A!B!DE + !CE + A + !A!B!C!DE + !A!B!C!D + !B!C!E + C + !B!C!D + !AB!C!D!E
+!A!D + A!BCE + AD
+!A!BC!DE + BC + AD + !A
+D!E + BCD!E + !AD!E + !AC + !A + !B + !A!BC!D!E + !CDE + BCE + !BE + !A!E + E + !A!BC!DE + A!BC!D!E
+!DE + BC!D + A!B!CD + !A + BC + C!DE + !C!D!E + !A!C + AB!C!D!E + A!B!CD!E + !A!BC!DE
+!AB!CE + BC!E + A + AC!E + !A!BC!DE + !ABC!D + !ABC!D!E + !D!E + !CDE + !AC!D + D + AB!CDE + B!CDE
+A!B!C + !ABD + !ACD
+A!BD + !A!BC!E + CD + AB!C!D + !A!B!C + A!BC!D + A!B!CDE + !ACE + ABDE + AB!C!D!E + B!CDE + !D
+!BD!E + A + !B!C!DE + D + !ABC!DE + AB!CDE + A!BD!E + B
+ABCDE + D + !BC + !B!C!DE + ABC!DE + !A!BC!DE + !AB!E + !BC!DE + ABCD!E + A!C!E + A!BCD!E + !A!E
+!BD + AD + !ABCD + AB!CE + A!C + A!C!D!E + B!D + !A!BC!D!E + !A!B!D!E + AB!E + !A!C + D + BC!D!E
+A!CDE + !CE + AB!C!D + !A!B!CD!E + D + B!D + !BCD + !BDE + !CDE + !A!C + !B!D + !AB!CE
+AC + !AD + !CD + !A!C!D + ABCDE + CD!E + !A!BC!D + A!BCD + B + !AB + !A + ABCD!E
+C!D!E + CDE + AB!CDE + D + A!BCD!E
+!ACE + C!D + ABC + A!B!DE + !C + !B!E + !AB!C!D!E + A!BCDE + !A!CDE + CE + !AB!CD!E
+B!CE + !E + !A!C + A!C!D + A!E
+A!B!CD + !BCDE + !A!CDE + ABDE + !AB!CD!E + AB!C!DE + A!B!C!D!E + AB!D + B!C + AC!D!E + AB!CDE + AE
+C + BCD + B!CD + BE + !A!BCDE + AB!E + !B + !A!BC + A!B!C!D!E + A!BCD!E + !ABC!DE + ACD + A!CD + E
+!B + E + AC!E + DE + !CD + !ABC!E + !C!DE + !BD
+E + !CD + AC!D + ABC!D!E + BCD!E + A!D + !B!C!E + D!E + !ABC!D!E + C
+!A!B!C + D + !B!C!DE + !AB!CD!E
+!AB!CD!E + BE + A!CE + E + !A!BCD + !D + B + C!DE + !AB!CD + !B!C + AB!CDE
+!ABC!DE + A!C!E + A!CE + !A!C!D + !A!BCD!E + AB
+B + !ABCD!E + E
+D + !AB!CDE + A!BD!E + !B!CD + BC!D!E + A + !C!D + ACDE + !B + !D + ABC!DE + !AB!CE + !CD
+A!B!C!E + C!D!E + AB!C!D!E + C!D + !A!DE + !A!B!C!D!E + C
+!A!C + !BC!D + A!BC!D!E + E + D + ABC!E + !B!CDE
+A!B!C!D!E + !ABDE + !AB!CDE + !C!E + !C!D!E + !B!CDE + !A!CD!E + A!BC!D!E + B!E + B + A!B!DE
+!AC!E + !ABC!D!E + !A!CD + AB!C!E + E + !D
+!A!BC!DE + C!D!E + ABC!DE + !B!CE + A!B!D + !A!B!C + !A!BD
+C!DE + ABC!E + AB!C!DE + C + !A!B!C!DE + AB!C!D!E + BC!D + E + ABC!D!E + !A!B!CDE + AE + C!D + !BC!D
+!AD!E + !B!C + E
+!A!B!E + !A + !D + A + A!B!CDE + !ABC!DE + !BCDE + !A!BDE + !ACD + AC + E
+BE + B!C + !AB!D!E + ABC!DE + !ABD!E + !AB!C!D!E + !BDE + !A + !BC!E + !A!B!CDE
+A!BCE + !ABC!DE + !B!C!E + ABC!D + !AC + ABCD + C + !ABCD + D + AB!E + A!E
+!A + AB + !ABC!D + !B!C!DE + !B!D!E + !AB!CDE + A!D!E
+!A!C + !ABD + CE + A!B + !ACD + B!CD!E + !BC!D
+!BCD!E + !E + AB!DE + !ABC!D!E
+A!BC!DE + B + !ACD!E + BCD + !B!DE + AB + !A!BCE
+B + AB!DE + B!CE + !ABCD!E + !D + !ABCE + !DE + A!B!CD!E + BC!D!E + AC!DE + CE + B!CD!E + !B
+AB!CDE + AB!C!DE + A!BE + !A!BCDE + AB + !BDE + !ABC!D + !ACE + !A!BDE
+A!BC!D + !ACDE + !B!DE + !E + !A!CDE + BCD
+B + !ABC!D + AE + !D + AB!CD!E + !A!BE + A!C!E + !A!C!E + A!BCD!E + !ABCDE + AB!C!D + !E + !A!C
+ABC!D!E + !AB!DE + AB!C!D!E + !AB!CD!E
+B + !D + !BE + C!D + A!BD!E + !B + !ACDE + !AE
+ACD!E + C!E + A!B!D!E + ABCD + !B!C!D!E + C + A!B!C!D!E + A!BC + A + !AB!C!E
+A!B!CD!E + !C + !C!E + !ACD + A!B + !A!BCDE + A!D + !C!D + AB!CDE + !BCD + !ABCD + !AB + !B!DE
+A!B!C!E + ABCE + A + !B!CE + B!CD!E + !C!D + AB!C + A!B!CD!E + A!B!E + !A!BC!D + !A!B!CD + !D
+A + BC!D!E + !A!C + !CD + B!CDE + !B!DE + !AC!D!E + A!BD + !A + !ABCD!E + !A!C!D!E + BE
+!A!B!CE + !A!C!E + A!B!E
+B!D + A!C + BCD + !BCE
+!ABE + C + ABCD!E + !A!B!C + A!B!C!D!E + A!BC!D + !E
+ABD + D + !D + !A!BCE + A!BC!D!E + AB!CDE
+A!D + !A + !D + D + !CE
+!A!BC!DE + !A!D + !B + !E + E + A!BDE + A!DE + !C + ABC!D!E
+!A!BC!DE + A!BCDE + A!B!E + !A!B!CDE + !C + !A!B!C!D!E + B!E + !A!BCDE + C + !B!CDE + !BE
+C!D + B!C!D + A!B!C!DE + AD + DE + BCDE + ABE + BE + ABCD!E + !A!B!C!D!E
+A!B!C!DE + !BC + AB!CD!E
+!AB!C!D!E + !B!CD!E + !A!B!CDE + ABC!DE + !BCE + !BE + A!B!CDE + A!CDE + !AC!E + AB!D!E
+!A!B!D + !B!E + !ABC + !BE + ACDE + !C!DE + !B!C!D!E + !A!BC!DE
+!A!C!DE + AB!CE + !AB!DE + !C + !A!BCDE + BCE + DE + !A!B!C!DE + !A!B!C!D!E + C
+B!D + !A!B!CDE + !CD!E
+DE + !D + !ABCD + A!D + !A!B!C!E + !B!D!E + CD + !ABC!D + A!B!C!D
+!A!CD!E + !A!BCDE + !ABC!D + !ABC + !A!CE + !A!BC!DE + !D + AB!CD + !A!CDE
+A!BC!D + BC + BE
+A!B!CE + BCD!E + CDE + !A + ABCD!E + A + B!CD!E + !B!C!D + !ACD + !B!D + AB!C!D + !A!B!C!D + !C
+DE + C!E + !A!B!CDE + D + ABD + C + !B + !B!DE
+A!B!D!E + !A!B!CD!E + ABC!D + ACD + AB!CD!E
+E + ABE + C!D + !A!BCD!E + !A + !BC!E + !ABCDE + B!D
+A!CE + ABC!D!E + C!D + !B!CD + !AB!C + !BCD!E + !B + A!CD!E
+!A!B!CD!E + !A!BC!E + A + A!C!DE + !A!BC!DE + ABD!E + !CD!E + !ACD!E + !B!D!E + !ACDE + !A!B!C!D
+AC!D!E + A!BC!DE + !A!CD + BCDE + A!B!C!DE + !E + A!B!CDE + ABCD!E + E + !B!C!D + AC!DE + !A
+!AB!CD + !D + !AB!DE + C!E + D + !AE + E + A + ABCD!E + B!CD!E + BCD
+ABCDE + E + !C + BC + AB!C!D!E + AE + ABCE + A + !D + !AB!C!D!E + B!DE + ABC!DE
+BCD!E + !BE + B!D
+!A + B + !A!B!CDE + BE + !A!BE + A!D!E + E + !A!BCDE
+!ADE + AE + !AB!CDE + B
+!E + A!BCD + AB + !C!DE + A!BCDE + BC!E + A!B!C!D!E + A!BD + !A!BCDE + !D!E + AC!D!E + A!B!C!DE + B + B!CD
+!D + !CD + ABCDE + AB!CDE + !E + A!BC!D!E + !B + BC + A!BC!DE + AC!D!E + !A!C + AD!E + A!D
+!ACD + !C + !B + BC!D!E + D + !ABCD + !ABCD!E + ABC
+!BE + AC!D + A!B!C!E + !A!B!CD!E + ACD + !A!C!E + !BD + A!B!E + !ABE + !A!B!CDE + ABDE + !A!BC!DE + !B
+AB!DE + !A!DE + !E + A!B!CE
+C!D!E + !A!BC!D!E + !A!B!C!D + BC + A!BCD + !D + AD
+!C + AB!E + !BC!D + !AB!C!DE + ABDE + !ABC!D!E + ABC!D!E + ABC!E + D + !A!C!E + AB!DE
+C + !B!C!D + AB!D + !BC!DE + !D + !ABE + A!BC!DE + A + CE + !B!E + B!E + A!C + !AB!E
+A + !A!B + A!C!DE + !B!C!E + !AB!E + !AB!C!E + !ABC!D!E
+!ABC!D!E + ABCD!E + !AC!D!E + !ABCD + A!B!CD
+B!E + !AD!E + ABCD + A!BD + !C!E + AB!C!D!E
+AB!C + !ABCDE + A!BD!E + !A!B!CE + C + ABE + A!B!CD!E + !A!D + AC!D + A!BCE
+!A!BCDE + AB!CD!E + !AB!C!D + B!CDE + !DE + A!BC!D + B!CD!E + E + !A!B!C!DE + A!B!DE + AE + !AB!CDE + !A!BC!DE
+!B + BC!D + !B!C + !A!B!DE + !B!CD!E + !AD
+!AB + BCD + !AB!D + !A!CD
+CD + B!CE + !ABC!DE + !AB!C + AC!D!E + !B + !A!C + !AE
+C!E + !A!B!CE + !AB!CD + A!CD + !ABC + AC!D + !B + !BD!E + B + C!D + A!BD!E + !D
+A!B!CD!E + A!BD!E + !A!B!CDE + ABC!D!E + A!C!D + !B!D!E + !ABCDE + !A!BC!D + !A!DE + !D
+!ABE + A + A!B!CE + !B!E + !D
+!E + !BD + !AE + !A + !A!BE + !D + B + A!B!D
+A!D + E + BCD + C!D!E + ABCD!E + !B!C!D!E + BCDE + AB
+!C + !BCD!E + !A!C
+BC!D + !A!C!E + D + !A!B!C!DE + A + !B!CE + !B + A!B
+ABDE + !A!BC!DE + AB + !A!BE + !A + !A!B!C!D!E + !C + !E + BCD + !AC!E + !D
+!AB!C!DE + !AC!DE + !A!B!C!E + !A!BC!D!E + BD + B + !ABCD!E + A!BC!D + !A!BC!DE + !B
+ABCD!E + !A!B!CD!E + A!BCD!E
+!D!E + A!E + A!BC!D!E + !ABCD!E + !AB!C + !B!D!E + !C + ABCD!E + D + A!CDE + !ABC!D!E
+!CE + !C!DE + B!D!E + !D + !BC!D!E + !A!C
+AC!E + !ABD!E + !B!CDE + !A!BE + E + !A!C!D!E + !BE + !B!C!D + !A + B!CE
+ABE + !C!D + !AB!CD!E + !C!DE + ABC + !A!B!E + !E + !C
+E + !A!BDE + !AB!CDE + !A!B!CDE + !B!C
+!A!B!C!D + ABC!DE + B + !AB + AB!D
+CE + !BD + AB + !D + !AC!E + BC + !A!BCD!E + AE + !A + !AB!C!E
+BCD + !C!D + !A!BD + !ABC!D!E + !AB!CD!E + A!E + E + !C
+A!CE + !A!B!C!DE + !A!CDE + !AB + D + !C + A!BC!E + !B + !D!E
+!A!B!C!DE + !AB!C!E + AB!C!D!E + !A!B!E + !B + A + A!BCE + A!B!E + BE + C!E
+C + B + !ABC!D + B!CD
+!C!E + A!CDE + !ACE + !C + B + !A!BC!DE + E
+ABC!E + !A!BE + !A + A!BC!DE + !A!B!C!DE + !B!C!D!E + !A!C!DE + B!D
+C + AB!DE + !A!BC!E + ABCD!E + !ABCDE + !B!C!DE + !A!E + !A!D + A!D + A!B!CD!E + ACD + AB!C!D!E + !ADE + !A
+!C + AB!C!E + A + !A!B
+!A!B!C!D!E + E + !A + C + !B!C
+A!BDE + D + BCE + A!B!DE + C + !A!BC!D!E + ABC!E + ABD!E
+!B + C + !AC!E + !ABC!D + D + BC!DE + !AB!C!D + A!C!DE + !BC + C!D + !ABC!DE
+!B + !C + !CE + A!CD
+!BC!D + AC + !CD + A!C + !AC!D + !B!E + AB + !E + A!B!CD!E + !A!B!C!D + !CE
+A!CD + AB!E + !ABD!E + B!CD!E + AC + !ABCDE + B!C + A!BDE + !A!BDE + AB!C!D!E + B!DE + B + !AB!C!D!E
+!B!CDE + BCD!E + !AB!CDE + A!BC!D + !ABD + !D + !B!C + !A!B + A!B!C + AC!DE + ACDE + D
+!A + C!E + !B!C!D + BDE + !C + !E + !AE + !A!B!C!D + !A!D + !AB!D + A!BC!E + !A!B!CDE + !ACE
+BC + A!BC!D!E + !A!B + !D + !BC!D!E + A!B!CDE + AB!CDE + B + !C + A!B!C + ABCD + BD
+!E + !B + !D!E + ABC!D!E + ABCE + !A!C!DE + !A + B!D!E + !ACE + !BD
+!AB!CD!E + !A!BCD!E + !B!CE + A!B!C!DE + B!C!D + B!D + A!BC!D!E + DE + !BC!DE + !A!CD!E + A!CDE
+A!B + A + !B!C + E + AB!CDE + !ABC!DE + !ABC!D!E + !AC + A!B!C!DE + C + !A!B!C!DE + A!BCD!E
+A!B + !C!E + !C + !A!E + !A!BC!D!E + !A!BCD!E + !AD!E + !A!BD!E + !A
+!AC!E + C!D + !AC + A!BCD + A!CD!E + D!E + !B!D + !A + !A!BC!DE
+!BD + !C + !A!BC!DE + !E + A + ABCDE + B!C
+A!B!C!DE + !A!BC!D!E + !AB!CD!E + !A!D!E + !B!CD!E + !A!BD!E + !B!D!E + !CD
+A + !A!BCD!E + A!B!C!D!E + AB!D + BCD + AC + A!BCD!E + !E + A!CD
+AB!C!DE + C + !E + A!BC!DE
+!A!CE + AD!E + !ABC!DE + A!B!CD
+A!B!E + DE + !A + A!D!E
+A!B!E + !C!D!E + A + A!CD + !ABCD + C!D!E + E + !BC!D!E + AB!C!D + A!C!E
+AC + !A!B!C!D!E + !CDE
+!D + AB!CDE + A!CD!E + A!C!E + !B!C + A!BD!E + AB!C!DE
+!CD + !D + !ABC!E
+A!B!CE + !A!BCDE + A!BD!E + C + !B!CD!E + !A + CD!E + A!C!D!E + !ABC!DE
+BD!E + !A!BCE + !B!E + A!BCDE + AB + B + !ABC!DE + !A!B!C!DE + !B!CE
+AB!CD!E + A!B!D + !A!B!C + !D + A!B!C!D!E + !AC + D + B!C!DE + !AB!CDE + !A!B!CD!E + AB!CE
+!AB!C!D + BD!E + AD!E + CD + !A!BC + !AB + !AD + C + BE
+!A!BCD + ABC!D!E + !A + !B!E + ACD!E + A!B + D
+!A!BD + DE + A + AD + ABCDE + BC!E + !BC!E + !C + !ABC!E + A!BC!DE
+!ABD!E + !AB!CDE + A!CD + BC + !AD
+A!B!D + !A!B!CD + !D + !B + B!DE + AB!C!D!E + AB!CDE + AB!CD + !ABCDE + !ABDE + !A + !A!C + AB!DE + !AC
+CE + !ABCE + !D + !B + !AC!DE + A!B!CE + !A!BC!DE + !A!BD + ABC!DE + !A!B!C!DE
+C + C!E + !E + BD!E + !A!BCE
+A + !A + A!BC!D!E + !CE + !E + B + !C!DE + BDE
+AB!C + !ABC + A!C + !AB!CD + D + !AC!D + !A!BCDE
+C + D + !A!B!CE
+A!B!CD + AB!C!E + A + !A + !A!C + D + !ABC + A!BCDE + A!C + E + !AB!CD
+BCDE + BD!E + AB!CD!E + !AD!E + AB!D!E + E
+!A!BCDE + !ACD!E + AB!C!DE + !B + !C!D + !E + AB!CDE + AB!C!D
+!A!B!C!D!E + D + C!D!E + !AB!DE + !ABCE + B + A!E + A!B!CD!E + !AB!CDE + !CE
+AB!C!E + !E + !BD + !A!B!D!E + A!BCDE + A!D + B!C!DE + B!C!D!E + B
+!A + CD!E + !C + CD + A!BE + B + A!BC + ACD!E + BC!DE + C + A!B!CE + A!BC!D!E + AB!CDE
+!C + D!E + AE + !BC!D + ABCDE + !B!E + ACD!E + AB!C!DE + !A!C!D + AB!DE + ABDE + !E + !A!B + B
+!B!D!E + BE + !ABC + B!C!E + AB!CD!E + C + AB!C!D!E + !ABC!D + AB!C!E + !E
+!CD + DE + ABCDE + A!DE + A!B!C!D!E + !ABC + A!B!D!E + A!B!C!E
+!A!BE + ACD + !A!CD + ACE + !C!D + A!BCDE + !BDE
+D!E + !D + ABCDE + ABC!D!E + AB
+!ABC!D!E + !A!D!E + !A!B + !A!C!D!E + !AE + BD!E + !AB!D
+ACE + AE + B!CD!E + C + !A!B!C!DE + E + !A + !A!DE + !E + A!B!C!E + BDE
+!ABCD!E + !ABC + A!CD + !A!B!C!D!E + A + !DE + !CE + AC!E + !A!BD!E + !A!BC!D + !E + D + !ACDE + A!B!D!E
+!A!CD!E + !AB!C!DE + !AC + BE + !BC!D!E + C + !A + !B!D + BC!D!E
+!B + !BD!E + AE + A!E + !A!BE
+!B + A!B!C!D!E + !A!CE + !D + !B!CD!E + !B!E + A + D!E + !A!B!CDE + A!DE + CD
+!E + AB!C!D + !D + AB!C + !A!C!D!E + B!D
+!B + !A!BE + C + BCE + !ABE + !B!C + !A!B!C + !E + A!B!C!D!E + AC!DE
+B!C!D + !A!BC!DE + ACD + !A!B!E + AC!D!E + !ABCD!E + D
+B!D + CE + !E + C!D + BE + !AB!C!DE + AB!CD
+C + !AC!D + A!B!C!E + !A!DE
+DE + BCD!E + B + !A!B!CE + ABCD + !BCDE + E + !B!CDE + AB + !C!D!E + D + !A!BCD!E + !C + !A!B!CDE
+!A!B!C!D!E + B!C + A!BC!D!E + CE
+!A + !ABC!D!E + A!BCD!E + A!C + ABC!D + !AB + !E + B + !A!B!C!D!E + A!BD + !BC + AB!D
+E + AB!E + CD
+A!B!C!DE + AB + !BC!E + A!C + A!BD + B + !A!B!CD + A!CDE + C!D + D
+!ABC!DE + !A!B!CDE + B!C!DE + A!B!C!D!E + !ABCDE + BCE + A!BC!D + D + C + A!B!C!E + !A!B + AB!CDE + !C
+!A!B!D + C!E + D + !A!B!C!E + !D + !AD + !A!C
+!A!B!CD + C + AC!E
+ABE + !E + !AB!DE + B!C!DE
+AC!D!E + AC + !E + C!E + !A!BC + !A!BC!DE + A!C!E + CE + !A!B!C + !B!C!D!E + A!BC!D!E + ABCD + B + !D!E
+A!CD + !ABC!DE + !AB!CE + A + !D!E + A!BCDE + C + D + !A!BDE + A!D!E
+A!BC!DE + ABC!D!E + B!DE + A!B!D
+!AD + !CD + AB!C!D + !ABC!DE + D + !A!CE + !B!DE + ABD + !A!B!C!DE + A!C!D + !BCD!E + A!BCDE
+C + A!B!C!DE + A!B!C + A!BC!D!E + !ABCD!E + !ACD!E + !A!CD + BC!DE + !AC!DE + !AB!D!E + !A
+!A!BD!E + ACD + C
+!B!E + !ACD + !A!C!E + !D!E + AC + !C + AB!C!DE + !ABCD + E + C + !A!BD
+!C + !E + !D + B + CD + !B!CE + !B!DE + A!B!C!D + AB!CDE + !A!B!CD!E + !AC!E + A!B!C!DE + A!E + !AE
+B!C + !AB!CD!E + !A!B!C!D!E
+!C + AC!D + D + !AB!DE + !ABCE + !A!BD!E
+!E + A!B!CDE + C + !D + !A!BCDE + !CDE + !B!DE + !AC!D + !C!E + !ABCDE + !A!B!DE + A!BDE + A!B!C!D!E + !B!D
+!A + !AC!E + A!DE + A!BC!D!E + A!CE + !BC!E + B + A!B!C!D!E + ABDE
+!CE + B!D + !ABCD!E
+!ACD + !B + ABCD!E + A + !AB!C!D!E + A!BC!D!E + ABC + AE + C!E + C + !D!E + AB!DE
+A!DE + CE + !CDE + !C!E + !AB!C!D + !B!CD + E + !ABDE + !AB!DE + AE + !ADE + A!BC!D!E + !AD
+D + !BCE + AD
+!A!BCDE + !ABC!DE + A!C!DE + ABDE + A!BC + !A!CDE + A
+A!B!CD!E + !AB!CD + C + !B!C!D!E + !CD + !B + !ABCDE + B!C
+CE + BCE + AC!D!E + !AB!C!DE + !D
+A!CE + !ABCD + !C + !B!CE + B!E + ABD + !B + !A!B!C!DE + !E
+!AD + A!B + BE + ABCD!E
+!A!B + ABC!DE + !ABC!E + AB!CE + AC!DE + B + !AD + ABCD!E + !B + !A!B!C!D!E + !B!C!DE + AB + !AB!C!DE + A!B!C!DE
+C!D + ABCDE + !A!B!C!D!E + C!DE + !C!D + !A!BC!DE + AB!CDE + !A!BD + !A!CDE + A!BCD + C
+C + !B + BE + A!C!D!E + B!D!E + !AD + !AC!D!E + !A + !BCD + CDE
+B!CD!E + AC!D!E + A!BD!E + !ACD!E + !C!E + !CD + B!C!D!E + CD + BE + !CD!E + !A!BCDE + !B!E + AE
+C + B!D + ABCD!E + B + !ABCD!E + !ABC!D + !C + !AB!C!DE
+!A!BC!DE + B!C!DE + !B + !A!C!D!E + A + !BDE + A!B!C!D!E + ABCD!E
+A!BE + E + !A!B!CD + ADE + B!CD + !A + !C!D!E + A!B!E + B!C!DE + B
+BC + ABCD + BCDE + A!B!CD!E + A!B!C!D + !C + C!DE + !A!B!C + B!CDE + !B!CDE + ABCD!E + !A + !A!BCDE
+!AB!C!D!E + B + A!E
+E + AC!D + !AB!C!D + AB!DE + C + AB!C!DE
+!ABC!D!E + !AB!CE + !DE + !A!B!C!D!E + A!BC!DE + !B + A!BCD!E + !A!BC!E + !C!E + !AB!CD!E + AB!D!E
+!A!B!DE + A!D!E + C!E + A!C
+A!BE + !C + !B
+C!D!E + A!CD + A!E + ABCD!E + !E + C!D
+!A!BCE + A!BCDE + E + B + A!B!CD!E + !A!BC + BC!DE + !BDE + AB!C!DE + !A!B!CD!E + !A!B!C!DE + !AB!C!D!E + !BCE
+ABCDE + ACDE + !ABCDE + !A!B!C!D + A!B!CD!E + AB!C!DE + !A!BCD + !A!B + A!E + !AB!CDE + !A!B!D!E + !AC!DE + !D + ABC!D
+!A!C + !D!E + A!BD!E
+E + B!CDE + A!BC!DE + ABCD + !A + ABCDE + ACDE + A!CD!E + !CD!E + !BDE + AD + !BCD!E
+!BDE + !BD!E + A!B!CDE + BE + !ABC!DE + AB!CDE
+!A!B!CDE + !D + ABCD!E + !B!CE + CD + ACE + !B!CD + A + !A!B + !E
+A + A!B!C!D!E + !BC + A!CDE
+C!D!E + CE + !A!B!C!D!E + A!B!CD + BDE
+AB!CD + !AC!DE + !A + C!D + ABCE + C + !D + A + A!E + !D!E + !CD + A!B!C!DE + !AB!C!DE
+B!E + AE + BCE + !A!BCD!E + !B + !ABCDE
+B!C + !D!E + AC
+!AB!C!D + !E + !AC + !BC!E + A!BC!D!E + !A!BC!D!E + B!CDE + !AC!E + !ABC!E + !D + B!D!E
+A!BC!D + !D + A!B!D + !A!E + BC!E + BC!D!E + !AC!DE + !A!BC + !CE + A!BC!D!E + !C + !AB!E
+BC + !B!D + AC!DE + !A!B!CDE + !A!BC!DE + B!C!DE + !BCDE + !B!C + B!D + !A + !ABCD!E + !ACE + DE
+A!BD + A!D!E + AB!C!DE + !ACD
+A!C + !B!D!E + D
+AC!DE + BC!D + !BC + A!BC!D + AB!D!E + A!BCDE + !E
+E + AB!C!D!E + A!B + D + !A!BDE + !C + !A + !B!CD + !BC!D + ABD!E + !ACDE + !A!B!DE
+!B + B + !C!DE
+A!BC + AC!DE + !A!CDE + ABC!D + CE + A!BC!DE + !E + AB!DE
+C + !AC!D + !AB!CD!E + B!DE
+!E + A!CDE + !ABC + !BDE + !A!BC!D!E + !A
+!A!C!D!E + !A!BE + A + AB!CE + !BCE + D
+!C!E + !A!C + A!C!E + A!B!C!D!E + !A!B!CD + B + !A!BCD + AB!C!E + !A!BCDE + !ABCD!E + A!B + A + AC!DE
+!ABE + !A!BCDE + BC!D!E + !ABD!E + !B!D + A!BE + C + !A!BC!DE
+!B!C!D!E + A!BDE + !AB!CD!E + A!B!CD!E + E + ABDE
+!C + A!CD!E + A!B!C!DE + !A!BC!D!E + !A!C + !A + AC + DE + !AB!CE + B!C!E + !CDE
+A!BC + !AC!E + !B + A!C!DE
+!AB!CDE + !A!BC!D!E + !B + !B!CD!E
+!B + !AC!DE + BE + D + !A!CE + ABC!D!E + !A!B!C!D!E + !A!BC!DE + AB!C!D + C!E + C
+!B!C!D + BC!E + !AC!D + B + !BCDE + !CD + A!BC!D!E + !AC + !B!DE + CD
+B!CE + BC!DE + AD + !A!B!D!E + BC!D + A!B!C!DE + AC!E + A!B!CE + !C + !AB!CDE + !AB!C!D!E + !A!B!C!DE + A!B!D
+ABCDE + !A + A!E + !B + A!B!CDE + !AB!E
+!ABCDE + A!B!C!DE + A!C!E + A!B!CD!E
+!A!BC!DE + !BC!D + ABCDE
+!B!DE + C + A!BC!D + !A!BD!E + !C + A!BC!D!E + !AB!C!D + !D + !A + A!B!C!DE + !AB!CDE + !A!B!C!D!E
+!B!C + !AD + A + !A!B!C!D!E + !E + A!BCE + B + E
+ABC!DE + AB!D!E + !A!BC!DE + ABC!D + A + !A!C!DE + !A!CD + !C!D + ACD!E + AB!C!DE
+!BC!D + A!C!DE + BD!E + AB!D!E + !A!BD + !A + !A!BC!DE + B!D + ABCD!E + !ABCD!E + !E + D
+!A!BC!D!E + !A!B!CD + !BCD!E + !B + A!D + !B!E + ABC!D!E + !ABCD!E + AB!C + !A!BC
+B + CE + !A!C!DE + !A!D + ABCD + E + C + B!CDE + !ACD!E
+!AB!C!E + CDE + !BCD + !E + A!BCDE + !AB!CDE + !B + AC!D!E + !AC!E + !C!D
+!B!C!E + A!BC!DE + !CD!E + !D + !AB!CD!E + AB!D!E + A!B!C!D!E
+A!D + A + !CE + ACDE + !A!BD + B!C!E + A!BCD + A!B!CDE
+DE + !A!C + !DE + !A!DE + !BC!D!E + !C + AB!CD!E + AB + B + !A!E
+A!B!C!D!E + ABC!D + !A!B!CD!E + !A!BCDE + C!E + !C
+!B!C!D + BC!D!E + !C + !BC!D + B + AE + !B + BD!E + AB!C + A!BCD!E + B!E
+!A!D + B + !A!BC!D!E + !B!C!E + !A!B!C!D!E + !A!B!C!E + AB
+!E + AB!CD + !B + A + !A + BC + !ABCE + AB!C!E + !C!D + A!BCD + CE + !A!B!CE + C + ABC!D!E
+!A!B + !CE + !D
+B!D + BCD + CD!E + !ABC!E + !C + !BCE + ABDE + BE + A!C!D + E + !ABCE + A!BDE
+!BC + C!D!E + !A!BC!E + A!BCD!E + A!BD!E + A!B!C!D!E + !ACD!E + !A + !AB!CDE + A!BE + AB!CD!E + A!B!C!DE + !ABC!D!E + D!E
+!A!BCE + !C!D + !ABCDE + AD + !C + !A!E + !BCE + !A + !BE
+!E + A!B!C!E + !A!B!DE + BCE + !B!C!E + AC!E
+E + !AB!CD!E + !A!CE + B!CE + BE + A!BC!D!E + ABD!E + A!D + A!BCDE + !A!B!CDE + D
+BC!DE + E + !D!E
+!BC + !AB + !AB!CD!E
+A!D!E + !A!BC!D + !A!B + A!B!C!D!E + BC!E
+A!BC!D!E + !A!B!CD + !D + A!BCE
+!B!E + B!DE + AC!E + B + !A!BC + !B!C + !A!B!DE + !D + A + A!BCD + !A!D + !BCDE + !B!CD!E
+ABC + AD + !CDE + !ACDE + ABD + B!DE + !ADE + A
+A!B!CD + !AC!E + BC!E + !BDE + !AB!CD!E + !A!BCD!E + !C!E + A!C + AB!C!DE + !A!BC + C!DE
+D + A!BC!D!E + A!D + !ADE + B!C
+!AB!DE + !E + !B!C!D!E + !AB + !ACD + BE + D
+D + ADE + E + !C!D + A!B!CDE + !A!D!E + ABC!E + !A!BCE
+!D + !ABD + D!E + !ABC!DE + !B!D + !B!CE + B + !A!C
+!E + A!CD!E + !A!B!CDE + !D
+!ABC!DE + B!CD + B!CDE + !A!C!DE + !C!D + ACD + !ABC!E + !A!BCD + C + B!E + !BC!D + !A!CE + B!C!D!E
+!A!BC!DE + A!C!D!E + !B!C!DE + !A!B!CDE + B + !A!B!C!D!E + A!BC!D!E + A!B!C!D!E + !A!B!C!DE + !AC!E + E + !CE + ABC!D
+B!CE + !A!C!E + ABC!DE + !B!C!DE + !A!BD + BCE + ABCD!E + AB!E
+!ABCD!E + AB!CE + !A!CDE + !B!C!E + !A + AC + !CE
+ACDE + A!D + A!BCD!E + C!E + D
+ABCD + !BC!E + AB!CDE + ABCDE + B!CDE + C!D + !BCDE + !BC!D!E + AB!C!D!E + !B!CD!E + !B
+!A!BDE + !B!DE + B + !A!E + A!BCE
+A!CE + !ABCE + !ADE + ABC!D!E + !ABC!DE + !ABCDE + AB!D + A!BCD!E
+!A!C!D!E + A!B!C!DE + ABCD!E + A!B!DE + E + !A!BCE + C!D + CD + A!BCD!E + AB!C!D!E + ADE
+!E + A!CD!E + ABCDE
+AB!C!D!E + BE + !B!C!E + C + ADE + !B!C
+!A!BCE + !AB + ACE + AB!D
+!AD + A + !E + BE + !A!DE + A!C + B!C!E + A!B!CDE + !B!CD!E + A!BD + A!BC!D + D + AC!D!E + !B
+!AB!C!E + AB!D + B!D!E
+A!D + !AC + B!E + !A!E + A!B!DE + !D!E + !A!B!CD + !A
+!A!DE + B!CD!E + AB + !B
+!A!B!CD!E + !E + ABC!DE + !A!BCDE + B!C!DE + !A!E + !BC!D + !B!CE + A!B!CD + !A!BC!D
+A!B!C + !AE + !C + A!B!D + !AB!CD + A!BC!D!E + !CD!E + B + !AB!CE + !BC
+B!C!E + AC!D + !AB!CD!E + BCDE + AB!C!D!E + E + !C!E + ABD!E + C!D + AB!CDE + !ADE + A!B!C + !B!CDE
+AC + !A!B!CDE + !AC!D!E + AB!C!D!E + !A!C!E + !A!BCDE + BC + !A + C + !B + !C + AD
+CD + !D!E + !E + !A!BC!D!E + !BC!D!E + AE + !BC!DE + AC!E + !DE + !C + !AB!C!D!E + B!D!E
+!A!B!CD!E + A!B!CDE + AB!C!DE + A!B!CD!E + CE + !C + !ABC!D!E + BCD!E + !ABCE + !AB!C!E + !A!C!D
+!AB!C!D + A!B!D!E + !B!CE
+ABD!E + !D!E + B!E + ABC + A!BC + !A!B!DE + !A!B!CDE + !A!BD!E + A!C!D!E + A!C + CE + !A!C!D!E + A!DE
+!A!D!E + AB!D!E + !ABCD!E + A!B!C!D + B!C!D!E + A!B!CD!E + A!CDE + !A!B!CE + !AC!DE + !A
+!A!B!CD!E + E + A!B!C!D + C + B!C + !A!B!D + C!E + ABCDE + !B!D + !A!B!C + ABCD + A!BD + !AC!E
+!A!B!C!DE + AB + D!E + !A!C!D + !D + !B!D + A!BD!E + AD + A!B!C!DE + AB!CDE + A!BCD!E + B + !B!CE
+ABCDE + B!CD!E + !AE + D + !B!D!E + !A!B!C
+!ABCD!E + B!D + B + !BC!D + !B!CDE
+A!B!C!E + !ACD + B!C!E + CE + A!BC + B!E + A!B!CDE + !AB!CD!E + !D
+!BC!D + A!BC!D!E + !ABC!E + !AB!CD + C!DE + ABC!D!E
+!BC + !AC + AB!D + AC!D + !AB!C!DE + !A!B!CDE + ABC!DE + ADE + !CD!E
+D + A + AC + AB!CD!E + CD + AC!D
+!ABCE + !D + AB!C + !A + !A!B!C!D!E + !AC + !ABC!DE + !A!BC!DE + !C + A!B!D!E + !A!C!D + B
+AB!CDE + ABCD!E + !A!BC!D!E
+AE + !BC + D
+A!BE + !BD + !A + BD!E + !A!D + !A!B!CE + !BC!DE + !CDE + D!E + D + !E + !A!B!C!D!E + ADE
+!A!BCDE + !AB!C!D!E + C + D!E + !ABC!D!E
+!B + !A!B!C!D + AB!C!DE + B!C!DE + AE + !AB!C!D!E + !C!D + C + B + A!B!CDE + E + !BC
+!A!BD + CD + !D + !A!DE + !A!B!D
+A!C + A!BD!E + ACDE + C!DE + !AB!D!E + !AB!CD + !A!C + ABC!D!E + BC!DE + !D!E + !BD + AB!C!DE
+!ABC!E + A!C!D + !A!B!CD!E + A!BD + !BD!E + !A!B!C!D!E + !A!E + !C!D!E + AB!C!E + !BC + !B + !A!C
+D!E + !AB!D + !B!CD + A!B!C!DE + !A!B!DE + A!B!CDE + A!BCD!E + !ABE + !D
+!A!BD + B!E + !C + !A!E + !C!DE + !ABCDE + ABC!D!E + !D + BC!D!E + B
+CE + A!BCD!E + !AC!D!E + C + A!B!C!D!E + B!C!E + !D + !ABE
+!AB!C!DE + AB!C!D!E + A!CD!E + !AE + A!B!C!D + A!B!C!E + A!CDE + !A!CD + A!B!CE + !A!CD!E + !C
+!B!CD + !B!C + !ABC!D!E + !AC + BC + A!B!DE + !A!B!C!D!E + AC + E + !A!BCD!E + !D!E + AD + !A!B!CD
+E + A!B!C!D!E + !ACD + C
+AB!C!E + A + A!BC!E + !E + D + A!BC!DE + !AC!D!E + ABC + !A!BCDE + !B + B + BC!D + ABCD!E
+!ACDE + A + ABCDE
+!BD + !ABCDE + !AB!CD + B!E + A + !A!BC!E + !AD + !CD + !CDE + A!E
+B!D + A!C!E + !A!C!D!E + A!BCDE + !AD + !B!D
+!E + AB!CDE + !ABCD!E + !ABD + !C + A!B!C!D!E
+!A!BC!DE + !D + !ABC!DE
+B!C!DE + !C + !B!CD
+ABC!DE + !A!BCD + E + !B!E
+!B!CD + A + BE + !AB!E
+A + !A!B!CD!E + !A!B!CE + !BCD + A!C!D!E + AE + D + !D + !BD!E + E + A!BCE
+!BC + ABDE + CD!E + AB!E + AD!E + !A!C + !A + !A!B!D!E + BD + AB!CD!E + ABD + A!CD!E
+BCE + A!BC!D + AD!E + ACDE + !A!B!C!D!E + !C!E + AC!D + A!BCD!E + !C + A!B!CDE + AB!C!DE + !A!BE + A!B!CD!E
+B!D + !A!B!C!D!E + !ABC!DE + !E + !A!B!CE + AB!CD!E + !A!BC!DE + !BCD + ABCDE + A!B!CD!E + !A!BCD!E + A!BC
+!ABCDE + BC!DE + B + A!E
+BCDE + A!CD + !B!CD!E + !A!BC!DE + CE + !A!BCDE + !ACD!E + AE + !D + !A + A!B!C!D!E + A!E
+ACDE + ABD!E + !ABCDE + E + !D + A!B!E + !A!BC!DE + AB!DE + !A!D + BC!E
+!CE + !A!BCE + !A!CD!E + !AB!C!D!E + !B + !A!C!E + A!B!C!DE + !BC!D + ABCD + B!CE + E + !A + !D
+AB!C!D!E + E + !CE + AB!CD + !A!BC!DE
+A!BC!D + AB!E + !B + !C + AB!D!E + B!CE + B!CDE
+BCD!E + !A!B!C + B!C
+!D + !A!E + !A!B!C!DE + !B!C + !A!CDE + C + !A!B!CE
+!ABC!D!E + !AC!D + A!BCD
+B + !BD + !BDE + !AB!DE + ABCDE + ABCE
+BCD!E + CE + E + !ABC!E + !B!E + A!CD!E + BCDE + !BDE + !AB!C!DE + AB!C!D!E + C + !AB!C!D
+!BE + A!BCD!E + AD + A!B!CDE + !D
+!B + !A!B!C!D!E + !ABCDE + A!BC!D + !A!B!C!DE + !ABD + !ABC!D!E + !A!BCE
+B!C + A!C!E + AE + A + !B!C!D!E + C!D + !A!BCD!E + !ABC!D!E + !AB!C!D!E + C + !AC + CD + A!D!E
+!D + !AB!C!D + !B!D + A!B!CD!E + AD!E
+ABE + !ABCD!E + B + A!BCDE
+!B!C!E + AB!D + A + B!C!D!E + A!BCE + BCDE + AB!C!DE + !A!BCD!E + !ABD!E + D + !AD!E + !B
+!ABCDE + !C + !A!BC!DE + B!E
+!A!BC!D + !A + !A!BCD!E + B!C!D
+!CDE + !A!C!D!E + B!CD!E + ABD!E + !A!BD!E
+B!C!DE + !ABCDE + !ACDE + !ABC!D + A!BC!E + !C!D + !E + B!CDE + B + !C + !ABCE + A!CDE + ABC!D!E + C
+!BCD!E + !D + !A!B + !A + A + !B!C!D + !AC!D!E + !AB!CD + !E + !B!DE + A!BD
+!A!BC!D!E + AB!C + !ABD!E + A!BE + A!D + !BD + C!D
+!E + !ABC + AB!C + !BCD
+B + !A!C!E + A!B!CE + BCD!E
+B!E + !AB!D!E + !A + !B!E + ABCDE + A!BCD!E + AC + !D!E + E + !ABCDE + ABCD + ABC + !C!E
+BD + !BC!D + !A!B + AB!CD!E + A!D!E
+!B + !B!CDE + !BCD!E + C + !A!BCD!E + B!CD!E + !A!CD + !E + !A + !ABCD!E + ABDE + !ABC!D
+CD + !A!C + AB!C!D!E + !D + !AC + !BCDE + B + AB!CD + A!B!CD!E
+!AC!E + AC + A!BCD!E + !B!D + !A + !A!B!D + A + !AB!C!DE + !ABE + !A!CD!E + !ABCDE + !B
+B + !A!BCE + !BC!D!E
+A!B!C!E + BE + !A!B!CD!E
+!AB!C!D!E + A + !BC!D!E + !A + !ABC!D!E + A!C!E + !A!B!CD!E + A!B!C!E + E
+A!D + !E + !B!C!D!E + !A!B!D!E + ABC!DE + !A + AB!C!E + !C
+!AE + A!B!C!D!E + !C!DE + !A!BCD!E
+A!B!C!DE + !A!BCDE + !A!BCD!E + AB!C + CD + !ABC!E + !C + !ABDE
+AB!C!DE + !AE + AC!D!E + !A + C + !AB!C + AB!C!D + A!BC!D!E + !A!BCE + !A!BCD + E + BC
+E + !B!C!DE + AB!C + A!B!CD!E + B!E + !A!B!C!D!E + AC!DE + ACE
+!A!B!CD!E + !AB!D!E + !BC!D!E + A!C!D + !B + !E + !AC!D
+!ABE + !D + !AD + B!DE + !CD + A!D!E + C!D + !BE
+!BC!DE + ABC!D!E + !A!BC!DE + E + AB!CE + !AB
+!AB!C!D!E + !A!B!C!DE + !A!D + A!B!D
+A!BCDE + !C!E + A!C + !E + !B!D + !B!E + !AE + !D + A!B!CDE + ABC
+ABC!D + A!B!C!D + !E + AB!CD + A!B!D + !BD + A
+!A + !B!C!E + ACDE + A + A!CE + A!BC!D!E + !ABC + A!E + !A!BDE + B
+!A!D + !AD!E + ABC!DE + !CD + A + !A
+!A!D!E + A!B!C + !AB!C!D + !AC!E
+AB!CDE + !A!B!C!DE + !B
+A!B!C!D + !AB!C!E + !ABCD!E + !A!CD
+A + !E + !BC + E + BD + D + !B!E + BC + B!C!E
+!A!B + A!BCDE + C!D + AB!C!DE
+A!BC!D!E + !AB!C + !BCD + !C!D!E + !BD
+!C + ABCD!E + !A!B + !ABC!D
+!AC!D!E + !A!C + ACDE + A!B!C!D!E + BD!E + !BD + A!B!CD!E
+A!BCDE + !B!E + B + !C!E + !B + !A + !A!BC!D + !A!B!C!D + A!E + A!B!C!D!E + !BD + A!BCD + !C
+ABCDE + AD + AC!E + !A + D!E + !AB!CD!E
+!BD + ACDE + A!BCDE + A!BCE + A!CD + !ABE + !A!BD!E + A!B + BD + A!B!CD!E
+A!CD!E + !A!BE + AC!DE + D + !A!B!D!E + !AC!D!E + CD + A!B!C!DE + A!B!D!E + !A!BCE + BCD + !B!C!D!E + !A!CDE + B!CD
+A + !C!E + ABC!E + !BD + !AD!E + !A!BCD
+!ABC!D!E + !B + !A!C!D + !D + AB!C + C + ABC!D!E + !AB!C!E + !A!CE + B!CE
+!AB!C!DE + A!C + A + ADE + D + A!CDE
+!A!BC!D!E + A!B!C!DE + A + !BC!D + !D + A!B!CDE + !A!D!E + !AB!CE + B!C
+A!CD + AC!DE + !A + !B!E + !D!E + !A!BC!DE + !E + !AB!C!E + !CD!E + !ABCDE + !A!BC!D
+A!BCDE + ABC!DE + A!D!E + AD + !DE + B + A!BD!E + BC!D + AB!CD!E
+E + !DE + AB
+AB!CD + !A!BCE + AB!C!DE + A!C!D!E
+!A!BC!D!E + A + BE + DE + !ADE + AB!C!DE + !A!B!CD!E + !E
+A!B!C!D!E + B!CDE + !B!E + E + !A + B!D + D
+ACE + !E + ACD + !D + !AB!E
+!ACDE + !E + A!CE + !B!C!E + !C
+!B!E + !A + E + !AB!CE + !A!C!D + !A!CD!E + !B!C!D!E + !ABC!D!E + !C + D
+C + !C!E + !AD!E + AB!CD!E + !B + !A!B!CD!E + A + AC + A!B!C + A!B!CD!E
+!C + B!E + !ABC!DE + !E + !B!C!E + !AB!CD!E + !ABDE + !A!CD!E
+!A!B!C!DE + BCE + A!BC + !A!B + !ABD!E + BCD!E + E + AB!CE + AB!C!D!E + !AC!D!E + C
+!AB!CD!E + !B + !AC + !A!BCDE + !ABC!D!E + !C!D!E + !C!DE
+!AC!D + !A!BCD!E + !AB!CD!E + !B + BCDE + C + !B!E + !ABCD!E + BD + ABC!E
+!A!BC!DE + !B!E + D + !B!C + AB!CDE + !E + !C + ABD!E
+A!BDE + !A!BC!DE + A!B!C!E + A + A!C + A!B + DE
+D + A + !BE + ACD!E + ADE + AC!E + !AC!E + A!C!D!E + !B!D!E + !ABC!D + !B
+D + A!BCDE + !AB!C!D!E + !AC!D + A!D + AB!CDE
+!A!BC!E + !B + ABCD!E + !B!CD!E + BD + A + !A!B!C!DE + !A!BDE
+!A!B + B!D!E + CDE + A!BCDE + !A!BC!DE
+AB!C + B + !D
+!A!B!DE + B + !B!CDE + A!BC!DE + !AE
+!A!BCE + D + !A!BDE + !C!D + A + A!BCDE + A!D
+!A!B!DE + A!B!C!D!E + A!CD + !BDE
+!ABC!D + BE + C!D
+A!BCE + C + ABCD + !BCD!E
+A!B!D!E + !A!BC + AB!C!D!E + A!B!C!DE + !AE + A!B + A!BC!D!E + !BCDE + A!C!D!E
+!CE + ACE + !E + BC!D!E + !B + A!B!D!E + !A!D!E + !C!E + AB!C!D!E
+!AD + A!BCD!E + E + A + !A!BC!D!E + !B!D + ABCD!E + A!B!CD + !A!BCE + AB!D + !B
+ABCDE + !A!B!CDE + A!D!E + !A!B!DE + E + A!B!CD + B!CE
+E + !B + BC!D + ABCDE
+AB!DE + !B!CD!E + ACDE + !A!C!DE + A!BCDE + !ABCD + AB + !A!E + !BDE + !A!BC!E + AB!C!E + !E
+CD + !A!BCD + !AB!C!DE + !BC!D + !CE + E + !AB!C!E + !AC!DE + ABCE + !C
+A!D + B!D!E + ACD + BD + !A!B!CD!E + !A + ABC!E + !CD + !B!C + !A!BCD!E
+!E + !BC!D + !C + A!B!CD!E + BCE + A!C + AC!D!E + !AB!CE + !AB!C!DE + E + A!B!C!E
+A!E + !AB!CE + CDE + A!BC!D!E + !CD + ABCDE + !ABC!D!E + D
+BCE + A!B!CD!E + !C + A!C!E
+CDE + !C!DE + !BC + !A!B + D!E
+!AB!CDE + B!C!D + !C + D + A!B!C!D!E + AB!C!D!E + !B!E + B!D
+AD + B!DE + B + B!E + !CD
+C + !A!B!C!D!E + !AB!E + !A!BC!DE + !ABCD + AB!C!D!E + !A!D + ABC!DE
+!AD + A!BC!E + !A!BE
+!D + A!B!C!D!E + !B + C + D!E + !A!B!C!E + AC!D!E + C!D!E + BCDE
+!C + !A + AB!C!D + ABC!E + A!BCDE
+A!C!DE + AB!C!DE + !AE + A!B!CDE + !BD!E + A!B!C!DE + B!C + !AB + CE + AB!DE
+!A!C + E + !D + !A!B + !C + ABCD!E + A!BCDE + !B + !ABE + !E
+A!BE + AB!D!E + !B + ABC!D!E + AB!CD!E + AB!C + !D + !C + A!BC + B + !E + !AB!C
+!B!CD + AB!C!D + !BE
+!D!E + AB!D!E + D + C!E + !BE + !A!BD + !A!C!E + !A!BC!D + !B + B!CD!E
+!A!B!C!DE + !ABC!D!E + !A!B!E + D!E + ADE + !AB!C!D + A!B!CE + B + AB!CDE + !A + !A!C + ABC!D!E
+!A!B!C!DE + !A!BCDE + !B!E + !C + !ABC!E + !A!DE + !B!C!D + !CE + !ACE + !AB!CD!E + !A!B!C!E
+!B + !D + AC!D + !AC!D + AB!C!DE + !E
+A!B!C + !A!B!D + A!BCD
+A + D + !ACD!E + !AC!D + BC!D!E + B!C!E + AB!CE + ABC!D!E + !BC!E + !BCD + ABCD!E
+!E + ABE + !A!B!CDE + !A!BC!DE + A!BCE
+!A!C!E + !AB!CD!E + !B!CD + !ABC!D!E + !CE + AC!D + !C!DE + !ABC!DE + !A!BC!D!E
+AB!CDE + !ABCDE + !B!DE + !A!CD + !ABCE + CE + !AB!C!D!E + !A!B!CD + ABC!D + A!BD!E + !BC!E + !ABC!D!E
+ABD + !C + !A!B!CDE + B + !A!BC!DE + !AB + !A + ABC!DE + B!CDE + !A!B + ACD!E + !B!C!D!E + A!B
+B + !A!C!E + !A!E + !CD!E + A!B!CDE + !A + A!D + !C + !E + ABC!DE
+!E + !AB!CD!E + !DE + A!B!C!DE + D + !A!BC!DE + !AD
+E + !A!CD!E + AB!CDE + !D + !A!B!CDE + !B!C + !A!D
+B!E + A!D + D + E + A!B!CD + BE + !AB!C!DE
+BD!E + !E + CD + !BCE + !B!E + A!D + ABD!E + AB!C!DE + A!CE + !B + A
+!C!D + E + !A!BD + B!C!E + ABD + A!BCDE + !D
+!C!D + !AB!CD + AC + A!B!CE + !AE + !A + !B + !B!CD + A!C!D + !B!D + !BD
+D + !AB!C!D!E + !AB!CE + A!B
+A!BC!D!E + !C + A!B!CDE + A + AB!CDE
+!A!BC + ABCE + CDE + !AB!CDE + A!BD!E
+!ACD!E + ACDE + A!B!CD!E + D!E + !A!BC + !C
+AB!C!DE + !AB!C!E + CDE + B + !C + AD + !A!BC!D!E
+!BC!E + ABC!D + !ACD!E
+D!E + A!BC!D!E + AB!CDE + !A!BC!E + !ABC + !BD!E + AC + A!D + !E + !A + !BC!E + A!B!C!DE + B!C!E
+A!BC + CD + AB + A!E + AB!C!D!E + !A!B!C!D!E + !BE + A!BD!E + AC!DE + !A!BCD!E + !BC!DE + !B!CE + A!B!C!D!E + C!DE
+A!BC!D!E + ABCE + !C
+!A!D + !C + !BD + AB!C!DE + A!C!E
+!A!C!D + !BCD + ABC!DE + ABE + BCD!E + BDE + !A!B!CD!E + !A + A!BCDE + !A!B!D + A!BC!D!E
+!A!CE + AB!E + DE + A!B!C!E + B + BCDE + !A!B!D!E + AB!CD!E + !ACD!E + A!B!CD!E + !A!B!DE
+AB!CD!E + A!B!C!DE + B!E + !AB!D + !AB!E + BC!D + !B + C!E
+!E + !AB!C!DE + !AB!DE + !A!B!CD!E + AB!C!DE + A!DE + !B + B + !ABC!DE + AE + !ABCDE + !B!CE + BC!D
+!A!B!E + D + AB!CDE + A!B!CD + !C!DE + !ABC!D + !A!BCE + !B!C!DE + AC!DE + C + ABC + !A!BC!DE + AC!E
+!C + A!B + !BC + !ABC!DE + ABCD!E + !A!DE + A!C!D!E + B + !A!CDE + BCE + B!D!E + !E + B!C!DE + AB!C!D!E
+A + A!B!D!E + B!C!D!E + !A!C!D + ABC!DE + !A!BCD!E + !C!E + !A + AC + !BCDE + A!BC!DE
+A + A!BCE + !AC!E + !BD + !A!BC!D!E + B!CD + AB!CD + !C + D
+!A!D + A + !E
+!A!D + C!E + !ABCD!E + !BC!DE + !A!D!E
+!AD + !AB!D + A!BD!E + !A!B!C!E + A!B!D!E + !A!B + A!BC!DE + !DE + !B
+!A!B + !BC!DE + !AB!CD!E + ADE + !D + !AE + C + C!E
+!C + !A!DE + !D!E + !BCD!E + A!BDE + !CD + C!E + !CDE + C + A!C!DE
+!CE + !ACD + A!BCD + !AC!D
+D!E + !A + A!BCD!E + !AB!D!E + !A!B!D!E + !AB!C!D!E + A!B!CD!E + !BE + C + !ABC + !AD + A!D
+D!E + !A!B!C!D + AB!CD!E + A!B + E + !B + A + DE
+A!B!CDE + B!E + !E + D + !D!E + ADE + C + C!D + !BC!D + BCD + BCE + !AC
+!AC!D!E + !AB!CD!E + AB!CE + !A!BD!E + !A!BC!D + AC!DE + A!BC!DE + !AB!C!DE + A!B!CDE + AB!CD!E + ABCD + !CE + C!D + !B!C
+AB!CD!E + !A + !AB!CD!E + !BCDE + AC!DE + !ACD!E + ABCE + !BC + !A!B!C!E + !BD
+A!B!CDE + AE + !A + !A!B!CD + !ABC!D!E + !AB!E + AB!CD!E + ABCDE
+ABC!DE + !B!C + B + !A!C!E + E + A + ABDE + !B!E
+B!C!DE + ACDE + A + !E
+!B!C!D + !A + !ABCDE + A!D + A!C + !A!BC!D!E + !A!B + ABC!E + B!D!E + !A!CD + !C
+AB + !B + !A!B!D!E + !A!B!CDE + AC!E + ABCD + !E + !A!BCD + !A!C!E + !AC!D!E + !A!BD!E + !C + ABD!E + A!B!C!E
+AB!D!E + A!BCD!E + AC + !AB!DE + B!CDE + ABCDE + A + !A!BCDE + !ACD
+!CD!E + A + A!B!C!D + B!D!E
+A!B!D!E + AC + !B + B!C!D!E + !AC + A + !C!E + BC + A!BCDE + !C + !A!C!E + !BCDE + !BDE + !AC!DE
+BC!DE + B!C!D + A!DE + A!C!E + !AB!CDE
+AC!E + AE + BE + AC + A!D + AB!DE + A!BC!D + !AB!CDE + A!B!D!E + ACD!E
+!B!D + A!CE + !A!BC!D!E + A
+!A!B!C!E + A!B!CD!E + B!CD!E + A!D + !ABD!E + E + !DE + !BCDE + AB!C + !CD + !ABCD!E + ACDE + BE + A!BC!D
+B!D + BD + AB!C!DE + !AC!D!E + !A!B!C + A!BCD!E + ABC!D!E
+B!D + !ABCDE + !BC!E + ABCDE + E + !B!D + !BDE + !ABCD + A + !A!BC!E + ABD + !C!D
+A!C!E + !AB!C!D + AB!C!DE
+BD + AD!E + !AB!C!E + !B!C!DE + !AB!C!DE + !AB!DE + !ABC!D!E + A!B!D!E + A!B!CD!E + !A!B!C!D!E + AC!E
+ABCD!E + AD + B!E + !C + AC!D!E + A!C + A!BCD + !A!BCD!E
+AB!CD!E + AB!CDE + ABCDE + A!BC + BDE
+B!C!D!E + !BCE + !CE + B!E + !B + !A
+A!BC!DE + A!BCE + ABE + !AD + A!C!DE + E + A + !B!D + !AB!C + C!D!E + AB!CE + !AE + !B!CD!E + A!B!C!D!E
+!BE + !E + ABC!DE
+ABCD!E + B + B!CDE + ABC!D!E + !A!B + !B!D + !AB!C
+!C + !BCE + ACD!E + B + !ACD + ABCD!E + CD + C!D + !AB!CD!E
+BC + C!E + !ABCDE + A!CD + B
+CD + !D + AC!DE + !AB!C!DE + !E + B!D!E + !ABC!DE + B!E + !C + BCDE + A!B!D!E + !AB!DE + !BE
+!A!D + D!E + AB + B + !AB!CD!E
+C + A!E + !AB!CDE + !ABCE + D + BD + B!D!E + !AB!D + AB!E
+B!DE + C + !ABC!D!E + A!B!CD!E + ABCD + !ABC!D + !A!C!DE + C!D + AC!DE + A!CE + !B!C!E + D + !AB!DE
+!E + !BE + A!BCDE + !ADE + !AC!D!E + D + A!BC!D + A!BC!DE + AC!DE
+ABCD + ABCDE + !A + !CDE + C + A!B!CD!E + A + B!DE + !AD!E + !C!D
+!A!D + ABC!DE + !BC!D!E + ABC + C + !ABC!D!E + A!E + A + D + !A!E + A!BC!D!E + !A + A!BCDE
+AC + AB!C!E + !E + E + A!C!DE + !AB!E + !ABC + !AB!C!D!E + !ACD + BDE + AB + !A!BC!D + !C!E + !A!D
+!BC + !BE + B + E + ABC!D + A!B!CD!E + AB!CD!E + C
+!AB!CD!E + A!B!C!DE + !ADE + A!D + !ABC!D + !D + !A!B!C!D + !B!CD!E + !C!D
+A!B!C!DE + !B + A!BCD
+AB!CE + B!E + BE
+!ACDE + AD + !A!BCD!E + AC!E + !AB!DE + B + ABC!D!E + BDE + !A!CD + A + !B
+AB + ABCDE + !A!C!DE + !E + !B!E + A!B!CD!E + !DE
+!A!C!DE + !D + B!D + C!D!E + BDE
+CD + ABC!D!E + B!C!E + !A!BC!DE + !CD!E + ABD!E
+B + D + B!C + !AE + !ABCD + A!C!D + !AB!CD + !A!BE + !A + !A!B!CD
+!E + AC!D + !B!E + AB + E + !ABD!E + D + !A!B!CD!E + A!BC + AB!CD!E + !A!CD
+!A + !A!D!E + ABCDE + ABC!E + !AB!C!DE + D!E + !AC!DE + AB!DE
+!A!B!DE + A!BCDE + A!CDE + !AB!CE + C + !A!E + !AC!D
+DE + A!B!DE + A!BE + E + C + !A + B + D + A + C!E + !D + !AB!C!D!E
+!B + !A!DE + !A!B!D!E + !ACD!E + !B!CD + ABCDE + !A!BCDE + !ABC!DE + !AD!E + AB!CDE
+CD!E + AB!CD!E + ABCD + !A + !B + !B!C + A!B!CE
+!C + ABCD + !BCE + B + AB + !A!B!CDE + !E + BCD + !D + DE
+AE + BE + !ACD + !A!CE + !ABD!E + A!B!CD!E + BCDE + C!E + AB!C!DE + !A!BC!DE + AC!DE + !AB!C!D + !AB!CD!E
+!AB!CE + !A!BE + B!DE + A + !ABC!E + !CE + !A!C!D!E + !AB!CD!E + !A!BCD!E
+!A!E + A!C!D + AB!C!D!E + A!B!CDE + A!CD!E + !A!BDE
+A!BCDE + !ACD!E + AB!CD!E + !AB!CDE + B!E
+!ABDE + C + !ABCD!E + ABC!DE + !A!CD!E + ABDE + A!CD + ABC!D + ABD!E
+B!C!D!E + E + A!C!D!E + !AD!E + !A!BC!E + !A!B!CDE + !A + ABD!E + A!B!CDE
+A!B!CD + C!D + !AB!C!D!E + A + D + ABCD
+C!D!E + !ABC!D + E
+!BCD!E + BC!E + A!C + !ABCD + AB + A!B!C!D + !ABC!DE + A!BC!D + C
+!B + AB + !A!D + !A!BCDE + A!BCD!E + A!BDE + AB!D + A!CE + A + BD + A!BCDE + !AD + BC!D!E + C
+AB!CDE + B!CDE + !B + !A!CE + !A!B!C!D!E + A!B!CD!E
+B + AB!CD!E + !A!D!E + ABC!E + !A!BCD!E + ABE + A!BCD!E + !D + !A!C!D!E + A!C!DE + !BC!D!E
+!A!B!D + !A!B!DE + AB!D!E + BC!E + !AB!D + AD!E + !C + !AB!C!D!E + !A!C
+!AB!CD + !A!BC!DE + !AE + A!B!CD + E
+AC!DE + BD + A + BC + D + A!E + ABC!D + B!C + !D + !B!C!D + !A!C!DE
+BDE + ABCD!E + ACD!E + !AB!C!DE + CDE + E + BD!E + !AB + B!C!E + !A + !B + !ABDE
+!A!CD + ABD!E + AE + C!E
+!C!D + A + !BD + D!E + !B!CE + A!BC + A!B!D + !A!D + !AC!E + !A!B + !AB
+A!CE + B!C!D!E + !A + BE + BC!D + !ABC!DE + !C!D!E + CD + !B + AB!D!E + !A!BCD!E + !BC!E + !AB!C!D!E + !B!C!DE
+B!E + ABCD!E + !ACE + !AC!E + A + ADE + !AC + !A!C!D!E + !B + !AE
+!ABCE + !B + !C + !AB!C!DE
+A!B!E + !AB + !AB!D!E + C!DE + !A!BCD + !AC!D + !AC!D!E + ABC!E + !A!B!DE + ABD + D!E + CD
+!C!E + !AB!CDE + !ABCDE + !ADE + !A!BCD!E + DE + !E + B!C!D!E + !BC!DE + !B + !ABCD!E + B!D + !A!B!CD!E
+AC!D + !ABC + !AB!CD!E + A!BC!D!E
+!CE + !ABC + !C!D!E + A!B!CD!E + D + !A!E
+CD!E + AC!D!E + A!BC!D!E + !C + A!B!C!D!E + B!C!D + !A!BCDE + A!C!D
+!ABC!D!E + !A!DE + !A!E + AB!CD!E + !A!BC + A!C!E + AE + !CE + A!BCDE + !A!B!E + B!D + !E
+AB!CD + A!CD!E + !BCE
+!BD!E + A!BE + !B!C!E + !E + !A!B!C!D!E + BD + A!B!CD!E + !D!E + !AC + !A!B
+A!C!E + !BCDE + B + !A!B!C!D!E + !C + BD + ABC!DE + C + !B!CD!E
+!AB!C!E + !A!B!C!DE + !D
+B + !AC!D + ABCE + ACD + !A!B!C!DE + !C!DE + A + AC!D!E + C + A!BC + !A!D
+!AB!E + !AB!C!D + A!B!CDE + !AC!D + !ADE + !AB!CD + !B + B!C!E
+AB + ABC + ABCE + C + B!C!DE + !ACE
+A!B + !A + A!BD!E + AB!C!D!E + A!B!CE + AB!D + A!BD + A!B!C!DE + AB!CD!E + C + A!BC!D!E + AD + A!E
+A!B!E + !A!BC!D!E + !BE
+A!B!C + BC!E + !ABC!DE
+!BC!D + B!DE + !BC + A!BC!E + !ACE + A!CE + A!B!D
+A!BC!D + !ABDE + A!BCD!E + ABC + B!D!E + !A!BCD!E + !AC!D!E
+B!CD + A!BC!D!E + ABC!D!E + !E + !A
+A!D!E + AC!D!E + !A!CDE + !A!B!C!D!E + A!BC!DE + D
+!A!CD!E + A!BCDE + !A + !ABD + !E + !AB + AB + E + A!BC + !AC
+AC + !AD!E + AB!C + A!BC!DE + A!BC!D!E + !A!B!C!D!E + A + ABE + ABC!E + !B + CE + !AB!C!D + !AB!D
+!A!B!CDE + C!E + A!B!E + B!CDE + !AB!DE + DE + A!B!CDE + AD!E + AB!CDE + !BC
+!A!C!DE + AC!D!E + !AB!C!D!E + !A!E + !A!C + !BD + !AB + !A!BE + !BDE + !A!BC!DE
+C + ABC!DE + A!DE + A!CDE
+!ABC!DE + A!B!D + !BCD!E + !A!C!E + B!C!D!E
+A + !B!CD + !B!CD!E + !A + !B!CDE + AB!CDE + !A!C + ABCD!E + !ABC!D + !AC!E + !BC!DE + !B!C!D!E
+B!CE + !A + B!C!E + A!BCD!E
+A!C!DE + !BC + AB!C!D + A!BCDE + AE + !AB + !A!C + BCE + ABC!D
+A!B!CD!E + !AB!D + !ABC!D!E + !CD!E + AB!CD!E + !ABE
+!ABCD!E + !AE
+BD!E + AB!CE + !BE
+A!B!CE + !A!BE + !B!D!E + !A!C
+ACDE + CE + !A!BC!D + !AB!C + A!BCD!E + !C!DE + !ABCD + ABD!E + !AB!C!D + !B!D!E + !E
+!B!D!E + BC!D + AB!E + B!E + !E + C + A!C + B + !A!B!CDE + !AB!D + !A!B!C!DE + E
+ABCD!E + !C + A!C!DE + !B + D!E
+A!CDE + !CDE + C!E + !E + A
+!A!B!C!D + !B!CD!E + !A!B!C!DE + A!BCE + AD + BE + !BD!E + !A + !CD!E + C!D + !ABC!D
+ABC!D!E + !ABC + A + ACD!E + A!D!E + B!D + A!BC!D + !E + AB!CD!E + !B + !A!E + BDE
+!ADE + A!BCDE + !ABCD!E + A + AC!D + !B!CD!E + !AB + !ABE + BCE
+C + !A!B!CD!E + !B + B!C
+C + !CD!E + !E + A!B!CDE + B + ABCDE + !B + A!B!D!E + BE
+AB!E + A + !A!CD + E + !B + !BCD!E
+!A!B + C!D + !D!E + !A!B!C!D!E + AB!CD!E + BC!E
+AB!C!D!E + ACDE + !C!D + A + A!D + ABDE + !A!C + C + AB!DE + A!B!C!DE
+!AC!DE + D + D!E + !A!D + !A!B!D + !D!E + !C + BCD!E + !ABC!DE + ABCD!E
+!A!BCD!E + AC!D!E + !ABC!DE + B + !B!E + D + !DE + !A!BC!E + !BC
+!B + AB + !ABD!E + !A!CD!E + A!BC!DE + !C + B!C!DE + A!BCDE + !B!E + !E + D + !A!CD
+ABC!D!E + BC!D + B + !ABE + !B
+A!C!D!E + !B!CDE + !A!BC!D!E + ABC!D!E + !E + !A + !A!BC + !BC + AB!CDE + AB!C!DE + !D
+!B!DE + BCE + E + A!B!CD!E
+ABC + AD + B + !A!C!E + !A!D + !C!DE + !AB!C!D!E
+!BD!E + A!BCD + B!CD!E + B!CDE + D!E + B + !B!C + !C + !D
+B!E + ABC!DE + !ABCD!E + !AB!CDE + !AC + !BC + !D + !D!E + !AB!DE + B + D + AB
+D + !D + CD + C + B!CD + ABC!DE + !A!B!C!DE + B + A!BD + !B!CDE + !AB!CDE + B!C!D + !A + A!BCD!E
+A!B!CDE + C!D + !DE + !BC
+A!D!E + E + !ABD + !D!E + AB!C!D!E + !ABDE + !B!CE + A + !C + !CD + C + ABD + !ABC!D!E
+!A!B!CDE + A!BC!D!E + !A!BC!E + !A!BDE + ACD!E + A!BE + A!D + !ABCDE
+!A!BC!D + !A!E + D + A!BC!DE + !AB + C!D + C!E + !A!D + !A!B!C!DE + D!E + ABD + !A!C!D!E + A!B!CD!E
+!B + D!E + !CDE + AB!D!E + !AB!C!DE + !AB!C!D!E + !A!CE + A!DE + ABCDE + ABCD!E + A!B!E + !AB!C!D + !C
+!A + !AB!C!D!E + A!B + !A!B!C + ABC!E + AB!DE + !A!BD!E + !C!D + !BC!D!E + A!D + !A!B + B!CE
+ABCDE + !A!B!D + !A + !E + A!BCDE + A!B + !C + !A!BCD + ABC!DE + ABC!D + !B!CE + ABC!D!E
+B + !A!B!CDE
+!AB!C!D!E + !A!C!DE + !A!CD!E + !A!B!C!E
+!B!DE + !BDE + BCE + E + !A!BC!DE + C + AB!C!E + A!E + !AB!CE + A!B!C!DE
+!C!E + !B!E + !A!B!C!D!E + !E + !A!BCD!E + !BC!DE + !B + D + C!E + !BC!D + !B!CD!E + B!D
+ABCDE + ABC!DE + AB!C!DE + !A!D!E + !D + !B!D!E + !B!CD + ABD!E
+A + A!BD!E + !D + AD + CE + !B + B!D!E
+A + !A!B!CDE + BD + B!E + !A!BCDE + B!CD!E + BC!E + !AC!DE + !B + AB!C!D!E + !C
+!B!C!D!E + AB!CDE + !A!E + CD
+!A!BCD + AB!CD!E + AB!CDE + C + C!D!E + A!BCD!E + !A!BCD!E + !AD
+D!E + !B!C!D!E + A!B!CD!E
+!A!B!D + AB!CD!E + BC + AB!CDE + A!D!E + !C + C + BDE + !A!B!C!D!E
+!A!BCD + !AC!E + B + B!CDE + A!BC!E + !A!BC!DE + !ABC!D!E + ABC!D!E + !A!B!C!D!E + !ACDE
+!BDE + !ABCD!E + ABCD!E + !ABC!D!E + A + !A!B!CDE + BC!DE + !A!D!E + BC!E + !AB!C!D!E + ABD!E + AC!DE
+!B!C!D + B!C + !D!E + !ABC!E + BCE
+!C!E + !A + A!B + !ABC!E + AD!E + !A!BCDE + !AB!C!DE + !B
+ABCDE + CE + A!BC!D!E + AD + B!DE + !C + ABCE + !BD
+!ABD!E + B!E + !B!C + !AB!CDE + CD
+ABE + A!DE + !BCD!E + !B
+!ABC!D + CD!E + D + !AB!C!DE + A!BCDE + ACE
+AB + !BC!D + !BDE + B!D + BC!E
+ABC!D!E + AD + !ACDE + B!E + B!CDE + A!D
+!ABC!D!E + BC!D!E + !A!BCD
+A + AC!D!E + BCD!E + ABCD!E + !BCDE + A!BCE + !AB!C!DE + A!BC!D!E + !A!B!CE + !C + !E + !A!C!E + ABC!E
+A + D + A!B!D!E
+B!C + BCE + B + AC!DE + !A + !B!D!E + !AC + B!DE + ABC!D!E + A!BCDE + CD!E + !BD!E
+C + B!D + !ABC!D!E + !AB!DE + A!C + !A!B!C!DE + A!B!CD!E + !A!D + !BCDE + B + !B!C!D!E + !B
+!B!DE + AB!C!E + AB!C + B!CE
+!A!BC!DE + !A!B!C!D!E + !A + B!C!D + !BCD + A + !D + !ADE
+E + !A + !C!E + !BCD!E + CDE + !AB!CD + AB!D!E
+A!BE + !BC + ABC!DE
+!A!B!C!E + ABCD + !E + !CD!E + !AB!CDE + C!DE + E + !AB + B!CD + B!D!E + !A!BCDE + ABE + !A!BD
+!AD!E + AB!C!D!E + !D + A!BCDE + !C!D + AB!C!E + A!B!C!D!E + !A!D
+A!B!CD + D + !A + !A!BDE + !AB + !A!B!D + !A!C!D + AB!CDE
+!BC!D!E + !A!CD!E + !A + !ACD + A!B!C!D!E + A!CD!E
+D + A!B!CDE + A!BC!D + ABCDE + BD + A!BCDE + A!BD!E + ABD + BDE + !B + C!D + B!C!DE + AB!CE
+!AB!E + !A!B!DE + B + !CE + E + !A!D!E + !C!D + !CD + A!BD + A!BCD!E
+!A!BC!E + !A!B!CDE + !A!C + !B!C!DE
+!B!CE + !BE + B!C!DE + ABC!DE + A + !A!D + D + !AC!DE + !CE + !B

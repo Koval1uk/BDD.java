@@ -1,0 +1,1000 @@
+D!GHIJ + !A!DEFG!H!IJ + !A!B!CDE!FG!I!J + !G + C!E!H + CG + !AB!DEFGH + !ABDFJ + !A!BC!FH!J + AC!D!E!G!IJ
+BC!F + !A!BCD!EFG!H!I!J + !BG!I + !A!CDE!FH!I + !B!CDEF!G!J + !EF!G!I!J + ABC!DE!F!G!HJ + !ABCD!FG!IJ
+ABC!DEFG!HI + !A!D!F + !ADE!F!HI!J + !J + A!C!F!H + !A!BD!E!F!IJ + !C + !AC!GIJ
+!ACF!GJ + GH!I!J + !A!CDF!J
+!ABC!D!E!GHJ + !ABCDEF!G!H!I!J + AE!I + A!D!I!J
+!ABCD!EF!G!HIJ + !AGI + !H + !C!E!F!G!H!IJ + !ADEF!G!I!J + !B!C!FI + !A!B!CD!EF!GH!I + !A!B!C!D!E!FHI + !FH!I + !A!DF!H + D!H!J + !AB!DEGHJ
+!AC!DE!FI + AB!C!DEFG!H!I!J + AB!CDE!FG!HIJ + !E + D!FGHI + !G!IJ + !ADF!G!HIJ + !I!J + A!B!DEFGH!I + A!B!C!DFH!I + AEHIJ + CE + !A!B!C!DEF!GHJ + A!B!DEFG
+FJ + B!CE!GH!I!J + !B!CJ + !A!B!CEF!G!IJ + ABCDE!FH!IJ + !F!GJ + !C!E + A!C!D!F!GJ + DG!IJ + A!BEGJ + !A!BCD!F + ABDE!F!GH!I!J + A!B!C!D!E!FG!H!IJ
+!ABCD!E!FG!H!J + !A!J + ABCD!E!F!G!H!I!J + CI + !A!D!E!G
+!ABCDEF!G!H!IJ + AB!C!D!F!G!H!IJ + J + !C!HJ + !D!EF + A + !BCEF!GI!J + !B + !CF + !DEF!I
+!ABCDE!FG!HIJ + !A!DEFI + ABC!DEF!GH!IJ + I + DEG + !EG!J + ABDGH!I + DEFH!I!J + BD + A!E!J
+!ABC!DEF!GHIJ + ABCD!H + A!BC!FGHJ
+ABC!D!EF!G!HI!J + !A!CD!FH!J + C!I!J + !C + A!BCD!E!F!G!HIJ
+FH!I + !DEHI + B!F!GHI + B!EF + A!B!CDEG!HI + DE!F!HI + !GJ + !A!G!I + E + AEFG!HI + !A!B!CE!F!GHI!J + !A!CE!FG!H + !B!C
+A!B!FG + !A!B!CDEFGH!IJ + A + BF!G!J + !A!B!DEF!G!HI + AB!C!DEFG!H!IJ + !I
+!BCEFGJ + FGI + AB!CD!EFGHIJ + C!E!F!GI!J + CFGHIJ + H + !A!B!EJ + !AB!CD!E!GH!IJ + !FI + AB!CD!E!F!GHI!J + ABD!EFG!HIJ + A!B!C!D!E!G + ABC!D!EGHI
+BCG!I!J + !E + !A!BCD + !ACD!E!FH!J
+!ABC!D!EFGHIJ + !F + B!E!I!J + ACDEFG!J + J + DF!HIJ + A!BCD!E!F!G!H!I
+!A!B!D!E!FG + ABCD!E!GHI!J + !AB!CDE!F!H!J + A!BC!D!E!F!G!H!I!J + !ACGHIJ + !A!BCDEF!G!H!IJ + !A!BCDEF!HI!J + !ABC!D!E!FGH!IJ + AB!CD!E!FGHJ
+!AC + ABC!D!EF!G!HI!J + !B!I + A!BC!E!GH!IJ + !ABC!DF!G!HI
+B!E!F!G + ABC!E!FG!H!I + A!C!D!E!G!H!J + A!CFG!I!J + !BC!D!E!F!HI!J
+!ADGI + !BJ + ABCI + !A!B!D!E!FG!HIJ + !A!C!D!F!G!HI + ACD!F!IJ + A!G!J + !A!BCDEF!G!HIJ + !A!BC!FH!J + !B!E!GHIJ + !A!BC!D!E!GHJ + A!BC!D!F!GHJ + !B!CDEF!GHI!J
+A!BCD!E!G!I + !F + !A!BC!EJ + !E + A!B!CD!EFGHIJ + AC!E + !A!BC!D!E!F!G!H!IJ
+!A!BEGI + !F + !A!BD!E!GI!J + FGH + !A!DFHI + !AJ + !AB!C!D!H!J + !CDE!F!I + !D + G + !AB!C!DFGHI!J
+AB!DEFHI + AC!D!F!GHI + !A!C!GH!I + A!CE!F!G!J + A!C!D!E!FG!HI + A!BC!DEGI
+ABC!E!FG!HIJ + !BC!D!E!FGJ + CDE!G!H!I!J
+GJ + G + FJ + A!B!CDE!FG!I!J + B!G!J + !A + D!E!H
+!D!EH + !AB!C!DEGI + A!BCEFH!IJ + C!D!FJ
+!B + !DJ + AB!EF + CDEH!IJ + !A!BD!F!G!I!J + !J + !C!D!EF!H!I
+A!C!EFGH!J + !D!E!H!I!J + !A!BCD!EF!G!HIJ + B + !G + A!BC + A!B!C!EF!HIJ + !C!E!F + AB!CDE!F!G!HI!J + A!B!CDEF!G!HIJ + !ABCDEFGH!IJ + AB!CDEFGH!IJ + AB!CD!E!FGHI!J
+ACEF!IJ + CF!IJ + !AD + !BC!E!FH + !A + BC!G!HI + A!C!EFG!HIJ + BC + !A!CF!H + !AF!G!I!J + CE!I + BC!FG!H
+B!DFGIJ + !A!BC!D!E!FG!H!IJ + !BC!EJ
+!A!C!DFG!H!IJ + !G + !A!E!GHI!J
+!ABC!E!FG!HIJ + AC!D!FIJ + !ADHI
+A!B!CDEF!G!H!J + A!B!CG!HI!J + !AB!DF!HI!J + A!C!DF!GH!I!J + !ABCD!EF!G!IJ
+!AFH!I!J + ABG!H + ABCDE!F!G!HI + F!G + !DF + !G + !ABDG!HJ
+CEFGJ + !A!BD!E!FG!I!J + B!C!D!HJ
+!B + !D!H + !A!BCDE!FG!HI!J + !A!B!CD!E!FG!H + !I + A!BC!D!EF!G!HJ + !A!BC!DI!J
+A!CE + G + C!D!F
+!B!C!FJ + D!F + AB!DE!G!H!IJ + !B!CDE!G!IJ
+A!BC!D!EF!GH!I!J + AB!C!D!EF!G!H!IJ + !A!CF!H!I + BCI + !CD!GHI!J + !B!CG + !A!C + B!C + !G!IJ + AD!H + D
+ADEF!G!H!I!J + !BD!E!G + B!CFH!IJ + !AB!D + E!G!H + J + C + !A!B!D!E!F!GHJ + !AB!CD!EFHI!J + C!FH + ABCD!E!FI!J + B!DEG!HJ
+C + AB!CDE!FG!H!I!J + ADE!IJ + !AB!CDEF!G!HIJ + !G + CEGHJ + !BCE!GI + !D!FI + CE!F!G!I + !B!E
+A!DE!H!I + C + ABCD!E!FG!I!J
+A!BC!D!E!FH + !BC!EF!G!HIJ + C!DE!F!G!IJ + G + BCD!E!FG + !B + !A!B!CDE!FJ + DE!H + !A!BC!D!E!FH!I!J + !AB!C!DE!FG!HIJ + AB!CDE!F!GH!IJ + A!BCD!EFH!IJ
+A!H + !BE + ACD!F!I!J + !A!BC!DE!FIJ + A!BC!E!GHIJ
+A!CDI!J + !A!B!CDEF!G!HI!J + !I + ACJ + AF + A!BC!D!FI + CD!G!J + BC!D!E!IJ + !BDEF + !C!I
+!A!BGH!J + A!BC!D!EFGHIJ + !A!BDGH + !DI + A!B!CDE!F!HIJ + !A!CD!FG!J + D!I!J + !AB!C!DEFGH!J + A!BC!D!EGH!I
+!A!B!CD!E!FGH!I!J + !A!B!C!DEF!GH!IJ + F!G + A!B!C!D!EFGH!IJ + A!C!DE!F!G!H!I + ABCD!E!FGHIJ + FG + B!CEF!J + A!C!EFG!HI!J + B!C!D!E!FG!IJ
+!A!BCE + A!B!C!DEF!GH!IJ + !ABCD!E!FGH!IJ + D + !C!EHJ + !DG + E + BC!EI + !DEH!IJ + B!D!F!GJ + !H + !A!B!C!D!E!FGH!I!J
+DEFH + B!D!I!J + !A!BC!E!G!HJ + !A!BC!D!E!FGHIJ + !AB!C!DE!F!G!HI!J + !AD!F!GJ + C!DF!J
+A!B!CDE!F!GI + D + C!EI + B + !ABCD!E!FG!H!I!J + A!DE!F!H!I + !F!G + !ABC!F!J + B!CD!G!I + BE!H!I!J + B!C!DE!GJ
+!A!BCDEFH!I + !A!BCDEFG!H!IJ + !C!H + B!D!E!HIJ + !C!EIJ + !A!BCDI + !C!DJ + B!CH + !B!C!D!E!F!G!H!I + FI + !DFGH + !CDEHI!J + !CD!E!FG!H!IJ
+A!BC!D!EG!I + D + !AB!C!DE!FH!I + CD!FG + A + B!C!EG!J + !CDE + CG!HI + A!C!FI + !A!B!CDEF!G!I!J + A!B!D!F!G!IJ + !BC!EFGH!I + !EG + !AC!E!G!H!I
+B!CEF!HJ + B!C!DG!I!J + !HI + !E!H + AB!EHI + A!CD!FG + B!DEFH!IJ + !E + A!CD!EF!J
+!A!D!E!F!GHI + !E!FG!H + AD!E!G + !A!IJ + A!FHJ + BGHJ
+!J + !BE!J + F!G!HJ + !AB!CE!GH!IJ
+AB!CI + !BDGIJ + !AB!CEH!J + A!C!DE!GHI + A!B + B!DG!I
+!A!B!CD!E!FGH!IJ + !A!C!DE!F!G!I + !BE!FGH!I + D!EG!H!I + !CEFGH + B!CDGHI!J + !AB!C!E!F!GHI!J + !CF!IJ + G!I
+!A!B!CD!E!F!GH!IJ + CJ + ABD!E!F!G!H!I!J + A!B!C!D!EFGI!J + B!CH!I!J + !F + A!C!DEF!GH!I + A!CDE!FG!HIJ + !AB!DEF!G!I!J
+AB!CD!E!G!J + EI + !A!G + !B!C!DEFG!H!I + CD!G + !AB!C!DEFGHI + !AE!H!I!J + BCDE!FH!IJ + B!E!FGH!IJ + !CD!FHIJ + !ADG!I!J + B!CEF!J + !DGIJ + A!BCDEF!G!HIJ
+A!BC!DE!FG!H!I!J + !C + !B!C + !BFJ + ACEF!G!H!J + !AB!C!DE!FG!HI!J + J + A!B!FG!H!IJ
+!A!C!D!FGHI + A!BC!DEFG!H!J + F + AB!C!D!EG!H!I!J + !A!B!C!D!FG!H!I!J + !G + !A!B!DG!HIJ + E!F!G!J + !E!GI!J + !ABCDE!FHIJ + !BD!EFG!H
+!H + G + !IJ + !A!B!CEGH!IJ + !A!B!D!F!G!HI + !AB!C!D!E!FH!I + C!D + !B!D!E!H!IJ + !A!B!C!DE!F!HJ + !E + C!F!H!I + EJ
+A!C!DE!FG!H!I + AFH + B!C!D!EF!G!H!I!J + D!EF!J + !G + !ABGH + !D + A!CF!GJ + ABCEF!G!H!IJ + AFJ + !F
+ABCD!FG!HI + B!C + !C + !EHI + CD!E!FJ + D + DEH
+AD!F!G!J + ABCF!GH!I + CDG!HI + AB!C!D!EF!G!H!J + !A!D + !BD!E!FG + A!BCDE!F!G!HJ
+!AB!EG!I!J + A!C!DFG!H!I + A!C!EHI + I + !ABCD!E!FGH!I!J + ABCDE!FGHI + !A!B!C!D!EFG!H!IJ
+!CF + A!BC!D!EGI + AB!C!D!E!FJ + !BD!F!GI + !AD!EG
+J + BCE!FHIJ + !ACH + !C + H + ABD!F + ADE!F!GHI + AB!D!EF!H!I
+ACD!EF!J + !AB!CD!E!FGHI + ABD!E!FH + ABC!D!FHIJ + A!B!C!D!EF!G!H!I!J + !ABC!D!EF!GHI!J + A!B!C!D!E!FGHI!J + !AB!C!E!F!I + A!CD!E!FGHIJ + BCFH!I + !CDF + B!CDE!FGHI!J + ABCDEFGHI!J
+ABDE!G!H!I + A!D!E!FG!H!I!J + A!B!EI + A!B!C!EGHI!J
+A!B!C!D!EFHIJ + A!D!E!F + !AB!H + A!BC!DFG!HIJ + !B!CD!HI!J + !BH!IJ + DI + ABCDE!G!H!I!J + AB!C!D!E!F!H!I!J
+C + A!B!F + ABC!D!H + A!BCD!EFG!HIJ
+ABC!D!EFGH!I!J + !EGH + !A!B!C!D!F!I + G + A!B!C!D!EF!GHI!J + !AB!C!DEFG!HI!J + D + !AB!C!DEFG!HIJ + B!C!EFH + !BCDI + DJ + FG + !BE!G!I
+I!J + A!B!EFG!HJ + !G + CD!F!GH!J + AB!C!DE!FG!HIJ + I + !A!C!HI + IJ + !C!G!H!J + !A!B!CDE!FHIJ + !BCDEGJ + !BCDE!GHI
+!A!B!C!EG!H!I + BG + !AFH + !A!B!CD!E!F!GHI + A!B!C!D!E!FG!H!I!J + !A!B!CE!FG!H!I!J + A + BF!H + !A!B!C!D!EF!GHI!J + C!H + AB!CDEF!GHIJ + !A!H + ABDEF!G!H!IJ
+!A!B!DEF!G!HI + C!DH + BC!DGH!I!J + !F + !I + !A!BCDEFGHI!J + !E!G + !EHJ + BD!GH!I
+DJ + AB!E!HIJ + E!F!G!H!I + A!FG!I + E!I + ABC!D!EFGHI + !BC!D!EH!I + FG + !AB
+!F!J + !B!CD!EF!GHI!J + !A!B!CD!E!FG!H!I!J
+!A!B!C!F!J + !CF + !A!CF + !A!B!DEGH!I
+!C + !ABDEI!J + ABCD!E!F!G!H!I!J + !C!GH + AB!C!DE!F!H!IJ + !AE!IJ
+!AE!H + DEHJ + !B!E!I + AC!DEFG!HI
+HJ + !DIJ + J + !B!EF + !A!B!C!DEFGHIJ + !C + ACDH + !B!EI + FGHI!J + !A!BCDEF!G!HIJ + AB!CDEFGHIJ + A!EH + !AB!D!F!G!H
+!AFG!H!I + !A!E + ABCDEF!GH!IJ + !BC!D!H + !B!CDFG + AD!J + !A!D!GH!J + B!F!H!J + !H + AB!C!D!EF!G!H!J + !A!BCD!E!G!IJ + I!J + DF!J + C!DE!FG!H!I!J
+B!C!D!EHI!J + A!B + BCDFJ + !ABC!D!E!FH!I!J + !EHJ + !C!H!I + B!CDEGJ + DI + !A!B!CDFG!H!I!J + !A!BCDE!FH!I!J
+DI + !ADFH!IJ + D!E + ABCEF!G!IJ + DE!G + !BF!G!I + B!CDE!F!GH!I!J
+!BF!G!J + !ABC!D!GH + !B + AC!DFH + !C + !ABC!D!FGH!IJ + !ABDE!I!J + !AB!D!EGI!J + !GH
+!F + !ACDEFHI + A!CDEFGI!J + !BC!D!E!FG!H!J + D
+AB!C!DE!FG + BJ + !A!B!DE!F!GH!J + !A!D!E!FHJ + A!BC!E!F!H!J
+A!H + !A!B!C!D!HI + A!C!DEF + !BE + ABC!DE!F!H!J + !ABC!D!F!G!HIJ + BCD!E!F!GHI!J + !ABC!D!E!FGHIJ + ABD!EF!HJ + !ABC!DFG!HI!J + A!BC!DH + !BF
+A!FGH!I + AE!H + BG!H + !AB!CD!FG!H!I + !ABCD!E!F!GH!I!J + !ABDE!FG!H!IJ + D + !A!C!D!GI!J + B!DEFGH!IJ + G + !HJ + A!BD!E!FG!H!IJ + CF + A!C!D!F!G!HIJ
+!AB!D!EF!G!HIJ + I + A!CD!EG!IJ + !A + !A!BC!DE!FG!HJ + AB!CDE!F + BE + A!B!D!EG!HI + AF + !A!B!DH!IJ + ACDEFG!HI + !AC!FH!J + !BDEFGH!I + BF
+!BD!EF!GI + D!FH + !B!I!J + A!B!C!D!E!F!GH!I + B!D!G!HJ + !A!BE!G!HIJ + !A!CD!HI + !B
+!CDH + !C!F!J + !F!J + B!J + !A!CEF!G!HJ + DF + !A!BCEF!I + !F!HJ + A!B!C!DE!FGHIJ + AJ + A!B!C!DE!FGH!IJ + !C!F!GIJ + AB!D!GI + !C
+!B!F + B!CE!G + !A!B!C!DE!FG!H!I!J + A!BC!DE!FG!HIJ + !AC!DF!GHIJ + !AC
+AB!D!EFG!H!I!J + AB!C!DE!FG!H!IJ + ABCD!E!F!G!H!IJ + !A!B!CDE!FG!HIJ + !A!BC!E!FGJ
+!D!EH!IJ + !A!BC!D!EFGI + DEF!IJ + !B!DEHI
+!AB!C!D!E!FG!H!IJ + A!B!CD!E!FGHIJ + !BDEF!I + BDE!FG + !D!F!I + J + A!BCDEF!G!H!I!J + C!DE!FHI
+!A!C!D!F!G!H!I + !AD!EF!GHJ + !AB!CF!G!HIJ
+AB + ACDEFGIJ + A!B!C!D!E!FGH!I!J + A!BC!FGH + !B!CD!E!F!GH!I!J + A!B!C!DE!F!GH!I!J
+AB!CEF!GH!J + !A!BC!D!EFGH!I!J + !D!GJ + BCD!E!F!IJ + I + !H
+!A!B!DE!HI + AB!CG!I + !F + !B!CDFGHIJ + AB!CDEF!G!H!IJ + A!G + !AB!C!DEFI + I + !A!BC!DFHJ + !D + B + B!D!I
+!C!H + C + A!DF!H!IJ + A!IJ + !B!DHIJ + BC!H!IJ + A!B!C!D!E!F!G!H!IJ
+!A!BC!FH + !DH + FI + AB!DG!J + !BC!DEG!I + BF!G!I + !ABCD!F!GI!J + B!C!D!E!FGHIJ + F
+A!B!CD!E!H!I + !C!GI + A!BCD!EGHI!J + A!B!CE!F!H!I + B + !D + A!B!GHJ + AB!C!D!E!F!G!H!I!J + !B!FI
+A!C!DFI + !ACDE!J + CD!E!F!GH + A!I + !A!BCD!E!F!G!HIJ + !BF!G + AB!EFG!HI!J + AB!CDE!FGHI!J + !AC!EF!HIJ + B!CE!FGI + !ABCDEF!HIJ + !DI + AB!E!G
+!A!BC!DE!F!HI!J + AB + BC!EFG!J + !BEFG + !B!CEF!GI + DE!FG!HI!J + !ACD!I
+!ACDEF!HI!J + !A!BCDEFGH!I + A!BC!DE!F!G!H!I!J + !ABD!EF!GH!IJ + B!J + !C!D!EF!GH + C!D!FG + AC!I + AB!CEH!IJ + BD!GI + BDE + A!D!F!GI
+!B!D!FG!J + !D!EGIJ + !A!E!F!G!H!I!J + ACDE!G!HJ + !BC!HJ
+ABCDE!F!GHIJ + EI + !A!BCE!G!H
+ACG + !A!BFH!IJ + A!B!C!DFG!HIJ + !B!CDFHJ + !A!BDE!F!GH!J + !A!B!C!E!G!HIJ
+EF + !ABC!DEF!G!HI + G!J + A!C!FHJ + A!B!CDE!F!G!HI!J + !AC!F!I + !ABDF!HI!J + !C!D!EFG!HIJ + !DEFGHIJ + !AB!DFI + A!BCEF + A!B!CE!H + !B!C!D!GH!I
+ABGH!I!J + G + !D!GJ + A!BC!D!EF!G!J + A!C!J + HIJ
+ABCD!E!FG!H!IJ + !BC!D!FJ + B!CE!HI + BDH!I + ADH + D!F + ABCDE!F!G!J + E + B!DG + AB!DE!F!GH!IJ + A!CD!EFG!H
+!A!BCD!E!F!HI + !AD!EFJ + !C!D!FJ + A!C!D!F!G!H!IJ + !A!DEFG!I + !ABC!DEFG!H!I!J + ABD!G!HI!J + G + !BC!F!G + A!BCE!FG!HI!J + AB!CD!E!F!G!HJ + CG
+AB!C!EGH!J + AB!DEFHIJ + !AB!CDEFG!H!I!J
+CJ + !CDFGHJ + !A!D + !CDEF!G!H!J + !BC!DEF!H!I!J + ABC!EG!H!J + F!G!I + A!BEF!HIJ + B!C!DEF!HI!J
+G + !A!D + !AD!G + !GHJ + !AB!D!G!H + G!HI + EHJ + !C!D!E!FG!H!I!J + H + B
+B!CE!FG + !BCE!GH + C!J
+!B!CEFH!I!J + !C!DEHI!J + BCEGH!I + A!CD!E!FHJ + B!C!D!E!FH!I
+BCFG!HI + E!F!HI + !G
+I + !I + !A!B!CDE!FGH!J + !AC!D!E!FH!J + B!DEHI
+DGH!IJ + !A!E!G!IJ + !B!C!E!F!G!HJ + !B!C!G!J + A!BC!EFG!I!J + AB!C!D!EF!GH!I!J + !A!B!C!DEF!G!H!IJ + !A!B!CDE!G!HIJ + DGH + !BF!HI + A!B!C!E!FH!J + AC!D!E!GH!IJ + B!C!EGI!J
+AI + AB!CD!E!F!H!IJ + !BCDEFGH!IJ + B!CD!EFG!H!IJ + C!H!J + !AB + !BCDE!F!G!H!I!J + A!BC!DEFG!HIJ + C!D!EF!HJ + BCEF!J + ADE
+!A!BC!DE!FGHI!J + C!H!I!J + !AC!EGH!J + A!B!CEG!H!I + !A!BCE!GH!J + !A!C!EFGJ + A!I
+ABC!D!FGH!I + !A + !AB!C!DF!GH!I + !AB!C!DFGIJ + !B!D!EF + F + AE!H!I + !A!BCD!EFG!HJ + !C!H + A!B!CDE!F!GI + A!B!C!D!EFGHI!J + G
+BC!DE!FG!HIJ + BDG!IJ + I + !DF!G!J + A!B!C!DE!F!GH!IJ + !A!B!C!EJ
+!A!BCD!EF!GH!IJ + BCFI!J + !AB!C!DEFGHIJ + CF + !A!B!D!EFG!H!I!J + FJ + B!FH + AB!DE!F!H!IJ + C!E!GI + !AEF!H + AEH!I + !A!C!E!FGH!IJ + !BC!FI
+F!H!J + B!E!FGIJ + !A!BC!D!E!F!GI!J + A!B!FH + ACDEF!G!H!I!J
+CI + !A!B!DEFG + G + A!B!C!F!H!I!J + A!D!J
+!ABCD!F!HI!J + !FH!I + AB!CD!F!G!HI!J + !A!C!DF!H!IJ + !CH!I!J
+!A + !F + A!EI + !ADGH!I!J + !A!B!C!FG + !ACDE!HI!J + !A!BCDE!F!GH!IJ + BDE!GI + B!C!D!EF!GH!I + A + B!C!E!FHI + !A!BCDEJ
+DE!FI + A!BCD!E!GH!J + B!DF!IJ + B!DE!F!GH!IJ + ABC!DEF!GHI + ABC!E!F!G!HI!J + A + !ABC!D!FGH!IJ + !A!BC!D!E!FG!HIJ + !EF!H!IJ + A!BCD!EGHI + A!B!CD!E!FG!J + A!B!C!EFG!HIJ + B!DH
+A!BC!DEFG!H!IJ + !DEF!IJ + !C + !C!DEFGH + !EI + !BDE!FHI
+!ABCDF!G!J + !AC!EFG!HI + AC!DE!F + !AC!DE!FGH!I!J + !ACDEH!I!J + !A!CD!E!J + !A!BCDE!F!G!H!I!J + !E
+!BDE!H!I!J + !ABC!DEFG!HI!J + A!B!DEFG!HIJ
+AB!CDEG!IJ + !BC!DFGI + C!J + !AD!EFG!H!I + A!B!E!FG!J + !A!BD!HIJ + BCDHIJ + ABCDE!G!HIJ + !BC!D!E!F!G!H + !B!I!J + B!FI + !A!B!C!D!E!FGHI!J + !F!H
+!A!B!C!D!EF!GH!I!J + BCEF!GI!J + E + !A!B!C!D!E!FGH!J + !AB!C!DEFG!HJ + !A!BD!GI + !ABF!G!H!I + !A!B!CD!FG!H!I + A!BC!DE!FG!H!IJ
+!D!E!FG + B!D!EG!HI!J + !A!BC!DE!FG!I + BF!G!H + A!B!C!EF!GH!IJ + !A!DEFHI + AC!DF!H!I + !ABCD!EFG!HIJ + !A!D!H!J + !BDF!H!I!J + B!C!EHJ + !I
+!E!J + AC!EFG!IJ + !A!B!C!DEFGHIJ + C!J + !ABCDEFJ + !A + AB!I + !AB!C!D!EF!G!H!I + !AF!G!H!IJ + !GI
+C!F!I + AB!C!EFG!H!IJ + AB!C!DE!FH!I!J + A!C!E!F!HIJ
+A!B!DF!GHIJ + !BC!DE!F!G!H!IJ + !ABC!DE!F!GH!J + C!D!E + !E + AH!J + !B!DEJ + C!F!H!J + I + BD!EFGHIJ + AB!C!D!E!HI + B!DEG!H!I!J + F
+!ACD!EF!I + !A!BDH!I + C!D!EFGHJ + A + AB!CE!F!GHJ + !A!CD!F!G!J + !B!J + AG!I + A!B!HI + !A!BCD!EF!HIJ + A!BCDE!F!GHIJ
+!BCDE!FG!H!I!J + !C!D!HJ + !A!B!D!F!G + A!BC!G!H!I!J + ABC!DE!FH!IJ + !A!BC!DEH!IJ + ABC!D!H!IJ + B!C!FG!H!IJ + !ABC!EGHIJ + A!BC!D!FGH!I + A!C + !A!B!DFG + BE!G + !A!CE!G!IJ
+!BC!E!F!GI + !DFI + B!C!E!G!H!IJ + !D!J
+BF!I + !A!CDE!FG!H!IJ + AC!DEFG!HIJ + !ABC!DEFGH!IJ + !A!EFJ + A!B!DGHJ + C!D!EFHJ + !H!I + !AC!DFH + A!BC!DE!F!GH!IJ + AC!D!EG!HI!J + !B!C!EFH!I!J + !B!E!FGH + !CD!H
+CDEGH!IJ + !BDGH!IJ + !A!BC!D!EFG!H!IJ + !EJ + !CDF + !B!C!GI + ABC!DE!F!GH!IJ + !G + !A!B!CDE!F!GH!IJ + F + A!B!DE!FG!HI!J + I!J
+C!EF!IJ + !ABEFGHIJ + !E!FH!I!J + B!C!DEFG!H!J + A!B!CDEF!GH + !A!B!C!DEFG!HIJ + AD!F!G!J + !C!D!E!F!G!HJ + A + B!DEG!HI + A!D!EFGI + ABDEFG!H!J + !C!E!H
+CD!G + !DJ + C!E!FH + !B!DEF!HJ + !A!DG + !A + B!C!D!EF!G!HJ + !ABCDE!FG!H!IJ
+!AB!CDE!FG!H!J + !AIJ + !A!B!C!D!F!G!HI!J + !C!EFIJ + !AB!D!E!FG!I!J + !A!B + BC!E!F!H!I + A!B!D!GIJ + A!C!DEF!GHI + BD!EH + !CDEGHJ + ACDG!J
+!A!BCD!EF!GH!IJ + !BCEG!H!J + G + F + AB!D!G!H!J + ABCD!F!G!H!I!J + A!C!DE!HI + AF + !ABCDEF!G!HI!J + C!H!I + !AE!G
+!A!C!DE!FGIJ + !CEG!H + BEF!J + AE!GIJ + BC!DF!J + !D!F!G
+!AB!C!G!H!I + E!FI + DE!F!G!H!I!J
+A!B!C!D!E!J + !EFH!I + !AB!FG!H + !A!CEH
+ADEG!HJ + C!F!J + !A!BD!EF!J + B!CDEGI + ACD + ABCDFH + ACF!HI!J + DEFGI + CD!G!H!I!J
+AB!D!E!H!I + !BC!DE!F!G!H!IJ + BC!E!F!GHI!J + !DE!G + !BD!F + A!BC!DEFG!HI!J + !C!I
+A!BC!D!E!FGH!IJ + A!CD!EFI + ABCD!EG!I + CEGH + !DI!J + !DE
+!ABC!D!FG!H!I + A!B!CDE!F!G!HIJ + A!C!DEGJ
+!E!FI + !B!J + C
+B!DE + !ABCDE!FG!H!I + !A!FG!HI!J + !C + !A!BCEH!IJ + !C!FJ
+B!EFGH!I + !BE!H + !A!B!CD!EFG!H!I + !D!E!F!H!IJ + !J + B!C!E!FG!HIJ + B!I + ADEF!G!IJ + !H + A!E!F!G!H!I + !F!J + !HI + B!C!DE!I
+BCEFG!HIJ + A!C!DEF!G!H!IJ + !AE!FG!H!I + AB!C!D!E!FG!HIJ + AB!D!FHJ + B!C + !F + A!BCFGH!I + !ACD!E!F!GHI!J + A!BE!F!G!HIJ + I + A!F!I!J + B!D!EFGHI!J
+!D!E!G + BD!HIJ + F + BC!D!EFHJ + B!CDF!J + BG + A!C!D!FGI!J + !C!HI + B!CDE!FGH!IJ + !A!B!CD!E!H!I!J + DE!FHIJ + A
+!DEGH + EG + !A!C!E!F!H!J + ABC!D!E!F!GHI + B!J + A!BC!DF!G!HIJ
+CEF!G + DE!G!IJ + !BE!FH!J + !AB!C!DE!F!G + ABCD!E!GH!IJ + G + !F + !A!B!C!HJ + !BC!D!E!FI + !ACD!EGH!I + !A!B!CDI + A!H + BC!E!GHJ + !A!CDE!F!G!HJ
+!H!J + A!B!CD!E!F!GH + ABCDEFG!I!J + !E!H + A!BDF!GH!I + !AB!CD!EFGH!I!J + A!BCG!H!J
+A!BCDF!HIJ + !CE!F!H!I!J + !A!B!C!DEF!G!H!I!J + !A!BDF + A!BC!D!E!FGH!I!J + !C!I!J + B!CD!E!F!G!H!J
+AB!CGH!I!J + !A!H + !B!C + AB!CD!E!F!G!HIJ + A!B!C!DE!FGH!IJ + A!BCDE!F!G!HIJ
+!H + !A!B!CD!E!G!HIJ + !A!CD!EF!GH!IJ + A!BDE!FGI + B!CD!F!J + !BDI + CEH!IJ + A!B!EGIJ + !AC!GJ + !BD!EGI + !A!B!CDEF!GH!I!J + A!D!E!FHI!J + CE!F!HI + BF!I
+J + B + !CD!E!G!IJ + A!D!E!F!G!HIJ + D + BJ + !ABCEF!I + AG
+A!B!C!DE!FGHI + A!B!C!D!EFG!HIJ + BI + !B!D!F!G + !A!B!C!D!EFGHIJ + AE + !B!CEFG!HI + !AB!C + AB!CE!FGHIJ + !CDEH!IJ + D!HJ
+!B!CD!FG!H!IJ + B + !AB!C!D!G!IJ + !B!C!GI + !B!C!F!G!H!J + !D!FG + BC!D!FGHI!J + !G + A!B!DFGI + A!BC!D!EF!GHIJ
+CD!EF!HI + !ABCFG!H!I!J + !E!G + !C!I + !AB!CDEF!G!HI!J + B!C!EG!IJ + A!B!EJ + BDG + !A!B!C!D!EFGH!J + !B!CD!EF!H!IJ + !A!B!CD!EFGHI!J
+ABD!G + ABCDEGHI!J + CH!IJ + !DI + ABC!EFG!HIJ + B!D!E!FHJ + A!B!C!DEF!GH!IJ + !A!BD!E!G!J + !ABCD!FGJ + !BCEI!J + DF!J + !A!B!C!DF!G!J + !AB!C!D!EF!HIJ + B!C!DE!FG!I
+BCE!F!HIJ + B!CD!GH + CEHJ
+!BCDF!G!H!I + AB!C!FGH!J + C!E
+ABEG + A!BCD!E!FGHIJ + AC!DE!G + !CFG!J + A!CDEG!H!IJ + A!DEFI!J + !ACDE!FI + B!CDGHIJ + !A!B!CDE!F!G!I!J + !B!D + BCH + !ABC!DEFGJ
+!B!C!D!E!F!GH!IJ + AB!D!E!FG!HJ + !A!CH!J + !A!D!I + !EH!IJ + !BD!EGHIJ + A + AC!HI + !A!BC!E!F!G!HI + H + !AG
+CG!J + AC!E!FG!J + E!H + D!G + !G
+!D!F!G!H + AB!D!EFGH!I!J + D + A!B!C!DE!GHJ + B!CDE!FG!HI + !AC!DEF!GH!I + A!BCD!EF + !D + !A!B!CD!EFG!HI!J
+ABCD!E!F!G!HI!J + BE!GI + AF + !CDE!GH!J + ABC!FGIJ + !EF!I + G + BD!H!IJ
+ADE!J + !B!CDGIJ + !A!C!DEFG!HIJ + A!B!DEGH!IJ + AB!C!DEF!G!H!IJ + ABEH!I!J + A!B!GI + !B!CDEFGH!IJ + A!F + !ADEJ + A!FGH!I + F
+!A!B!CDE!GI!J + A!DE!FG!H!I + A!BCD!EFG!H!J + !ABC!EF!GHI!J + AB!CDEF!GH!I!J + F + BDEH + ABC!D!EFG!H!I + !A + !ACDEF!H!IJ + !D!EG!H + !BGI
+!A!C!DE!GHI!J + AC!D!E + B!DFG + !C!DE!F!GHIJ + !AB!C!D!EG!HI!J + ACDG + A!BE!G!I + !A!BDE!HI + AE + !A!B!CD!EFG!H!I + !B!CD!E!GH!I + !ADE!FIJ
+!BC!EFHJ + !B!CE!GH!IJ + !F + !A!B!CG!H!J + !A!B!D!F!G!HI!J + !A!BCDE!FGHIJ + ACD!EF!G!H!I!J + AC!DEHIJ + AEF!GHJ + A!B!C!E!FG!H!I!J + !ABEFGH!IJ + !BCD!F!G!I!J
+A!BC!F!G!HIJ + !A!CE!FGHIJ + BDHI + AFJ + !DJ + C!G!I + !A!CD!EG!H!J + !A!BCD!E!FGH!I!J + ACD!EH + ABC!D!EGH!IJ
+A!CDFGHIJ + A!BC!DE!F!G!HI!J + A!B!C!DEIJ + !AB!C!D!EF!GH!IJ + !A!BEGH + A!B!CD!E!F!G!HIJ + A!BCDE!FG!IJ + !A!C!DEF!GH!I!J + F!J + AB!C!D!E!F!G!HI + !ADE!G!I!J
+BCE!G!J + !B!D!E!FG!IJ + !A!CEG!H!IJ + !BC!DGH + B!H!J + !A!C!D!E!F!GH!I!J
+ABC!DE!FG!HI!J + B!C!D!F + E
+C!DEFH!I + BCE!G + A!BCDF!GH!I + !A!CGJ + B!CEFHI!J + !H + E + AB!CD!E!F!GH!I!J + ACDG!H!I!J + A!BCD!E!G!H!IJ + !B!C!DFGH!I + A!BCD!E!F!GHIJ
+J + !BCD!E!F!G!H!IJ + !A!FG!H
+AB!D!G!H!IJ + !A!B!CDEFGHIJ + GH + B!J + A!B!C!D!EHJ + !AB!CDEF!GHI!J + !H + ABC!D!EFG!H!IJ + B!C!DGH!J + A!BCE!FGH!I!J + A!BG!I + F + !A!B!CDEFGHI + A!BCD!EF!GIJ
+!A!C!DF!H + ABCD!EFGI + !CD!EF!G!HI + ADE!H + !A!BD!GJ + !D
+!J + !F!J + !A!C!F!GI!J + !C!F!GIJ + A!B!CJ
+A!BD!E!F!G!H!J + A!B!C!D!EF!G!H!IJ + ABC!DEFG!H!J + B!C!D!E!FGHIJ + !A!BCDGH!IJ + !A!BCDF!G!HI + B!C!DE!F!G!H!I!J
+D + C + !ABC!DEFG!H!J + !C!DE!G!I!J + !BEFG!I!J + !C!DGH + B + !D
+B!C + BC!DEF!H!J + B!C!D!E!F!I!J + ABD!H!I + !C!H + !A!BCDEF!GH!IJ + DE!HJ + !C!E + A!F!I!J + !A!BC!D!E!FGH
+!ABC!D!EF!GHIJ + D!F + !A!BC!DE!FGH!I + !AC!DE!IJ + !A!BC!DEF!GI!J + !BH!I!J + !AE!F!GHJ + C!G + A!FGH + !BDFGH + !BCD!E!GJ + !D!E!I!J + !D
+AC + !EH + AB!C!D!EF!H!IJ + !AB!C!DEFG!H!I + !A!BC!D!E!FG!HIJ + C!DFH + !BCD!E!FGH + CI
+!A!BDEFGH!J + B!EH + !AC!D!E!G!H!I!J + !I + !C!DG!H!J + ABC!D!E!I!J + ABD!EF!GH!I + BC!H!IJ
+B + A!BC!DE!F!H!IJ + !A + ACFG!J + AH!IJ + CD + AB!C!DE!F!GH!I!J + !AB!D!E!F!GJ + ACDEF!GI!J + ABCDEFG!HI!J + !AB!CE!F!G!H!IJ + !A!BC!D!EFG!HIJ
+ADFGH!IJ + BCDG!H!I + !ABCDEFGHI!J + B!G!I + !C!DE!H!J + BF!J + C!E + A!EHI + !E!F!G!H
+C!D!F!H!IJ + H + E!H!I + !B!C!DEGH!J + A!B!DE!GIJ + BD!EF!GI
+ACDE!F!G!HI + A!BC!D!EFH!IJ + DE!F!J + !J + DF!HJ + A!DE!IJ
+!BC!D!EFG!HI!J + AB!E!G!HI!J + !ABCD!F!H!I!J + B!D!I + BFH + !ABCDG!J + !BDE!FH!I + !ABC!DG!HIJ + !CEG!I!J
+!CG + !BCDF!G!HI!J + !A!B!CE!FG!IJ + G + !A!B!C!DE!FGH!IJ + B + !C!D!EF!G!HIJ + !A!C!EFG!I + A!E
+!I + A!CD!EF!GH!J + !CF!G!I!J + A!B!DEGJ + !ADEF!H!I!J
+!B!F!H + !B!DEFG!HI!J + AC!DEGHI!J + IJ + J + BDHIJ + ABDE!F!G!I + FH + AC!DE!FGH!I!J + !BE!G!IJ + ABCD!EF!G!H!IJ
+HJ + A + A!BCD!FG!HIJ + C!DF!G!J + A!BC!D!EGH!J + C!HJ + !D + A!C!D!FG!IJ + A!EGHJ + !AB!D!I + !C!HJ + AC!DE!F!G!I
+!BC!D!EF!GH!IJ + A!B!C!D!EFHI + !A!B!C!DEF!G!H!IJ + FGH + !A!CDF!I!J + C!D!GI + F!G + A!BF!I + B!C!F!H!I + AD!E!FG!I + !A!BC!D!FG!H
+!A!D!FHIJ + AH + EG + BC!D!G + B!C!D!FG + DG!H + !AB
+!A!D!E!GI + A!BC!H!IJ + !EH + !AB!CD!EG!H!I!J + !AB!DE!FH!I!J + AB!C!D!E!FH!I + !A!B!E!FH!J + !DFGH
+ACHI + !A!B!C!E!FGH!I!J + !A!B!C!DFH!I + !CG + A!B!C!D!E!F!GHIJ + !AB!DEF!GH!I!J + !A!B!DE!F!H + !ADEFG!H!IJ
+!B!CDFG!H + !J + !CEFGHI + !BD!F!G!HI!J + C!DHI + AF!I
+!F!G + A!BCE!FGH + !B!CD!EF!G!HJ + D!FI!J + A!EG!I + !AB!CD!J + !ABCDEF!H!IJ + !A!B!DE!I!J + !DH!I + J + !B!D!GH!I + ACE!GHJ + !A!BC!D!EF!G!H!I!J + !G
+ABCDE!F!G!H!I!J + AB!D!E!G!I + ACE!G!H!I + !AB!C!DE!F!HI!J + D + J + !D + !CDE!FGI
+AB!FGHJ + ABC!D!EF!GHI!J + !A!B!CDE!FGH!I!J + B!CDG!HI!J + !J + !FJ + AC!E + CE!FI!J + A!B!CDG!HJ + !A!BD!EF!G!H!IJ
+!B!E!F!G!IJ + !B!G!I!J + F + A!DEFG!H!I!J + A!C!DEG!H!IJ + B!CDE!F!GH!I + DI + !B!CDEF!GH!J + !E + !I + !J + !B + !B!G!H!I!J + AB!C!DEG!HI!J
+B!GI + AB!C!DEFG!HIJ + !A!BC!E!H!I!J + AG!H + !B!C!DEF!G!HIJ + A!BC!D!E!FGHI!J + G!H!IJ + A!B!CDE!FGHI!J + C!D!F!G!I + A!BC!DF!G!H!J + !DFGHJ + !ABC!E!F!G!HIJ + !BD!GHIJ
+!EFGH + !AB!D!E!FG + !BC!D!F + B!CEFG!J + A!D!FGH!IJ + B!DF + !ACD!E!GH!IJ + A!B!C!EF!G!HJ + !FGIJ + EI + D!J + !AB!C!F!G + ACEF!GH!I + !A!CDE!F!GH!I!J
+CE!I!J + !B!C!H!IJ + !A!CD!EF!GJ + A!D!EF!H!IJ + !CD + CD!EJ + A!D + C!G + BC!D!G + !BCDF + !AB!CD!EF!G!H!I!J + B!DE!FH!J + E!H!J
+!A!B!HI!J + BEFG + !B!CDEFGH!I!J + A!B!DEF!HJ + ACDE!F!GI!J + AB!CDEF!GH!I!J + ABCD!F!GH!IJ
+!B + A!BCD!EG!H!IJ + DF!G!J + !A!CE!FGHI
+B!C!F!G!H + !H!J + !A!BCDE!FG!HI!J + A!BC!D!E!FG!HIJ + E
+!AB!C!DE!FIJ + !AB!C!E!FI!J + A!B!CDE!F!H!J + !A!C!G!H!IJ + !D + !A + A!B!C!DEF!GHIJ
+EF!J + ADHI!J + !G + C!D!EF!G + !B!HI + !BCDE!F!GH!I!J + BC!FI + !AB!C!D!EFG!H!J
+!A + BC!F!GH!IJ + BC!EF!GH!J + !C + AB!C!D!EF!HJ + !ABC!D!EF!G!H!I!J + !A!B
+A!B!C!DFGH!J + A!B!CDE!FGH!I!J + !A!B!C!D!EFGHI!J + !B!CDEF!GH!I!J + !C!EG!H!I + A!CDJ + EF!GHIJ + ABCD!GHIJ + A!BC!DE!F!GH!IJ + B!D!EI!J + !AB!C!D!EF!GH!I!J + !B!C!DHI + E + C
+ABCDEF!GH!IJ + !AB!CD!EFG!HIJ + BCFH!IJ + !CHIJ + A!EFGH!IJ + D!E!G + !DI
+!BCD!EFH!IJ + AD!E!H!J + A!F!J + !A!B!E!FG!HIJ + G!I + B + !ABC!D + !ABC!DE!FG!HIJ + !D!FH + AB!C!E!IJ + !ABC!D!EFG!HI
+BD + H + AF + C + A!B!I + !A!BDE!HI!J
+BD + B!DE!F!H!IJ + !A!B!DG!IJ + !C!GJ + A!EGJ + BCE!FG!HIJ + !A!BCD!E!G!H!IJ + !E!G + !ADE!IJ + F
+I!J + BH + A!C!E!FIJ + !B!C!D!FH + !B!CE!G!J + CF!G!I + BD!EGI + !A!CE!GH!IJ + !CEFG!HI!J + AB!C!D!EFG!H!IJ + BD!F!H
+CDEFGHIJ + !A!BC!D!EFG!HI!J + !E!G + !B!CHJ + AC!F!G!HIJ + !A!B!CDEGI!J + AB!DFH!I!J + A!BC!D!E!F!GHIJ + A!BC!FGH!I!J
+!ABD!EF!GH!I!J + !A!BC!D!EFGIJ + AC!H + !B!D!FH!I + F!H + A!BC!DEFG!H!IJ + !AB!CF!HI!J
+!CD!J + !A!C!FG!H + !ABC!DEFGH!IJ + !CDE!F + I!J + A!B!C!D!E!F!GH!IJ + A!F
+!A!BCD!EFGH!IJ + A!B!C!DE!F!GH!IJ + !BC!DE!FI!J + F!H + DE + A!B!D!I + !A!H + !B + B!C!DE!F!I!J + !A!B!C!DE!F!GIJ
+AB!CJ + !A!B!EFG + I + !CD!E!H + !AD + B!F!HJ + F + !A!B!CEF!G!HI!J + AB!D!EF!G!H!J + A!BC!D!EFH!IJ + !DEF!GJ + !B!CD!F!H + !B!D!GH + A!BC!DEFG!H
+!B!GI + !BC!H!J + B!CI + !AB!CDEFH!I
+!BD!FGH + CGHI + AB!CFGH!IJ + B!CEF!GHIJ + B + !BC!D!EG!J + !ABCD!EF!G!J + B!DEFGHI + A!BC!E!G + DHJ + A!BEF!J + !A!B!E!F!GH!IJ + !A!BEF!G!I + !B!DF!GHJ
+!I + !F + !BC!DF!G!I!J + A!CEJ + !C + BDFG + !AB!C!D!E!FG!I + !AB!D!IJ + !C!DEGJ
+D!G!H + !A!BC!DEF!GHI!J + AF + A!BD!GJ + !J + ABC!DEF!H!I!J
+H + A!F + C!DFG!H!I + !D!EFGH!I!J + !BI + ABCD!E!F!G!J + !AB!C!D!E!F!GHI!J + !A!BDE!F!G!H!IJ + !CEG + !ACD!E!G!HIJ + !BH!I + A!B!CF!H!IJ + B!C!GJ
+!C!FG!J + !A!D!EFGJ + ABC!E!G!HIJ + !A!B!C!DEG!IJ + A!CHJ
+!ABC!EF!G!H!J + !ABC!DEFGHI + !AB!C!D!EF!GH!I!J + !I!J
+A!D!EGH + ABCDEFGI + AB!EFGIJ + !AB!CDF!G!H!I!J + ABCF!GH + CDI
+!AB!CD!E!F!G!HI!J + !DFI + !A!BCFHIJ + !AB!E!G!HIJ
+!BJ + !EG + BEHI + !BFH!I!J + !AB!C!DE!F!G!H!I!J + GI + !ACE!FGIJ + A!BC!DE!FGHIJ + !A!H + !CD!E + C!EFG!I + !A!BCDEF!GHI + ACE!F!HI
+!A!B!E!FGH + B!H + A + !A!DJ + !CF + B!DEI!J + ABHJ + AB!D!E!FH!I + AD + A!B!CDE!FG!H!I!J + !AC!D!EFG!HI!J + AF + A!BCDE!F!G!HIJ
+!A!BDG!H + AFG!H!J + !AB!C!D!F!GH!J + B!CFG!I + !C!EG + AC!DEFG!H!I!J + !A!C!D!E!FG!HI + A!B!CF!H + AG!HI + D!E + !G!J + !D!EI + B!C!D!F!GHI!J
+AB!CD!EGHI!J + ABC!D!EFG!H!I!J + A!F + A!B!C!FG!I + !A!B!C!D!EG!H!IJ + !ABCDE!FG!HI + C!EFI!J + GJ + H + !AB!EG!H + !FG + !FG!H!J + B!F!GH
+!I + !AB!C!DE!F!G!HI!J + A + !ADEF + !A!B!DH + !A!BC!DE!F!HJ + !G!J + A!C!D!FG!I!J + B!E!FG!H!I!J + A!BC!E!F!G!HIJ + !B!CD!HI!J + !ABCD!FH
+!AB!C!DEGH!I + !FH!J + !A!B!DE!FI!J + !DF + C + ABE!H!I!J
+!A!B!CD!E!FGHIJ + !B + !ABC!D!EGH
+!F!G + E!I + !CH + !ACEF!J + E + BC!DF!G!HJ + !BE!FHI!J + A!BC!D!FG!H!IJ + CD!EHI!J + BFJ
+!BEFI!J + !AD!GH + EF!H!J + !A!G + H + B + EG + !A!B!CDFG!H!J + !A!BDH!J
+!C!E!F!GH!J + A!D!EG!HIJ + !A!BCE!FH!IJ + AB!CDE!FG!HI!J + A!BC!DEF!GJ + !AB!C!DFG!H!I!J + !A!B!G!HJ + !A!B!DFG!H + !EI + BGH
+A!B!D!E!F!GH!IJ + A!B!C!DEG!H!IJ + !B!EJ + !BE!F!IJ + !FI + !A!BCDE!F!GHI + G!I + A!BC!D!EFGHI!J + ABD!E!FGI + !A!DG!HIJ + !A!BCD!E!F!GH!IJ + A!B!GJ + BCG!H!I + B
+ADI!J + !CD!E!G + !I + !DE!FI + A!BC!DEH!I + !F!G + A!BC!D!E!F!G!HI!J + BDEF!G!IJ + AD!EF!GIJ + !D!EH!I + !DEI!J
+!BCD!EH!IJ + ABDHIJ + ACDE!GI + !E!HI + !AHI + A!BCD!E!FG!H!I!J + !A!C!D!EF!HJ + A!B!CD!E!F!GHIJ + !A!CDEF!GHI!J + I
+B!CDEH!I + AC!DE!FG!HIJ + ABD!EF!H!IJ + A!B!CDE!F!G!H + !HI + !B!DEFHI!J + !A!BCDEFGH!IJ + !B!CEG + AE!FG + !D!I!J
+!A!G + !DEJ + !DI + J + ABCD!EGH!J + !B!C!EG + BCI + !I
+A!BC!DE!F!G!H!I + !CDG + !BCD!GIJ
+A!B!C!DE!F!GH!IJ + !ACD!J + BCEGHIJ + B!D!FGH + !AB!CD!EF!GHIJ + !ABC!DE!FG!HI!J + C + A!BC!DE!FG!H!IJ + A!B!EF!GJ + B!C!D!GJ + !A!DF!HI!J + !FHIJ
+D!J + A!B!CDEF!GH!J + CD!GH!J + ACE!GI + ABCD!EF!GHIJ + H + !C + AB!CEFG!H!J + !A!B!C!D!E!FGHIJ
+!ACDFGI + !A!DE!FGH!I + ADHJ + ABCE!FG!H!IJ + ABCDE!F!G!H!IJ + BDE!F!I!J + B!E!F!IJ + A!BCD!E!F!H!I!J + F + !J + AB!CD!EFGH!IJ + A!BC!E!FH!I
+GJ + !AB!C!DEFG!I!J + A!BC!EFH + A!BC!D!EG!HI!J + !BG
+!B!DIJ + ACDF!G!H!I!J + !G!HI + B!D!F + A!BCDEFG!H!IJ + C!EF + !ABC!D!EF!GH!I!J + !A!C!D!FGH!I!J + !A!BD!FHIJ + !C!DEF!G!H + AB!D!GHIJ
+D!G!H!I + AB!C!DE!F!H!I + A!BC!DEFGH!I!J + !AB!DF!GHI!J + !A!BC!DE!FG!HIJ + !GHI
+AB!CDG!J + !AC!D!E!F!GH!IJ + ACDFH!J + !BCDEF!H!I!J + !CE!G!I!J + DE!F!H + !AF + G
+A!B!J + !CD!H + A!BD!FGHIJ + J + !A!B!C!DEF!GH!IJ + B!EH!I!J + !ABD!EF!GH!J + A!BD + CD!G + !C!D!IJ
+!ABC!DFGI!J + G + C!E + A + !BG!I
+!B!C!D!E!F!GH!I + GH!I + !I + !A!FG + !D + BEF!GJ + !A!B!CDFGHIJ + B!CD!E!G!H!IJ + !A!B!C!DEF!G!H!IJ
+!A!BC!D!E!FGHI!J + A!BCD!EFGH!IJ + A!BCE!FGHJ + !A!B!DFG!HI!J + A!E!FGHI + ABCE!F!GIJ + CDG + !ABC!DE!HIJ + !AFH + ACD!FI + F!H!J
+!B!CDE!F!H!I + !A!BC!E!GJ + ABC!D!E!FG!IJ
+ADH!IJ + !ABCD!E!FGH!IJ + !I!J + !D!GI + !AB!FHI!J
+!J + B!CEG!J + C!D + !C!FJ + BCGJ + !A!B!D!F!H!I + !B!CD!EF!GH + !BD!E!GH!I + E!F!J
+!H + ABDG + !CFI!J + A + A!E + !AB!EFH!I!J + AD!EFG!HI!J + ACDEF!G!HIJ + !A!BCDF!H!IJ + BC!D!EF!G!H
+A!BC!DE!FGHIJ + !B!C!FHJ + !H!I + !ABC!D!F!GH!IJ + J + !D!EG!H!I + !B!CD!F!H!I!J + AB!DE!GH!J + !BD!J + A!B!F!HI + A!B!CD!E!FGH!IJ + CE!F!HIJ
+!D + !A!F!H + !B!CDE!FGHI + EI + !A!B!F!HIJ + F + !AB!DG!I + C + A!D!F!GH!I!J
+E!F!H + A!E + ACE!F!G!I!J + !A!BDE!F!GH!IJ + !AB!C!D!F!GHI + !A!BCDEFGH + B!C!G + !A!B!DE!F!GHJ + C + !AB!GH + !A!C!D!GHIJ + AB!CDEF!G!H!I!J + BC!DE!FG!I!J + !AC!FIJ
+EH + !A!EFG + !A!BCEGI + B!C!DE!G!J + !AB!DE!F!H!IJ + !A!B!DEGHIJ + BCDE!FGH!J + A!BD!G!H + !AB!D!E!FGHJ
+!A!C!D!E!F!GH!I!J + !CD + B!FJ + C!F + !A!B!CEHIJ
+!B!I!J + !CFG!H + E!G!H + BCD!E!F!G!H!IJ + A!BC!DEI!J + !DE!I + !ABC!DE!FGI!J + E!G!I + A!DEI + !AD!F!IJ + !B!J + ABCD!E!FGHIJ + !A!B!GH + AB!CDE!FGH!IJ
+!AG + !BD + !E!H + !B!F + A!B!CD!GHI + !C!I!J + A!BC!DEFGH!IJ + !C!H!I + !B!D!E!FG!H + BFH!IJ + DGH!J
+!ABCDE!FG!I!J + !A!BCD!E!F!GH + !A!B!CDEF!GHI!J + !C!G!J + !A!CG
+!A!B!C!D!E!F!G + EGIJ + A!C!DF!GH!I!J
+!BE!F + A!B!CDE!G!H!I!J + !B!C!DF!GIJ + B!EG!HI!J + !ABC!DE!H!J + !A!C!DEF!IJ + AD!F!I!J + !F!GJ + C
+!E!F!H + A!CD!I + BDEFI + H + B!CDG!H + !A!CDEFG + ABD!F + A!BCD!EF!G!HI!J + J + !A + ACHJ + AB!DEF!G!HI
+!B!EH!I!J + B!CDE!F!G!H + ACDEF!HI + !H + A!B!CDE!F!GH!I!J + ABC!E!FHI!J + !A!B!CDEF!G!HIJ + AB!CD!EF!G!H!I!J
+!B!CD!F!HJ + A!CDE!GHI!J + !DH + ABEH + !ADFGHI!J + !A!BCDE!F!G!IJ
+!BF!H!J + !AB!E!G!H!IJ + ABCD!EFGHIJ + A!B!C!D!E!FH!I!J + !C!DG + !ABE + !ACE!F!H + B!CE!G!HI!J + !A!BEF!HIJ + !A!B!C!D!EFG!H!I!J
+!A!B!CD!E!F!I!J + C!E + AB!C!DE!FG!H!I!J
+!C!H + C!GH!J + !AB!C!E!I + AB!CD!E!F!GHIJ + A + !A!BCD!E!FGHIJ + A!CDHI!J + A!BC!DEF!G!HI!J + !AB!C!D!E!GHI!J + !E
+!CFG + BE!FG!I!J + A!BC!D!E!FGHI!J + !BDHI + !BCD!E!FGHI + !B!CDE!FGH!IJ + !AB!CDEF!GHJ + !A!BDE!GJ + !AB!C!DE!FGHI!J + A!B!C!DEHI + B!DJ + CD!EFGI + !ABEJ
+!A!C!FH + J + AB!CD!EFG!HI!J + !DH!I + ABCDF!G!H + !A!BCEF!G!H!I
+!BCDEG!HI + E + !C!G!J + A!BC!DEF!GH!I + A!B + A!B!FG!H + !B!CD!E!FGH!I + G!J + AC!DH + A!CD!EFG!H!J + !E + AD
+!AB!HJ + A!BCEF!G!J + !ACD!E!F!G!IJ + !D!J + DE!F!GH + !DGJ + A!B!CD!FGH!I!J + E!F!H + B!CDI + !A!BCDE!FG!H!IJ + !ABC!DE!F!GHI!J + !C!F + !A!BCD!E!F!GH!IJ + D!FH
+!BC!FGJ + CG!IJ + !I
+!CDE!FH!I!J + A!BC!EG!HIJ + !G!J + !C!D!J + !G + CDE!I + A
+!ADEH!I!J + AB!CD!EFGH!IJ + ABC!DE!FGHI!J + !F + !AB!D!E!F!GHJ + !AB!CE!FGH!I!J
+!CDI + !ABC!E!FG!HJ + !ACFG + A!F!J + !AB!C!D!EF!GH!I + !J + !A!BC!D!F!GJ + !C + !B!E!F!GJ + A!B!CGJ + ABDEFG!H + !B!E!G
+!BCDGHJ + !A!BC!DEFGHI!J + !F!G + ABDG!I + !F!H
+B!G + A!B!CD!E!F!G!H!I!J + AB!C!D!F!G!H!J + !F + ABC!DE!F!G!HJ + !AE + !DGIJ + AB + !A!CDEF!G!HI!J
+!B!CD!EGH!J + !A!DEG!I!J + ABCEF!GI + !A!BCD!E!F!G!HI!J + A!B!C!D!E!FG!IJ + A!E!H!J + A!BCD!E!F!G!H!I!J + !CD!E!F!G!H!I!J
+!A!B!CE!FHI!J + !BFJ + B!E + !AB!CDF!G + !A!CF + FH + D + !A!B!CD!F!GI + A!BC!DEFG!H!I + !B!F!G!I!J + !B!C!FG!I
+FI + B!C!D!FG!IJ + !A + A!B!D!EG!H!I!J + !AB!CDEFHI!J + A!EFI + ABC!D!EGHI!J + !G + A!CD!EFIJ + !D + B!CDEF!G!H!I!J + AB!CDEFG!H + D!F
+E!G + !ABCD!E!GHIJ + BD!I!J + A!BCDE!F!GHJ + A!BC!DE!F!G!HI!J + ABE!G!J + !B!EF!G!H + !AB!D!G!I!J + B!CD!E!FGHJ + !C!G!I!J + C!GH!I + A!CE!FHI + A!BCDE!FGHI!J + B!F
+A!B!C!E!FG!H!I!J + !A!BCD!E!F!GH!I!J + AC!D!EF!G!HI!J + !EGI!J + D!G + !E!I!J
+!ABCEFH!IJ + !AB!C!D!EFG!H!I!J + !ACEGH + !A!BCD!E!F!GH!I!J + !A!BEF!G!I + !B!F + !ABC!GHJ + ADG!I + !ABC!DEF!GH!I!J
+B!G!HI + !F + A!CDEGI + E + !AB!CDE!FGHIJ
+!ABC!EFG!HI!J + D!EF!HIJ + !J
+!A!B!CDEF!G!I + !I + ABCDE!FG!HIJ
+!B + !A!GH + !BD!F!GI!J + EF!GHIJ + B!FJ + !ABI + AD!F!J + !BH + !ABCDE!F!GH!I!J + !A!CEF!G!H!I!J + !CD!F!GI + A!B!D!G!J + !ABCDGH!I!J + !G
+A!B!C!DEF!GH!I!J + A!BC!D!E!F!G!HJ + CDFG + !DI + !AB!EFGH!I!J + B!C!D!EF!GH + !B!C!DE!GH!I!J + !AB!CEFGHI!J + BCD!EGH + !J + A!B!C!FHI + AFHI
+!CG + !DI!J + !ACDFHJ + C!DE!FH + !C!H + !A!C + B!CDEF!GIJ + !I + !C!E!FGH!IJ + !A!C!DE!F!I + !AC!E!GH!I!J + AD + A!DG!I!J
+C!D!EFI + !I + !D!FI + !AD!GI + A!BG!HIJ + !ABCDE!FHI + !AC!J
+!A!CDE!FGHI + !A!B!D!E!F!GH!I + !AC!GH!I + A!B!C!D!EF!GHI!J + !ABC!DE
+AB!C!D!E!F!H!J + !A!BDEF!GH!I + DFG!H!I + !B!DE!F!G!HI!J + !CDGH!J + !E!G!HI + !A!BEI + !J
+!AB!CD!HIJ + C!D!EFG!HIJ + AB!C!DE!F!G!H!I!J + !ADEGH + !C!G!IJ + A!BCE!F!IJ
+E!J + !C + A!C!DFGHI + !CD!HJ + A!DEG!H!IJ + !B!C!EGH!J + DE!J + !B + AB!C!D!FG!J + A!BC!EF!GHIJ + AB!CDE!FI!J
+A!BCDEF!G!HIJ + A!BCD!E!F!GHIJ + ABCDEFH!I!J + AB!CD!E!F!G!HJ + H + A!C!D!F!GH + !A!B!C!D!FG!HI!J + B + HJ + A!BCDF!J + FG!I + !AB!DEF!GJ + !AB!C!DE!FGHI!J
+A!C!GHJ + I + !ABCD!EFGH!I!J + !AB!CDEF!GH!IJ + !D!E + F + BC!D!EFGH!J + !AC!D!EFJ + !AB!C!D!EFGHIJ + !A!B!D!FHJ + !FG + !AB!EFI + !BC!DFGH!I!J + AC!I!J
+!IJ + !A!GH!J + D!H + AD!F!G + !A!BCDEH!I!J + A!D!F!I + !F!J + A!C!E!FI!J + !ABDG!HJ + CF!GIJ
+!B!CDEFGHIJ + !CD!E!G!H!I + !A!EFHJ + !A!B!CDE!F!G!H!I!J
+!D + !A!B!C!DE!G!HI + !E + !B + ACD!E!FG!H!J
+!B!CDEF + !ACF!H + ABDJ + !D!EFG!J + !B!CD!GHI!J + A!B!C!D!F + AB!D!F + BDEFH!I + BC!EGH!I + AB!DE!FG!HI!J
+!GH + A!B!C!DEF!GHI!J + ABCD!EF!H!I!J
+A!G + DI + !AC!FG!HI + !B!DE!H!J + BC + !A!B!CD!EFG!H!IJ + F!G!I + C!DE!F + E!HI
+AEFG + !AC!E!F!G!HI!J + A!B!C!DE!F!GHIJ
+AB!C!D!EFGHI + A!GH!I + !C!G + !B!E!F!J + A!B!D!H + !C!FH + !C!D!E!G
+!ACDFGI!J + A!B!GI!J + !ABDE!FGH!IJ + ADI + A!B!GJ + BC!DE!FG + A!CE!FHI + !I + !C!EFI!J + !A!BC!D!EFGH!IJ + !A!J
+F!H + !A!B!CDE!F!GHI!J + !BD!E!F!G!H!I!J + !BCDE!FGI!J + !A!C!E!H!J + !AB!CGH!J + !AC!DE!FGHI!J + AB!C!D!EFG!HIJ + !CE!H + B!J
+!BC!D!F!GHIJ + E!F!G + A!C!DE!FGH!I + !BC!FHI + !A!BCDE!FGH!IJ + !A!EHI!J + !A!EF!G + !BE!I!J + G + CGI
+AB!C!DE!F!HIJ + B!H + F + FJ + !EIJ + !A!BD!HI + AE!F!J + !ABC!D!FG!HI + A!J + !A!DE!FHI
+CE!G!IJ + !A!B!DF!HJ + ADF!G!IJ + A!G!H!I
+!BCEF!G!H + AD!EF + B!GH + DH + B!EFHJ + !A!BC!DH + C!HIJ + !B!C!D!E!FG!HIJ + AB!C!D!EFGH!I + AB!DE!F!H!IJ + !F!G + AF!I + AHJ + !C!DE!F!J
+CEI!J + F + !BC!DHJ + !ABCEF!G!HJ + BE!GI + !E
+!A!BC + !AC!D!E!F!GH!I!J + !ADFH!I + !AC!D!I!J + C + DEJ + !AD!FH + !A!BCD!E!FG!HI!J + A!CD!EH + !AB!DE!HI!J
+!C!G + !A!B!C!D!E!IJ + A!B!EFG!H!IJ + !ABF!I + AB!C!DEF!J + B!D!F!J + !B!D!FG + !A!E!FG!H!IJ + A!BD + !BC!F!G
+!A!BCDEG!HIJ + ABC!DE!FGH!IJ + CHI + !A!CD!E!F!G!H!IJ + J + D!EFIJ + A!C!EFH!IJ + !A!B!D!G!H!I + AC!D!F!H!IJ + B!C!D!E!GI
+!E + A!B!DEFGH!I!J + !AC!DE!GIJ + ABC!D!E!F!GHIJ + !AB!C!D!GH!I!J + !F + !AB!CDEFGHIJ + !DE!FGHJ + B!D!I + !BCE!G!I + !D!E + G!I + AGH!J
+!ABC!D!E!FGH!IJ + !B!CG!HJ + !A!CEF!G!HIJ + !AC!D!E!F!GHIJ + C!EF!GI + !BCF + AB!C!D!E!FGH!IJ + !D!FG!HIJ + ABC!D!EF!HIJ
+A!B!D!EFG!H!J + !A!BC!D!E!F!GH!IJ + !ADE!FG!IJ
+!ABC!D!FHI!J + A!DE + !AB!H + !ABCD!H!I + !A!BCE!FH!J + !AB!CD!H!I!J + !B!D!E!F!J + !BDG + F!H!I!J + !CI + !A!BC!DEG!H + !ABD!J
+!DEG!J + D!EH!J + !A!CDF + !AC!DFH!I + !ABC!D!EFGHIJ + !ABCD!E!FGHJ + !A!B!CD!E!F!GHIJ + !BEFG!J + A!D!EG!H!J + !E + A!B!D!EF!I!J + ACDEF
+AI + !C + !AB!E
+!A!B!CE!F!G!HIJ + A!BC + !B!IJ + !B + ABCEHJ + !E!F!G
+!AC!DEF!GI + !AH + A!B!CDE!FGHIJ + !H
+!AE + !F + !A!BCDFJ + !A!BC!EG!I + DJ + AC!DEG!J + A!CDE!F!H + !C!EFG!J + ABC!D!EFGH!IJ
+A!BCD!EG!HI!J + BDG + !A!B!CDE!F!HI!J + A!B!C!D!EFG!H!I + BC!F!HIJ + !H
+D!F!G + !CD!F!G!HIJ + !A!B!C!DE!F!G!HIJ + !A!C + !A!D!E + HI + !C + !AB!CDEG!HI!J + !A!B!C!D!E!FGH!IJ
+D!F!J + !AB!DEF!G!HJ + AB!C!D!E!FGH!IJ + B!F!G!I!J + !AB!C!D!E!FGHJ + !BFGI!J + !A!C!E!F!G!H!IJ + BE!G + F + CD!I!J + AB!D!EF!GHI!J + A!B!CDEG!H!I
+A!BD + A!BC!DEG!IJ + ABC!DE!F!GH!IJ + ABDE!FGH!I!J + !BCF!HIJ + BC!D!FGJ + !C!D!HI + !CEI + !A!B!C!DE!F!GH!I!J + A!B!CD!EFG!H!J + A!B!CDFG!HJ + ABC!DE!FGHI!J
+!F!I + !A!B!CDEFGHIJ + !CD + A + !A!BF + H
+D!F + ABCD!E!FG!HI!J + GI + A!B!C!DE!F!G!H!I!J + E!FH!I + !BHI
+!A!D!FHI + AB!C!D!EF!GH!I + !A!B!CD!EFHJ + A!D + !D!FH + D!I + !A!BCE + F
+!AB!C!EFG!H!I!J + !C!EGHJ + B!C!F!GHIJ + AD!EI + B!D!F + !C!EG!J + !A!BC!D!E!F!G!HIJ
+AB!CD!EFG!IJ + !AC!D!HJ + ABCD!EF!GH!I!J + !B!DEG!HI!J + AB!C!F!GHI!J + !A!BCDFH + I
+!AB!CD!E!F!G!HIJ + ACD!E!F!H!J + !ABCDFG!HI!J + !BD!EG
+!AC!DEG!H!IJ + E!G!J + !A!C!F!HIJ + F
+AB!CDEGHI + !ABDE!FH!IJ + AEHIJ + !A!CDEF!GHIJ + A!B!C!D!EFG!H!IJ + !A!B!C!DF!GH!J + A!F!H!I + !A!B!C!DEH!IJ + C!FJ + !BCD!GHJ + AB!C!D!E!F!GH!IJ
+!F + !A!B!C!E!GHJ + !C + C!H + A!BCD!E!F!G!HIJ + !A!F + !F!HI!J + !ABC!D!E!F!GH!I!J + AB!CDEF!GH!I!J + A!BCDEFH!IJ + C!D + B!F!J + !D
+A!B!CD!FG!H!IJ + C!EH!I + !ABD!EG!H!I + !A!B!C!D!E!GH!I!J + !ACDEG!I + I + AB!CD!E!GH!I + !C + B!E!GI!J + !E!G + B + A!BC!DF!GH!J
+!AB!C!D!EF!GHIJ + !E + G + !ABC!DE!F!GHJ + !C + BE!F + A!BCEG!H!J + !AB!C!D!FI + !AC!DFG!H!IJ + !A!C!H!IJ + !CHI + BDEFGIJ + !AEFIJ
+A!BC!DEF!G!H!I!J + C!EG!H + !B!CD!EF!G!H!IJ + A!BCDE!G!H!I + !B + !CF + A!B!CEF!I
+!A!D!FI!J + EI + A!BCDE!FG!H!IJ + !A!BCD!E!FG!H!J + ACE!F!GH + !I!J + !A!BC!D!EF!G!HI!J
+A!B!C!DE!F!GHI!J + A!BCEGH!J + !A!CDEFH!I!J + !B!CEF!H!IJ + !A!C!D!EFG!J + BC!E!F!G!H!IJ + !A!B!CF!G!H!I + !A!BCDEF!G!H!IJ + !B!CEGHI + !G!J
+!A!B!D!EF!G!I + !BDEF!GJ + AB!C!EF!G!H!I
+!A!C!E!F!GH!I!J + !ABC!DE!FG!H!I!J + !AC!D!EF!G!H!IJ + ABCD!EFG!HI!J + ADGI + BDE!F!GHIJ + A!B!CD!FGI!J + !E!J + !A!F!G + !B!D!E!FG!HIJ + !C!FG!IJ + AB!CDFG!H!J + A!C!DEF!GHJ
+!D!F + C!DF!H!IJ + !B!CD!EFG!H!I + BEF + A!B!CDFGH!I!J + FG + !E + ABDE!FGH!I!J + !BC!DGIJ
+B!C!D!FG!HI!J + !BC!G!J + ABD!E!FGH!I!J + ABG!HIJ + !A!B!EFI + BG!H + ABCDFH + CEG!H!I + !CG
+A!BCD!FH + AB!CD!EF!GH!I!J + A!B!C!DE!F!GHI!J + !A!BC!D!GI!J + ABCDEF!G!IJ + BD!EF!G!H!I
+!EF!GH!I + B!CF!IJ + AB!D!E!FG!J + A!BCDE!F!GH!IJ + !D!J + ACDFGI + AC!DEFH + AB!C!FH + !B!C!F!HJ + CE!HI + !AEG!H + AB!CE!F + B!CFHJ + B!CDEF!G!H!IJ
+!AEH + !ACI + A!BC!DEFGHI + CE!GJ + B!CEFGH!IJ + D!EFG!H!J + A!B!CD!E!F!G!HI!J + !BD!F!GH!I + !AI + !F!J + !AB!C!DEFGH!I!J
+!A!B!D!E!F!GI!J + E!G + B!EF!G + CD!E!F!I + C!E!FG!H!IJ + !ACD!FG!HI!J + !B!C!I + !B!C!DE!G!H!I + !AC!D!F!GH!IJ + AD!F!GIJ + ABCD!E!F!G!IJ + AB!J + G
+!A!B + AD!G!H!J + G!I + !DE!G!IJ
+ABC!D!E!F!GI!J + !AD!EH + ABDFH!J + !AB!CDE!FGHI + !ABC!DEG!H + !A!B!CDEF!G!HIJ
+BCDEF!H!IJ + !AB!DE!H + ABC!D!E!F!GHI!J + I + A!E!F!GH!IJ
+A!CDEF!G!J + BC!D!G!H!IJ + B!C!DEFG!H!IJ
+!ADFGHJ + !AB!DEFGHJ + CDEFH!I + A!D + A!BCD!F!GH!I
+!AH + !ABDE!H + G!H
+A!B!C!D!E!F!G!HJ + A!B!DFHJ + !B!CE!F!H + AF + AG!HI + !AB!C!DEFGHI!J + !B!CIJ + A!B!CEG + !D!EGH + !AB!F!J + !D!E
+GH + !DE!G!HI!J + FH!J + D!HI!J + DFG!HI!J + !BCD!FGHI!J + !CFG!IJ + ACHJ + !C + A!BCDEF!GH!IJ
+A!CHI + A!B!DEFHJ + AC!FI + !A!BD!E!F!GH!I
+B!C!D!EF!G!H!I!J + !AC!FG!HIJ + BCD!EF!GHJ + AB!CD!E!F!H!J + AB!C!D!EFG!HIJ + !DG!I + HJ + !BF + !D + DG!H + !ABCDE!FGH!IJ
+!AC!F!HI!J + !F!HI + !B!F + A!BCD!EF!G!H!IJ + EH!J + A!BDFHI!J + AB!CD!EFG!I!J + EGHI + !A!BC!D!F!G!H!IJ
+A!BCDG!H!I + !B!DE!FH + !B!F + CE!GIJ + !A!BC!D!EGH!I!J + !AB!CDEF!GH!I!J + !A!BEG!H!IJ + A!B!C!DFIJ + !ABC!DE!FGJ + !DGHIJ
+!FG!I!J + BC!DEFG!HI!J + !D
+G!I + !ABC!D!EFGHI!J + EHI + !B!EGH + BCH!I + !F + !CD!E!H + D
+B + BC!D!EG!I + A!B!CDE!FH!I!J + !ABC!E + A!F!GHI + !AB!C!D!EFG!H!I!J + E + D!F + !A!CEF!G + ABJ + !A!E!G!H!J + BC!DEF!G!I!J + !AB!CFG!HI!J + AG
+!A!B!C!D!EF!GH!I!J + C!EHJ + !D!G!H + !BDE!F!G!H!I + !AB!C!EFJ + !ABFHI + BDH!J + !C + !A!B!C!E!FG!IJ + !E + C!E!F!GH!J + !ACH!I
+!AB!FG!J + CG + A + !EI
+AB!CD!F!GH!I + E!F + AB!DE!FG!HI + !ADEFG!H!I!J
+A!BC!D!E!F!G!HI!J + CG!HI + A!B!E!GI!J + CH + !CDEF!J + CD!E!FH!IJ + !DEFG!HJ + !A!B!C!DF!G!H!IJ + A!DEGH!I!J
+A!BCDEG!HI!J + ABCD!EFG!I!J + AB!D!EFIJ + A!CF!I + !A!C!DF!H!I
+!E!FI + !C!E!G + AB!CDEF!G!H!IJ + EF!J + BHJ
+!A!D!E!FG!H!IJ + !CEF + B!CDEG!H!IJ + A!B!C!D!E!GH!J + A + !A!C!D!E + !DEHI + !AC!H + AI + !B!CE!FH!I + A!BEGHJ
+I + !AB!C!DE!FG!HI + !A!B!CEF!J + !C!E!FI + !AB!CD!E!F!GHJ + !BC!D!H!J + BD!EF!G!I!J + !B!D!FH!J + !BCDFG!HJ + A!B!C!D!E!F!G!I!J + G + AB!C!DE!FGHIJ + !AC!EH!I!J
+A!BC!D!EFH!IJ + B!FI + !H + !CF!G + A!BC!EFGHJ
+A!DEHI + EI + !A!B!CD!EF!G!HIJ + B!DE!FG!HI!J + !AB!C!DE!F!GH!IJ
+A!BC!E!FG!HJ + !BCD!E!F!GH!I + B!F + !ABCDE!GHI!J + D + !AG!I + !A!C!D!FH!IJ + B!D!F!I + A!BDEFH!J + !E!J + !AB!CDF!GHI + B!CEFI!J + AC
+!A!B!C!D!EFGHI + ACFH!I + !BCD!EF!G + A!BE!FG!IJ + !D + !A!B!C!DE!FG!HI!J + C!G + !BE!G!J + !C!FGI + !AB!DE!H + A!BC!DEFGHI!J
+CF!I!J + !ABC!D!E!F!IJ + !ABF!GH!J + ABC!D!EF!GHJ + ABCD!E!F!GH!IJ + BC!DEF!GHIJ + A!F!J + ABCD!EFG!H!I!J + !AD!F!G!HI + EH + AD!E!FHI + !BCE!F
+!D + !DE!H + !ABD!FG + !AD!F + !AB!C!DE!FHIJ + D!E!F + !A!CD!EGHIJ + A!HI!J + A!B!CDE!FG!HI!J + !BCDGIJ + !ABC!D!E!FG!H!IJ + ABCDE!F!G!H!IJ + B!D!G!H + !BCF!HIJ
+!B!CDE!G!HI!J + !ABD!EFG!HIJ + A!EF
+!D!I + !A!BCE!FG!I!J + !BCJ + !ABD!EF!GH!I!J + A!B!C!DEF!G!HJ + !B!C + E!F + !AJ + A!BC!DEF!GH!I!J + AB!CDE!FG!HI!J + F!H!J
+ABC!D!E!FG!J + !AD!E!F + A!C + !A!B!CDEFGHIJ + IJ + A!B!CD!E!F!GHIJ
+ABD!E!FGHI + ABD!EF!H!I + ABC!EFGHI + !G
+!BC!D!E!GH!I!J + !ABCD!EFH!I!J + !A!BC!DF!GHI + G + !ACD!EHIJ + !A!B!CEF!I!J + AEH!I + !AB!CDE!FGH!IJ + BEHI
+ABCDEF!G!H!IJ + ABC!D!EGHI!J + D!EFG!H + !ACD!E!J + !A!B!DEFGH!J + AB!C!HI!J + E!F + H + !AB!CD!F!H!I + CEF!GIJ + AC!IJ + !ABDEGH
+A!B!CD!EF!G!HI + !F + A!B!D!F!GJ
+A!B!CD!E!FGHI + !BC!D!F!HIJ + A!BCEF!G!HIJ + A!BC!DEFG!H!IJ + A!BDE!FH!I + C!J + !B!CDE!F!GHI!J + A!J + !A!I + !ABC!D!EGH!I + !A!BC!D!E!F!HIJ + !ABCDGHI!J
+!A!B!C!DE!F!GHIJ + I + !A!B!C!D!EFG!H!I + !DGHI + ABCDEF!GH!I!J + !B!DEG!HJ + E + !AC!D!F!GHIJ + !EIJ + !ABC!DEF!G!HI!J + !G + AB!C!DE!FGH!J + ABCFG + !A!B!CDE!F!G!HI!J
+!AH + A!BJ + !A!B!CFG!HIJ + !B + !A!CEHI + EFH!I + !B!G!H + AB!CDEF!GIJ + DEJ + !G + !AJ
+!A!C + AB!CDEF!GHI!J + !ABCDFIJ
+A + B!DE!G!H + F + !ABC!DEF!GHIJ + A!B!F!I!J + !A!D!G!H!IJ + C!D!EG!H!I + !A!B!C!DFHJ + !ABCF!H!J
+!ABC!DE!FG!H!I!J + !A!BCD!E!H!IJ + !E!F!I + A!DHIJ + A!B!CD!E!FHIJ + A!B!C!D!FI + !AB!CD!I + !A!B!C!DE!F!H
+EG!IJ + !A!BC!DEF!GH!I!J + A!BCDE!F!G!H!IJ + !DE!FGI + !A!CDG!H!IJ + !A!B!C!D!E!F!G!HI!J + !C!HI + !A!G + E!F!G!I!J + CFHJ + BC!DGHI + !B + C!EGJ
+!A!E!F!GJ + CEF + !A!BC!DEFG!H!J
+!AB!CHIJ + BD!FG + !CDEFG!H!IJ + !G + !F!G + !AB!C!DF!G!H!J + A!BE!F!I + !AF!G!H!IJ + !A!BCE!GIJ + !AB!C!D!E!F!GH!IJ + !E!HI
+!A!B!CDE!F!H!I + !J + B!C!D!EFG!H!J + !A!B!CD!E!FGH!IJ + !A + AB!CDE!FGI!J + !AE!F + F
+!A!B!DH!I + !A!B!CDEF!GH!IJ + !B!F!G!H
+GH + J + C + A!B!CD!EFHJ + A!CE!FG!IJ + AE!F!G!H!J + B!DE!G!HJ + !AE!FGHI + !AB!CDFG!H!IJ
+BCDEF!G!IJ + A!B!DE!FIJ + EG + AB!CDEFJ + B!G
+A!BC!D!GHIJ + !AB!EFGH!I!J + !ACD!F!GH!I + !G
+A!BC!DE!FG!HI!J + A!BCDEF!H + B + !A!BDE!FH!J + A!B!C!D!EFG!H!I!J + B!C!D!E!F!GH!IJ + !DG + !A!BCFG!I + !CI + !A!CG!I!J
+!B!CD!GJ + !A!EJ + !ABC!D!E!F!GI!J
+A!C!GH!I + C!G + HJ + !ABCDEF!GH!I + B!FJ + !D
+!B!CEF!G!H!IJ + !ABC!DE!F!G!H!J + E!J + !AB!CD!EFGJ + !BEFJ + !ABCE!GI + !ABCD!EF!G!H!IJ + AB!C!D!EH!IJ + !BC!D!EF!HI + C + ACEF!G + F + !ABC!DE!FGI + !H
+!A!B!CE!F!H!I!J + !J + !A!B!DEG!I!J
+!AB!D!E!IJ + A!BD!E!F!G!HI!J + A!DE!F!G!H!I + B!DFHI!J
+BDF!I + !A!E!F!H + ABE!F!GH!J + ABC!D!E!GHI!J + !J + ABCD!FGHIJ + A!B!C!DE!F!G!HIJ + !G
+ABCD!E!F!G!H!IJ + B!D!E!F!H!I!J + ABC!D!EF!H!I!J + B!CD!E!F!GH + !FG!I + CF!I + !BD!F!GHI + !A!DEHI + A!B!C!DE!FG!H!IJ + !BCDE!F!G + !B!C!D!E!HI!J
+A!BC!D!EF!HIJ + A!B!C!DEF!HIJ + !D!J + !DGH + A!B!CD!EF!G!H!I!J + !AB!CD!EF!G!H!IJ + AB!CEF!GHIJ + CD + C!E!H!I + !B!C!D!FGH!IJ + H!I + B!C!EF!H + FI + CI
+BCE!F!GHI + A!B!E!F!G!HIJ + BC!DG!HI!J + !C!F + !AC!D!EFG!HI!J + B!D!E!G!I
+CD + EG!H!J + !CI!J
+!B!D!GH!I!J + AB!CDEFGH!I + ABCD!EFGH + !CH!I + AB!CD!EF!GHIJ + ABCD!E!G!H!J + ACE!F!H + !AC!GH!I + J + !AC!D!EFGI!J + !AB!CEFG!H!J
+!BG + !C!DG + !ABCDE!H!I + C!DE + !ABC!D!EGHI!J + !B!F!H!IJ + !E + A!B!C!DEF!H!IJ + !BH + AC!GI!J + !AB!DE!G!HI!J
+G!H + !B + !A!BC!E!FG!I + !A!BC!DE!F!GHI!J + D!J + !D!H + ABGHJ + !G + AB!CD!E!F!G!HI!J + A!H + !AB!C!E!F!G!HJ + C!G!H + !ABC!D!E!F!G!HIJ + B!C!D!FG!H!I!J
+A!CD!H!I!J + !CF!G!H + B!FHI + F + !A!H + B!CEF!G!H
+A!C!E!I + AD!G!J + !B!DFG!J + !A!BCEF!HIJ + I + !D!E!FH!I + A!CI + B!F!J + !ABD!IJ + !AH + !A!B!EG!I!J + A!B!C!E!FG!HI
+!A!DEGJ + ABDEFGI + B + ACDEFG!H!IJ
+B!CD!G!H!IJ + !B!C!EFG!H!I + A!BEF!GH!I + !B!CE!FG!HIJ + AB!CEG!H!J + ABC!D!EFGHI!J + AF!GJ + AH!I + !B!DEF!J + AB!C!DEF!GHIJ + A!BC!DE!I!J + !C!G!H + C!H!J + F
+I + EF!I + !A!BC!DEFGH!I!J + A!B!C!E!FGH + !BCDEFHI!J + !F!H + !A!B!C!DE!FI + B!C!G!H!J + C!E!F!GHJ
+!I + !A!C!DE!IJ + !BD!E!F
+!A!DE!FG!H!IJ + !B!CIJ + !B!C!D!E!F!GHI + !AB!C!D!EF!GH!I!J + F!HJ + EF!GI!J
+!GI + !AC!DI!J + !C!DJ + !A!C!GI + A!B!C!E + !ABCD!EFG!HJ + !A!B!DEH + BIJ + AEF!G!HI!J + !B!C!DE!G!HI!J + !BDE!F!IJ + A!BD + !ABCD!EFG!J
+BCD!E!FGH!I + AB!CDE!FGHIJ + !A!BEF!GI + B!FGH + AB!C!DE!FG!H!I + BCJ
+!DFHI + !D!F!H + !C!D!E!FGH!I!J
+AB!CDEFGI + !B!C!D!EF!G!HIJ + A!E!H!IJ + !E!FJ + !C!I
+!ABDF + B!C!E!F!I!J + BDEGIJ + !A!BC!DEF!G!HIJ
+!E + !ABCD!E!F!GHIJ + A!BC!D!F!GJ + !A!BCD!EFGH!I!J + !BF + !ABD!EF!GIJ + F!I + !C!D!EGHIJ + !C!D!EF!HIJ + !ACE!FI + !A!BC!D!F!GHI
+!G + A!BG!H + AB!CD!EFG!I + CG + !DF + !A!CD!FHJ + ABC!D!E!FGH!I!J + AB!EFG!I!J + !AB!CD!F!GH!IJ + ABC!D!E!GI!J + !A!BC!E!F!GH!I!J + A!CD!E!FGH!I!J + !A!C!D!F!G!H!IJ
+!ABD!E!FG!HI + !C!H + C!DE!F!I!J + !I + !CDEJ + ABCDE!F!GH!I!J + !ABCD!EFHI!J + AB!D!EH!J
+!BC!J + !B!EF + ABCDEF!G!H!I!J + !AC!F!J + B!C!DE!FG!H!I!J + !B
+BC!D!EG!HI!J + !A!B!CD!FG!J + ABC!DFHI!J + !ACDFG!H + D!EJ + GI
+A!F!H + !AC!D!E!H!J + !B!DE!H!I!J + !AB!EFGI + !A!B!CEH + C!FGH!J + !C!E!GH + BC!DE!FGH!J + !B!I + !A!E!I
+!A!BFG!H!I!J + A!BCD!EFGH!I!J + !AB!C!DEFGH!I + A!B!CD!EFG!H!IJ + !B + B!E!F!J + !A!BCD!G!H!I!J + !A!B!C!D!EF!G!HIJ + !FGH!J + AB!DG!I!J + ACF!G!I
+ABCE!FI + !A!B!DFG!HIJ + B!C!D!E!FGH + !ABCDFGH!J + !AC!DFGH!J + J + !AB!CDEF!G!HIJ + C!G + BC!FGI + !H
+!C + A!BC!D!GH!I!J + !F!H!J + C + A!B!DEF!G!H!I + !A!B!C!DE!F!G!I + !ABH!I + H + !CI + BCD!EF!GHIJ + !BDI
+!C + C!E!F!GI + !A!B!C!DE!F!G!H!I!J
+DF!G + !BDE!G + !A!B!C!D!EF!G!H!I!J + D + A!B!C!D!EF!G!HI!J + !A!BCD!E!FG!H!IJ + DFG!J
+EJ + ABC!F!G!HI!J + !AD!FGI
+!BEGH!J + !BCD!E!F!GH!I + !A!BC!DEFGHI!J + !A!CD!F!H!I!J + !AC!D!F!G!I!J + !ABDE!FGIJ + !I!J + !A!BCDE!GI
+AC!EF!G!I + !BCDEGH!I!J + B!D!E!FGH!IJ + ABE!GJ + AB!E!F!G!HI + D + !C!DEFG!H!J + A!B!CE!F!G!H!J + B!FJ + B!CFGH!IJ
+E + !A!B!E!FG + C!DG + !CDHI
+!AB + !E + A!BC!D!FHIJ + !AB!CD!EFG!HJ + AC!I + !B!J + !A!B!CDE!FG!H!IJ + C!FJ + A!B!C!D!E!FG!HI!J + A!BEGH + !ADE!FG!I + EG + C!D
+!I + C!D!EH + B!I + !H!J + A!B!FIJ + A!F + !C!D!GHI!J + ABC!D!EG!I + BCE!FH!J + !B
+!BCDE!G!I + ABCDF!GH!IJ + !AC!DEF!GH + !A!BC!D!EFG!H!IJ + A + !EHI + !BDFHJ + !BCH!IJ
+!C!F + !AC!D!EF!HI!J + H + !A!B!CD!GI!J + ACD!F!G + FHJ + !AB!CDEFGH!I!J
+AB!CDE!FGH!IJ + !H + B!CDEFGHI + !C!EFH
+!A!G!H + !A!D!H + !B + !A + A!B!CE!F!G!H!I!J + A!B!EF!HI!J + !D!G
+!B!E!H + AC!D!E!FG!H!IJ + !A!BC!D!E!F!J + A!B!C!EF!G!HIJ + !A!B!D!F!HI + !AB!CD!E!GHI + !AB!CD!EHJ + AB!C!DE!F!GH!IJ + AF!G!I!J + !B!D!F!H!I + AC!D!E!FGHI!J + !A!B!D!E!I!J + A!DE!G!I + ADH
+DFH + !ABH + !G + !B!C!D!F!GIJ + !ABC!DE!GI!J + AC!D!EFG!H!IJ
+B + !A!BEF!HI + !B!E!GJ + A!E!FI + !AC!D!EI + B!EFI + !ABC!DE!F!HI!J + !F + !A!B!CD!H!I!J + !B!CH + !ACD!EFGH!IJ
+A!C!D!GI + !BDHI!J + !AB!C!D!EFGHI!J + !D!E!J + !BD!GH!J + !B + DE!GH!I!J
+A!CDEF!I + !F!I + !A!B!CEF!GH!IJ + !BC!FH!J + !AC!DFGH!I!J + !ABC!DEFGH!IJ + !BDEF!G!I + !A!BCE!F!G!H!IJ + B!C!DEGH!I!J + ABCD!EFI!J + !A!I + AB!C!D!F!GHI + !ABC!DEF!G!H!IJ + !CE!I
+A!D!F!H!I!J + !BC!D!EI + !CFG!I + A!B!CEF!G!J + CI
+A!CD!E!FHI + ABD!EF!H!IJ + !A!BFG!J + ACDEG!IJ + !A!BD!G + A!EIJ + !BC!DEFG!HI!J + !ABCDE!FH!IJ + !H + BF
+!BD!HJ + A!C!D!FGH!I + !E!F!IJ + !AB!D!E!FG!H!I + !CD!I + !H + BCD!EF!G!HJ + AB!C!D!E!F!GH!I!J + BCD!E!F!HI + !CD!FGH + !FI
+AB!CD!EF!GH!I!J + !AB!C!DE!FG!H!I!J + !H + !ACD!EFG!I!J + A!D + !F!G + !B + C + !GH
+A!C!D!EF!IJ + !A!CDF!H!I!J + A!H + D!G + E + A!D!E!IJ + A!DE!FGHI
+CEF + AEHI!J + !ADFG!H + BF!GH + !AB!CD!EH!I + AB!C!EF!G!HI!J
+!CD!E + E + !G
+!BCDE!G!H!I!J + B!GHIJ + ABDE!HI
+!AB!CD!E!F!GHIJ + !D!FIJ + B!CEI + A
+AB!CD!EFG!IJ + AB!CD!EF!G!HI!J + !B!CEGHJ + !ACDEFH + !E!FHI + !A!C!F!HI!J + !AB!D!GJ + !BE + !A!D!EG!H!J + A!C!DE!F!GH + A!D!H!I + !A!B!C!D!E!GH!I!J + !A!BC!D!H + !A!BCD!EF!GI
+!I + !J + !A!C!J + BEGJ + !B!C!FHI!J + !A!B!C!D!E!FGHI!J + BC!D!EGH!J + B!D + AB!CDE!FG!H!IJ + A!B!CEF!GH!J + A!F!G!J
+!BD!F + BD!E + C!DE!GH + !ABCD!E!H + !B!F!H!J + ABCD!EFG!HI!J + B!E!F!GJ + A + !AD!F + !CDE!H + !AB!C!DEF!G!H!I + C!H
+BEJ + !F!I!J + A!BCDE!F!G!HIJ + !ABC!D!E!G!HJ + C!DEJ + !GJ
+!H + !ACF!G!IJ + !BC!DEF!G!HJ
+D!F!J + !CDE!F!G + !A!B!CE!FHI!J + E!F
+!ABCD!E!F!G!HI!J + !BDEFJ + !ACDF!GHJ + A!BD!I + A!B!C!F!G!HI!J + !AC!DE!FGH!IJ + BE + !DF!I!J + FI + !A + !ABCDEF!GIJ + E!F!G + A!B!EFI + !AB!CD!FHI
+!AB!C!DE!FG!H!IJ + F + !A!B!C!DEF!GHJ
+!H + G + !AB!G!J + !EJ
+!ABC!D!EFHI!J + A!B!C!E!FG!H!I!J + !AB!CDE!G!H!I!J + !AC!EFG + !E + !A!B + A!B!C!DE!FGH!I + !A!B!CD!F!G!HIJ + !AB!H + !A!BC!DF!I + !B + !A!C!IJ
+AB!CDEFGH!IJ + EFGIJ + A!C!DEF!GH!IJ + !A!B!DEH!J + !ABEI + !BD!E!FHJ + D!I
+A!BD!E!FHIJ + !A!CEFG!H!I + DFGI + !A!BCD!EG!HI!J + A!BEG!HJ + !A!B!C!E!FGH!I!J + !AB!CD!E!FG!HI!J + C!DE!FH + A!BD!E!F!GI + ABC!DE!F!GHI!J + !AC!D!F!G!H!I!J + A!B!CD!EFG!HIJ + !D!G
+!A!B!CD!E!F!G!HIJ + A!CDEFG!H!J + !F!H!I!J + BCDE!FI + !B!C!E!FG!H!IJ + !B!E!FG!J + !AB!CF!GH + !B!C!DE!FG!HIJ + BCEHIJ + !A!DE!F!G!HI + I + B!H!J
+A!BC!DE!FH!I + !A!B!CDEF!G!HI + !E + A!B!CEG!J + !A!CDEG!IJ + !ABCD!E!FGHIJ + A!B!H!I + A!B!CD!E!F!GH!IJ + B!C!E!F!H!J + B!EGH!J + !BDE!FHIJ + !AG!J + !ABC!DF!G!HJ + D!H
+!B!C + A!CD!EF!HI!J + !C!DF!I + !E + !A!F!J
+C + AC!D!GH!I + A!B + D!EF + !AB!CD!E!F!G!H!IJ + !ACD!E!I!J + !AB!C!DE!F!GI
+!BDE!HJ + !CF + !AB!C!DEFGH!IJ + !EF!G + ABGH!J
+DF!I + !A!BDE + !BCE!H + A + !AB!C!D!EFH!IJ + !FGJ
+A!EF!G!H!I + A!B!CD!EFG!HJ + !CG + EFG!H + !A!BCDEFG!HI!J + !A!B!C!D!E!F!GH!IJ + !CGI + AC!EGH + !ADE!FHI + A!BDEFG!H!I!J
+!AJ + D!E + A!B!CDG!H!IJ + AB!CE!HI!J + A!BCD!FGI!J + !AFHIJ + !E + !ABCDE!F!HIJ + AEGHI + BC!D!F!GH!I + A!E!GH + !A!BC!D!EF!G!H!I!J + F
+G + !ABCD!E!F!G!HIJ + A!EFG!HIJ + BCIJ + !B!F!G + F + BCE + CF + !AC!J
+B!C!DE!G!H + A!B!CD!EI + !CG + !C!D!GHJ
+A!BCDEF!G!HI!J + BCI + !CDJ + !A!BCD!EFGH!I!J + B!GI + !A!B!CDE!FG!H!I!J
+ABC!E!G!I + !B!D!E!F!H!I!J + !F
+C + !A!C + A!B!C!DF!GHIJ
+A!DH!I + !A!BC!D!EF!GH!I!J + C + !ACEF!G!I + !A!C!D!GH!J + ABC!DEF!GHI!J + A!BC!DE!F!H!J + AB!D!EF!H!I!J + !AE!G!J + B + CD!E!FG!H!I!J + !A!BC!DE!F!H!I!J + AJ
+A!B!C!D!EF!G!HI + !I + C!FGH + AB!C!DE!F!GHIJ + !BDE!F!HJ + !A!BC!DE!F!I!J + G!J + DEF!J + !ACD!EFH!IJ + !DE!F!G + !A!BC!EFGHI!J + !BCF!G + !D!EIJ + C!D!E!F!G
+!I + !AB!C!DEF!G!HIJ + ABEGH!J + !A!CEFGH!J + C + !B!CDEH + !FH + !F + !E!F!GH!J + DFJ
+!A!BCD!E!FHI!J + !G + A!FJ + !A!CEFGHIJ
+!A!B!GJ + !B!DG!I + C!E!J + !A!D!FG + !BCF + G
+!H + !AB!C!D!E!FGIJ + B!C!D!F!I + !AB!EF!G!I + !IJ + !D + !BEF!H + !B!CE!HI + A!C!D!EJ + D!F!H + !ABC!EI + !AB!C!DEFG!H!I!J
+!BC!J + ADEF!G!HJ + AC!DEFGH!IJ + C!DF!G!J + !B!C!D!EI + !ABCDE!I + BEFGI + !G + !H!J + !B!C!D!EF!G!HJ + !A!BJ + E + C!D!E!HI + !AB!CD!E!FGI
+AF!GIJ + A!C!DEFG!H!J + !A!B!C!DEFGHI
+D!E!HJ + !AB!C!DEFGJ + !A!B!CDE!G!HI!J + !CEFGJ + ABCDEF!HIJ + !AB!CD!EGJ + J + A!EF!G!HI + G + !AEI + !A!B!CDEHI
+!AB!CDF!G + A!B!CDE!F!G!HI!J + !G + !BG!I
+!BF!GHJ + B!CDG!I + !ACD!EFH!IJ + !ABD!EG!H!IJ + !F + D!EGH + AC!D!F!G!HIJ
+BD + B!E!F!GH!I + !I + ABC!DEF!G!H!IJ + !CE + !B!DF!HI + A!BCD!E!FGH!I!J + !D!EFGJ + AH!J + AB!CD!E!FJ + FG!J + !B!C!DF!HI
+ABCDEF!G!H!I!J + BCFIJ + ABC!DE!FG!HJ + !C + !CEGI!J + AB!E!G + C!G + !D + !C!HI + AB!G!H!J + ABI + CFG
+A!BD!EF!GH!IJ + !A!BCE!F!G!H!IJ + !C!EHI!J + !EFH + !A!B!C!D!E!H + !EHJ + !A!B!C!D!FGHIJ + A!BC!E!F!IJ + !ABCD!GHI + A!J + ACH!J
+!FI + AB!CD!EFIJ + !AB!D!E!F!G!HI + !A!BCD!E!GHI!J + AG + CD!E!H!I
+AB!D!F!H + DGH + AD!F!G!IJ + !D!I + A!B!C!D!E!F!GH!IJ + D!E!H + !C!I
+EGH + !ABDE!G!H!IJ + ADE!F!GH!J + E!I!J + B!D!EF!J + B!C!E + ACD!EF!GI!J + !AD + AB!EFGI + BE!I!J + BC!GI!J
+!G + BD!FGHI + !B + !ADE!F!GH!IJ
+!AB!D!H + !H + A!B!C!E!GH!J + !ABCDE!F!GHIJ + !ABC!DEF!G!HI!J + CD!FHI + BCE + A!B!CD!EG!H!I!J + !D + ADEG + BC!EF!HJ + B!C!DE!FG!I + AB + !A!B!CDE!F!G!H!I!J
+C!G!H!I!J + !A!B + !B!CDEFH!J + C!DFJ + A!B!D!E!FG!HI!J + !ABCDE!F!G!HI!J + B!CDE!I + !ADG + C!DE!FG!IJ
+!A!D!F!H!J + !C!EFG!HJ + !A!BDF!G!HI!J + A!B!CDE!FGH!I!J + A + !A!BCDEF!GH!I!J + A!BC!EFG!HJ + AEHI + ADG!H!I + A!B!C!D!EF!G!HIJ + A!BE!G!H!I + !B!CH!I
+!C!F!H + !C!I!J + !F!GJ + AB!CDEFG!H!IJ + !FG + ABC + ADEH + AB!C!D!E!FGHIJ
+ABC!DE!FGIJ + ABC!E!F!GH!IJ + A!GH!I + !A!C!D + C!D!E!GJ + !BC!D!G!J + A + DE + !A!C!EF!H + A!B!CDE!FG + A!B!C!D!EF!GH!IJ + B!CFI
+A!BE!FI + !BDFGHJ + !B!D!EFG!H!I!J + !A!B!FGI + !A!BDEFG!H!IJ + B + !C!FG!HJ + A!BC!D!E!FG!H!I!J + !AD!EF!GI + I + AB!CDEI!J
+ABE!F!I!J + !BDEF!G!HIJ + !ABFHJ
+!BD!FGH!I + !A!DE!FJ + !B!CE!F!G!IJ + AB!DE!F!G!HIJ + ACD!EFGHI!J + !EH!J + !A + !D!F + AB!CE!GHIJ + !B!GI!J + AB!C!GH!J + AEG
+!C!D!F!G!H!I + AD!E!G!HIJ + !AB!C!D!EFGIJ + C!DEH!IJ
+!A!CDEF!HJ + !BC!GJ + H + !A!B!D!FJ + !ABC!EF!G!H!J + BC!E!FGI + !A!C!DF!G!H!I!J + A!C!DIJ + !AB!CDE!FG!HI!J + ABEFH!I!J + ABEF!HJ + !CE!FG
+!B!C!G!HIJ + B!CFG!IJ + !A!B!CDEFGHIJ + J + AC!D!FH + !B!F!G!H!IJ + AB!C!DF!GI!J + A!C + A!B!CDEG!H!I!J
+!ADE!F!I!J + !A!B!CDEF!GHIJ + !C!E!GI!J + ABCD!E!F!GH!IJ + A!B!C!D!E!FGHI!J + ABCGHIJ + !A!BC!D!F!G!HI!J + !E + A!G + A!BD!EF!HI!J + !A!BCEF!GHIJ
+!A!BC!E!FGH!I!J + !ABC!D!EF!IJ + ACH!J + B!CE!F!H!I + B!CDF!G!H!IJ + !BH + !AF!G!HI + !A!DI!J + !B!C + !A!BEFG!H!J + FIJ + !AB!E!GI + A!B!CD!EF!G!I!J + A!B!CDE!G!HI!J
+!B!CE!FGHIJ + BJ + !BC!FG!IJ + !A!B!D!F!GH!J + AB!E!G!H!J + !C!F!J + !D!I!J + ABC!D!EGHIJ + !AB!DJ
+!A!BC!EGJ + CD!EFH + !B!CFGHIJ
+BDG!H + !A!BE!G!I + !GH + B!CE!F + !ABC!DGIJ
+ABCDEG!H + A!B!C!D!E!FGH!I!J + !CD!F!J + !G!J
+!B!D!E!H + !AEF!GJ + D!F + !A!BCDEGHIJ + !AC!D!E!HI + A!B!DE!FJ + G + !ABCDFI + !BC!D!FG!H + I + !A!B!D!I + AB!C!DE!F!G!H!I!J + !CDE!H!J
+A!EFG!I!J + !B!C!E!GJ + !A!B!C!DE!F!G!HI!J + AB!CF!G!I!J + A
+!CFH + A!B!G!I + !DH + A!B!C!FHI!J + ABDEFG!H!I + B!DEF!J + !C + !ABD!E!H!I!J + !B!C!D!FG!HIJ + !AC!D!E!FG!HI + A!B!D!EFG!H!I!J + !A!B!C!D!FGHIJ
+!H!I + BEFGIJ + ABCEF + !A!B!CDF!HIJ + !A + A!E!F!G!H + C + A!BCE!FGIJ + !A!BC!DE!FGI + CDG
+EG!J + !A!B!D!H + !D!E + A!BC!DE!F!G!HIJ + B!C!DE!I + A!B!D!E!F!G!HIJ + !ABC!DEF!HI + !BCG!H!I + !BDH!IJ + A!CD!FHJ + B!C!D!E!G!H!IJ
+!ABHI!J + !D + ABC!DEF!HI!J + !A!BD!EF!GH + !B!EG + !A!D!E!J + !B!CDE!I
+AB!CF!I + !BCDE!FJ + !A!B!C!DFGHI!J
+!C!D!EHI + ACG + A!B!C!D!E!FG!H!IJ + !A!B!C!D!FGI!J + !HJ + A!BCE!F!GHI + A!B!C!D!EF!H!J + ABC!DE!FGH!I!J + !A!B!F!J + !ACD + !ABE!F!H!IJ
+!A!B!CHIJ + A!CFGH!I + !A!BC!DE!GI!J + !BD!EF!GHI!J + !A!BD!E!F!GH!IJ + !C!DEH!I!J + !AH + !A!B!I!J + !B!C!E!FH!I
+A!BE!F!H + AE + !B!C
+!AG!H!J + !A!B!C!DE!F!G!HI!J + BFH + !ABCDEF!G!HI!J + !ACJ + C!FJ
+ABCD!F!G!HI!J + C!D!FG!IJ + CEJ + !ABC!EG!H!I!J + !A!B!FG!HI!J
+B!F!G + !B!C!E!F + !BD!G!J + BDF!GI!J + ABCDEFGHIJ + !I + H!I + D!E!H!IJ + B!CDEFG!H!IJ + AEH + DEF!H + !AB!FG!J
+!BE + !AB!C!DFHIJ + AB!C!D!G!H!IJ + A!BCF!GHJ + A!BCDEF!G!H!IJ + D + BH + BCDE!F!G!H!IJ + !A!CDE!FHI!J + AB!CD!E!FG!H!I!J + ABE!GH!I!J + !AB!C!D!EH!I + !A + B!C!F
+EJ + B!E!FH + B + B!G!I!J + !DF!GH + ABCDE!FG!H!I!J + !A!BD!E!F!G!HI!J + !AD!H
+!ABC!D!EFGH!I!J + !B!CEF!IJ + !C!FHI + AB!CE!F!G!HJ
+AC!EF!G + !BC!FJ + !A!B!C!EFGHI!J + CDF!GI!J + ABC!DF!H!I!J + !AB!C!H + !A!B!DE!FGJ + AC!DE!F!G!H!I!J + !D!I
+!A!B!CE!GH!I + H + A!BCD!E!FH!I!J + !A!FJ
+B!D!E!FG!H!IJ + C + !D!E!I + !B!C!FH + !DEFG + B!GJ
+A!B!C!D!GH + !BC!I + AB!C!DE!F!GH + !ADE!F!GH!IJ + AB!D!E!F!GHJ + F!I + !AC!D!E!F!HI!J + !B!CE!G!I + !A + J + !A!CD!E!FG!HI + A!B!CD!EFG!HI!J
+AB!C!DEF!H!I!J + B!C!D!E!FJ + !DJ + !A!B!FGH!J + !BDE!F!HI!J + A!CDE!GI!J + !CEF!IJ + !A!J + !A!B!CD!EF!G!HI!J + AB!CD!EF!G!I!J + F!G!HI + !A!BC!DEGHIJ + A!EI
+AC!D!EF!GHI + A + !BCE!F!GI + A!DFGI
+!E!F!G + !A!B!C!E!F!GHJ + !B!CE!G!I + A!BCDEF!GH!J + !BC!GJ
+!A!B!CD!EFGI + !ABCE!FG!IJ + !ABCD!E!F!G!HIJ + !B!DG!I
+!AB!D!EFGH!I!J + BFGH!I + E!F!GH!J + !B + !G
+!ACD!E!F!GH!J + !A!BC!DE!F!GH!IJ + !B!C!I + A!B!C!DEF!G!H!IJ + BC!DF!G!HIJ + ADEFH!I + !G!J + !AF!I + !EF!J + CFG!J + B!C!FG
+!F!J + !A!B!DEGH!J + ACD!E!F!GH!I!J + !BCDEFGHJ + A!C!D!EFG!H!I!J + AB!C!D!E!FH!IJ + AB!CE!FI + AB!DE!H + BIJ
+B!C!DH!J + !J + A!G + A!B!CD!GH!J
+!A!B!C!DEF!G!H!I!J + BEFGHIJ + A!B!CD!F!G!HIJ + !ABCD!EFG!I!J
+!B!D!H!IJ + A!BC!D!EF!G + C!EFHI + C!DEG!IJ + !BE + E!GJ + BC!F!G!H!I + !CD!GHIJ + !FGJ + !A!BDE!F!IJ + !AB!C!E!G!H + A!B!C!D!EF!GH!IJ + !FH
+!ACDEF!GI + BI + !ABC!D!EFGI!J + !ABCDE!F!GH!I!J + !C!E!FG!I + A!C!D!FH
+B!C!D!E!H!J + !BI + !A!B!CE!F!GHI!J + !CD!F!J + !A!B!C!GHIJ
+HI + A!C!D!EF!GI + !CEFG!J + AC!DEF!G!HJ + !GJ + BCDEF!GJ
+CDF!J + A!BEFGJ + !ABC!DE!FGH!I!J + !AGH!IJ + AB!CD!E!FG!H!I!J
+BC!DEF!G!I!J + !A + B!C!DHI + !EH + !AB!C!EF!GH + AB!C!D!E!F!GHJ + AD!E!GHI + !I
+!C!J + !A!B!DF!GHIJ + !A!B!HJ + AB!D!EFG!HI!J + !AB + A!D!EFG!I + A!C!D!E!F!G!I + !ABD!E!F!G!HIJ + !ADFG + !AB!CDEF!GH!IJ
+!BC!D!EFH!I!J + A!B!G!HJ + !F + AHJ
+A!BCDEF!G!H!I!J + !C!E!FH + ABC!D!E!F!I + A!B!C!DE!FG!HI!J + J + !BCD!E!F!G!H!I!J + !ABCDE!FG!HI!J + ABC!E!G!H!IJ + !C!EI + ABC!D!EFG!H!I!J
+ABCD!EFG!HIJ + CEFGH!I + C!EG!H!I!J + A!B!C!EFGH!I!J + !A!B + !A!B!C!DEF!GHI!J
+CE!F!HI + !C + !E!G
+A!BCDEF!G!H!IJ + BCE!FG + !AC!D!F!GJ + CEF!J + !CD!FJ + A!BC!E!FG!HI!J + ACDFGH!I + !AD + BI!J + !B!DH + !F!H
+!B!CEFGH + A!BC!D!J + !A!BCDEFG!HI!J + !F!G!H + ABCD!EF!GHIJ + !B!GH + !BCD!EFIJ + AC!DE!HJ + BCD!E!G!H!I!J + AC!DEFI + !ABCEG!H!IJ
+B!E!GJ + A!B!C!DF!G!HI!J + !A!B!D!E + B!CGJ + A!BC!F!G!HI!J + !A!BE!FGHJ + !C!DF + D!E!FG + !CF + BCH
+!AB + A!B!C!D!EG!H!J + !B!CD!EGH!I!J
+AB!E!F!J + A!BE!F!G!H!J + !ABCD!EFG!H!IJ + !AB!EFH!I + !EF + A!B!C!DE!F!G!HIJ + !C!D!EFG!H + A!CEFH!I!J + A!BCD!EF!GHIJ + !A!B!CE!FH!IJ
+!EIJ + !BDG + BCE!F!J + A!B!D!E!FGH!I + !A!B!C!D!EF!HIJ + !ABCEI + ADE!J + !A!B!C!D!EF!GHIJ + B!C!DE!GI!J + ACDE!FHI!J + !A!B!CDEF!G!HIJ + ABC!D!EG!HIJ
+AC!EFGH!IJ + C!F + F + !CD!F!H + !AEF!H!I!J + !B!CG!I + !A!C!I + J + AC!EG!IJ + !A!CF!G!J + !AB!CDE!FG!H!IJ + !AB!CD!E!FGH!I!J + ACDEFJ + A!BC!D!EF!G!H!I!J
+!A!B!C!E + BEGI + !A!BD!E + !G!H + BCEF + DG!J + !C!DEGH!IJ + BCFG!IJ + !A!B!DE!FGH!IJ + ACF!G!HJ + A!D!EIJ
+!AB!C!D!F!GH!I!J + !HI + !ABD!EFG + A!CEFGH!IJ + !A!BDE!FG!H!I!J + ABDF!GHIJ + !D!EF!HI
+!EG + AB!C!DE!FG!H!I!J + BG!J + ABC!I + A!B!C!E!F!J + !A!C!EF!HI!J
+!AD!G!I + !B + A!GH!I!J + !ABCD!F!G!I + !A!B!C!D!E!F!G!HIJ
+DEG + DFI + ADEFGH!I + !BC!D!E!F!G!I!J + !BC!DG!I!J + C + AB!C!D!E!H + !BCHI!J + B!D!F!H + B!F!H!I + !A!B!C!D!F!G!IJ + AC!DI!J + A!BC!E!FJ
+!C!EH + !C!D!F + A!BCDEF!GH + CD!EF!I + !ADE!G!H + BCD!EF!H!I!J + EHIJ + !AB!C!D!EGH!I!J
+BD!FH + !A!BD!EFG!H!IJ + !A!B!CGI!J + !AB!CDEF!GH!I!J + ABF!G!H
+!C!D!FGHJ + C!D!E!H + B!DF!H!IJ + !A!B!CD!E!FGH!IJ
+!ACDE!F!G!HIJ + ABCDEF!H!I!J + !BC!D!F!G!HJ + !B + EF!GHIJ + !AB!CDE!FG!H!I!J + !BF!G + B!I + !AB!C!D!FG
+!AB!C!DEFG!H!I!J + !C!E!GH!IJ + ABCDEF!GH + AB!C!EF!GJ + !ACE!FGHI + !B!EFG!H!I!J + !E!FH + C!D!E!F!G + A!DF!GHJ + !C!I + !A!BC!DE!FGH!I + !B!J + ACEGI!J
+AB!C!DE!FJ + !ABCDEF!G!HI!J + A!BC!DEFGI
+!H + !A!B!C!G!H + A!C!EF!J + !A!DFHI + !EFG + !A!B!C!D!EFGHIJ + A!BC!DE!F!GH!I!J + !BD!GJ + ACDE!FGH!IJ + E
+B!EH!I + AB!C!DE!F!GHI!J + AC!J + D!E!F!I + !A!B!CF!G!I!J + BCF!G!I
+ABC!D!E!F!G!HJ + !F + ABDFGHIJ + A!DEI + CDEGH!I + !AC!E!FH!IJ
+!A!B!C!DE!F!GI!J + AB!C!D!EGH!I!J + D + ACE + F!G + !ACF!GH + A!BD!E!F!GI!J + AB!D!E!FG + GH!IJ + A!B!C!D!EFG!HIJ + H!I
+B!C + !ABEFG!H!IJ + AB!C!DG!H!I + !CD!EFH!I + !AB!DE!G!H!I + !E + AEG!HJ + BD!FJ + !A + A!BC!D!FGHI + !A!BCDE!FGHI
+A!J + G + !DJ + D + !C!F!H!J + !AB!C!DEFG!IJ + A!CDEF!I!J + !A!B!D!EFGIJ + !B!C!E!J + J + C!D!EFG!H!I!J + !A!C!GI
+A!B!EH!I + !F!HJ + A!B!E!F!G
+CDFGH + !A!C!DE!GI!J + !BJ + !G!I + !B!DF!G!J + C!EF!G!HJ + !A!CDE!FG!I!J + !A!BC!DE!FG!H!IJ + !A!B!CDE!GHIJ + ABC!EFGH!J + B!C + !BD!J + A!B!C!D!EFGHI!J + ABC!D!E!FGHIJ
+A!D!E!FIJ + !A + A!CF + A!B!DEFGH!IJ + !B!C!D!IJ + !EF!GHI + !A!BCDE!FGH!I + B!C!D!E!J + !DH + !BCDG!I + !CDGJ + !G + CEF!G + CD!GH
+E!I + A!CDE!F!H!J + !C!DE!G!IJ + !AB!FH!J + A!FG + DE!G!I + A!BCDEFGH!J
+AB!C!D!E!F!GH!I + !A + BCDFG!I!J + A!BC!DEGH!J + !B!CD!HI + B!CDEH!I + BH!IJ + ACDGI
+!C!HI + !EF!H!IJ + !ABFG!I + !A!B!CF + !AB!CDI + H!I + AC!DGH!I!J + E!HI!J + B!CE!G!H!I!J + F!G!H + ABCDGH!I!J + ABC!D!E!FG!H!I!J + !B!CDE!GHJ
+!A!B!C!DEFG!HIJ + AE!H + C!G + C + BC!D!E!F!I + !A!B!CDE!F!G!H!I!J + D!E!J + BCG!HJ + A!CFGHI!J
+!A!CDE!F!GHJ + DF!I + A!BCDEFGHIJ + !AB!E!G
+!A!BDE!FGH!I!J + CE!F + C + !BD!G!J + A!C!DEGHI
+!F + EFJ + A!BC!D!EFH!I + !AFGHI!J + C!GI
+!A!BG!IJ + !B!CEF!GI + A!B!CDEF!GIJ + A!B!CDFG!H!J + A!B!CDE!F!GHI + A!BDE!F!GH!IJ
+ABCD!EF!G!H!J + !B!D!E!H!I + !A!BCD!EFGH!J + !C!DGI!J + !A!BCD!E!FG!HI!J + !AB!E!F!H + H
+B!DG!H!J + A!B!DE!G!IJ + C!EFJ + A!C!D!FH!I!J + !AB!C!DE!FGH!IJ
+BCDE!F!GH!J + A!D!F + !BCD!EH!I!J
+!H + !BDG!J + CF + A!BCDEFGHJ + !AB!C!EF!GHIJ + !AB!C!D!GH!I!J + C!EHI + A!DEG!I + B!F!HI + G + ADE!G!H + J + !AB!C!E!GI!J + AC!F!G
+!D + !F + A!B!C!D!E!F!GH!IJ + !BC!I + CDE!I + !A!G!I + B!D!F!G!HI + BCH + !ABD!F!G!HI + ABCD!FG!H!I!J
+!DEF!HI!J + !AE + !BGH + BC!D!E!HI + !A!BCD!EF!GHIJ + !A!B!C!DE!FG!H!I + !B!CDE!FGH!I!J + B!CD!E!FH!J + !F!GI + !B!C!G!H!I + !A!B!D!EFH!I!J + CD!E!FJ
+!I + A!BD!E!F!GHI + !D!E!HJ
+B!DEFG!HI!J + ABCD!EF!GI!J + A!BC!D!EH!I!J + !ABCDF!GHIJ + ABD!E!F!G + E!G!H!I!J + ABF!J + !BF!I!J + AB!D!E!FG!HI!J + !BJ + A!BCD!E!F!G!H!I!J + !AD!FG!J
+!A!BC!DE!F!GHIJ + ADF!G!J + !B + !ABEFG!HJ + B!H + ACD!FG!I + !AB!CDEF!G!H!I!J + !CDG + A!CD!GH!J + AC!D!GH!J + !A!BC!D!EFG!HI!J
+!G + !AB!C!D!E!GH!I + A!DEGHIJ + !B!EGI!J + !A!B!CDE!F!GH!IJ + ABC!D!HI!J + !A!C!D!I
+BC!I + BC!DGHJ + !C!D!H + A!BDF!G + !A + !A!F!GH!IJ + !B!F + !A!E!F!G!H!I + A!B!C!D!E!F!G!HIJ + ABC!DEFHI + A!CDE!GH!I!J + !AB!CD!E!GHI!J
+!A!BDEFHIJ + D + C!F!IJ + C + ABC!IJ + A!C!E!FGH!IJ + BI + A!BC!DEG!H!I + !AB!C!D!FGI!J + A!B!C!D!E!H!IJ + B!GH + !ABDEFG!HIJ
+B!C!EF!H!I + ABC!DE!F!H!I + !A!B!EHI!J + !A!FG!I!J
+B!C + !AEIJ + !A!BC!DEF!J + D!G!H!J + ACD!EF!G!HI!J + D!E!F!G!H + !DH!J + AB!DF!G!H!IJ + AC!DE!FG!HIJ + A!C!FH!J + ABE!G!I + A!C!E!G + A!CDEFGH!I + ACH
+!A!CHJ + CGI!J + A!B!C!E!F!GHI!J + !C!DG + ABCDEFG!H!I + G + A!DEGH + !E + A!CDF!G!H!I!J + ABI + !C!H + B + !CE!H!IJ + A!GJ
+BDEFHJ + !A!E!FGHJ + !AC!D!G + !AB + !AB!CEG!H!I!J + AGH!J + AB!C!DEF!G!H!I!J + !EH
+BC!DF!GI + ABDEFGH!I!J + !A!D!E!F!GHJ + A!BCDEH!J + !B!DEF!GHIJ + !BG + !A!CDFG!HIJ + !A!D!EFGJ
+C!D!J + !D!E!H + !BCF!HJ + BF!G!H!I!J + BE!J + A!BCDEF!G!H!IJ + AB!D!FGHJ
+A!BCD!E!FG!H!IJ + A!BC!D!EF!G!HIJ + AC!DG!J + AB!C!DFGHI!J + !AD!E + !ABE!F + B!F!G!I
+C!E!F!G!H + !E + !B!CD!E!FH!J + !BC!DEFGHIJ
+ADE!I!J + AB!CDEFG!H!I + !BE + H + C!G!H
+A!BCGI + A!BC!DE!F!G!H!IJ + !AB!CD!EGHIJ + !AEG + A!BC!D!E!FGH!I!J
+!C!D!EFH!I!J + !AB!C!DEF!GH!I + D!G!HI + !B!C!E + !A!B!I
+!J + !A!BD!FI + !E + !A!EG!I
+!GJ + !B + !F!G + A!BEF!H!IJ
+A!B!CDE!GIJ + C!DE!I!J + !BCDF!G!H!IJ + !ADGJ + BC!D!E!HI + !ABC!DE!F!G!H!J + !DEI + BC!D!E!F!G!HJ + A!B!C!DE!G!I!J
+!AB!D!E!G!H!IJ + BCE!GIJ + A!B!CD!EF!GH!IJ + !AB!CDE!F!G!H!I + !DE!H
+!B!C!EF + BEH!I!J + G!J + C!HI + !A!C!D!GIJ + A!B!CD!EF!GHIJ + A!CD!E!G!H!I!J + !A!BC!D!E!GHI
+I!J + !A!B!CDEFGHI!J + !AB!CD!FGHI!J + !DHI!J + BF!G!J + ABC!EF!GHI!J + !F + !ADF!GHI + EG + !AB!CD!F!GI!J + CEH
+!A!BC!DE!FGHJ + CDEG!H + AB!C!DEFH!I + !B!E!G!J + C!E!G + !C!D!F!H!I
+A!BCD!EGIJ + !A!B!C!E!H + !E + !H!IJ + ABG!H!J + A + ABC!DFGHIJ + A!C!E!F + !E!F!G!I!J + !A!B!DEF!GH!IJ
+!E + !C!I + !E!F!G + ABC!D!E!FG!HIJ
+!AB!C!D!EFG!HIJ + FH!I + BD!EI + GHIJ + A!B!CD!FGHIJ + !C!HIJ + A + !ABC!EF!G!HI
+!ABDEF!GH!I + A!BCDE!HI!J + !ABC!DE!F!G!H!IJ + !B!CD!EF!I + !F + !ABC!DEFGHI!J + A!B!C!DE!FGHI!J + !AC!G + CD!FG!H!IJ + ABC!DE!FHI + !A!B!C!F!I + !A!BCEF!HI!J + !D!G + !B!E!GIJ
+!CJ + !C!DI + !ABCD!E!FH + EF!GI!J + I + !BG!I
+BF!G + !CDGI + A!B!CDEFGHI!J + BHJ + !BDF!G!J + ACD!F!HI!J + B!CEF!G!H!IJ + A!BC!E!I!J + A!BDE!F + DGH!J + D!F!GH!I!J + A!C!D!EFG!H!I + !A!D!EFG!HI!J + !AB!C!DG!H!I
+DFH!IJ + AB!EI + !J + !B!C!E + AC + G + !AB!CDF!G!H!IJ
+!F!G + B!FGI!J + BCG + AB!CD!E!FIJ + A!BCEFG!HIJ + !G
+!CDE!FIJ + !A!BG + H!I + !J + AB!C!DEI!J + B!C!E!GH!I + !C
+!A!CEF!GH!I + B + BC + CI + ABCDHI + !A!DEG!HJ + BCD!E!F!G!I + !I + !ABCD!EF!G!H!IJ + !GJ + !F!GJ + !E + !AB!CE!FG!J
+!ACF!H!I + A!B!C!D!E!G!H!I!J + !AB!C!DE!G!HIJ + AD!F!G!I + !EGJ + ABCDE!F!GH!J
+BI + !BCDF!HI!J + !C!DE!F!GI!J + BC!E!G!H!I!J + BCGJ + !ACDE!FGHI + B!C!DE!F!GIJ + A!B!C!D!E!G!H!I!J + E!HI + !AC!DE!F!H!I!J + !ABC!D!E!F!GH!IJ + C!E!F!G!HI + BC!DHI!J
+ABCD!EFH!I!J + !ABCEG!H!IJ + !DI + !A!B!CD!EF!GHIJ + !C!DE + !ABD + AB!CDEFGH!IJ
+!A!B!CD!EFG!HI!J + !AE!HI + !CJ + A!CD!F!GHI + C + !A!CE!F!I + A!BC!D!FG!H!I + A!BCDE!F!GHI!J + ACFGJ + !F + ABDEGI + CD!EF!GJ + !EG + A!B!CDE!FH
+!AB!C!D!E + BCD!EHJ + !G + ACE!I + AD!E!GI
+C!G!J + HI!J + !ABCD!E!F!GH!I + A + !AC!D!F!G!I + !DE!F + ABD!E!F!G!H!IJ + ABCD!E!F!G!HI!J + AC!D!EF!G!HJ + BD!EF!G!HJ + AC!H
+!ABD!EG!H + EG!I + !C!DEI + !A!B!C!DE!F!GHJ + !BG!HI!J + !ADH + A!F + E!FHI!J + ABCDEF!HJ + BF + A!DE!H!J
+!AC!DF!G!I!J + B!CDEF!G!IJ + !AB!CD!E!GI!J + !AB!CDEFG!H!I!J + !C + !BF + A!B!C!D!E!FGHI!J + !AD!F!G!H!IJ + BC!DH!J + !BF!G
+!A!C!DEG!H + !A!B!CD!EG!HI!J + !AB!C!EFGHIJ + !A + B!CD!E!FGI!J
+A!C!EFI!J + E + !D!E!FH!I + !BC!E!FG!H!J + !C + C + A!BC!D!E!FG!HI!J + A!F
+I + C + AB!C!E!F!H!I + B!CDEFGHJ + !AB!CD!EFG!IJ + CE + !CEFH + !ABC!DEG!H!J + !A!DF!GH!IJ + !B!C!EI + A!BCDEF!GH!IJ + B!D!G + B!D!EI
+!ACD!E!F!GI!J + !ABCDEFG!HIJ + !G + !F!I + B!C!D!FJ + AB!CFGJ + A!CD!E!FG!H!IJ + A!B!CDE!FG!H!IJ + A!B!C!D!E!F!GHI!J + !J + !A!BC!D!EF!GHJ
+!D!EFG!HJ + BC!DGJ + !B!CG + BI + !A!B!C!D!EG!IJ + !AE!FI + A!BCD!E!GI!J + A!IJ
+!A + BD!FGI!J + DHI!J + J + !F!I
+A!B!C!D!E!F!G!H!I + !AB!C!EF!G!H!J + !A!BCDE!GHIJ + EGHI + !C!FG!I!J + !ABC!D!EJ + !AB!C!F!G!HJ + ABC!D!EF!G!HI!J + B
+!A!BCDEF!GHIJ + BC!J + G + B + !AC + !EJ + !A!CD!EFGHIJ + C!D!FG!H + !A!C!DE!FG!HIJ + !D!EI
+!A!B!C!D!F!G!H!J + B!C!DIJ + !ABC!D!E!F!G!HIJ + !A!B!CD!E!G!HI!J + BDFG
+!AF + A!B!CD!E!I!J + !DF + !ABC!FG + AB!C!DE!FGH!IJ + AB!C!E!G!HIJ
+!CG + A!B!CDE!FG!HJ + AF + A!BCDE!F!G!H!I!J + D!EI + !A!B!C!D!E!F!GH!I + !CD!H + !A!B!G!H + B!I + ABCD!F!GH!I!J + ABCD!E!F!G!HIJ + A!C!D!FG + !E!J + !ABCEJ
+A!B!CDE!FG!HI!J + ABC!DEFG!H!IJ + !ABCD!E!FG!HI!J + G + EJ + !ADF!GH!I!J + !AB!C!D!E!F!G!HJ
+G + AIJ + !B!C!E!G + C!E!H!I!J + !A!BC!DE!F!IJ + !AB!C!D!E!GHIJ + B!C!DGHIJ + BC!EG + AC!GH!J + A!BCD!EGH!I!J + !AB!C!FJ + !C
+D!H!J + !DE!F!HI!J + !A!B!FGH!I + A!B!C!E!FGH!I!J + !A!B!D!FG!H!IJ + A!BCDEF!G!HI!J
+!B!C!E!H + H + !FH + !AB!DEF!GJ + !I!J + G!I + A!EG!I!J + A!B!CEF!GIJ + C!FHI + A!B!DE + !A!BD!E!F!GHI + !ABF!GI
+!B!C!D!E!G + !J + !E!GJ
+D!E!G!HJ + B!CEFGH!IJ + !A!BCDEF!GHIJ + A!BD!FG!I!J + !ABCDEFGH!IJ + D!E!J + A!B!D!F!GJ + I + E!FGIJ + AB!CD!EFGH!J + !AC!DE!FG!I
+A + !A!C!DEF!GH!J + AC!H!I!J + B!GHI + !ABC!D!F!G!H!J + !AB!DE!FG!HIJ + G + B!DEFHI!J + !ACD!E!FG!HIJ + !A!B!C!DEF!GI + !G!J + !D + AB!D!E!F!GHJ
+!D!E + !BDE!F!GHJ + ABC!D!EFG!HIJ + AB!C!E!F!GHI!J + B!C!DE!F!G!I!J + E + !ABC!D!EHI!J + AB!C!DE!F!H + !C!D!E!F!G!HJ + C!EFJ + !DEH
+!AC!D!F!IJ + A!BD!EFH!I!J + A!BC!DEFGH!I!J + A!B!C!DE!FGH!I!J + !D!G!IJ + !AEF!H!IJ + !AC!DFGIJ + H!I + !DE + ABD!E!FG!J + BJ + !A!BCD!EFHI + ABE!GJ + !ABD!E!FG!HI!J
+!AB!DEFG!HI!J + AB!C!G!H + A + !AB!CFGHIJ + !DF!G!J + A!B!CD!E!GHIJ + !B!C!EFG!H!IJ + !AB!CDEFG!H!IJ
+!AB!D!EF!H!J + A!BC!DE!FGH!IJ + ABC!E!F!GH!J + ABCD!EF!H!I!J + !E!GHI!J
+CE!FGH + A!BC!DE!F!G!HI!J + !EGJ + !AHIJ + !B!EF!GHI!J + !I
+!I + BF + !A!B!CF!G + !A!D!GI + A!E!I
+!A!BCD!E!FGHI + C + G!J + AB!C!DEF!G!HI!J + A!B!C!EG!H!IJ + CEI + A!B!C!D!E!FG!H!J + D!F + ABC!D!E!FGHIJ
+EGHIJ + A!B!CDFG!H!IJ + AB!DEFG!HIJ + !AEG + !ACEHJ + !ABCEFH!IJ + !ABE + A!BCD!FHIJ + D
+!BCDEFGH!IJ + B!F + A!C!E!F!G!I + !B!EHI!J + DEI + A!BC!DEF!G!H!I!J + !A!BE!F!G!H + !CDEJ + !ABCE!GHIJ + !A!B!D!FGHI + G!I + AEF!H + A!B!C!FGI
+A!CE + !B!F + A!D!EF + !A!CD!E!FGHI!J + !A!IJ + !AH + ABC + AB!C!DE!F!GHJ + D!H + !CDE!G!I + A!BC!DEF!G!IJ
+A!BD!E!F!G!HIJ + !ABCD!EFG!H!IJ + AH!J + !AJ + H
+AB!C!D!G!HI!J + DEF!G!IJ + !A!BCEFG!I!J + !AB!CD!EFGH!I!J + !AB!F!GI + BCE!HI + A!B!CDE!F!GH!IJ
+AB!C!D!E!FGI!J + AE!FGHI!J + BC!DEFGHJ + !ABC!DE!FGH!I!J + BC!GH + A!FG + B!C!I + !A + !HI + !AEH + C!EFGI!J + AC + !A!DH!J
+!AB!EH!I!J + !A!B!CDE!F!I + AC!DFI!J + !B!C!D!H!J + !B!C!D!E!F + AC!D!EGH!J
+!A!BD!GHIJ + B!C!G!I!J + !ACE!F!G!HJ
+AB!CD!J + ABCD!E!F!G!H!I!J + AB!C!DE!F!GH!I!J + !A!B!D!HI!J + !AC!FGH!IJ + A!B!CD!EF!G!H!IJ + AB!CFI!J + !C!F!G + BD!G!H + !A!B!C!DEGHIJ + !F + !FI
+ACDEFG!HIJ + !A!C!DE!IJ + !ABCIJ + ABCD!EFG!H!I + B!DH + BC!E!FGHI!J + !A!D!E!F!H!J + A!B!CD!EFH!I + A!F
+!G + A!DE!FHJ + !A!B!DE!HJ
+J + !AB!C!DEF!HI!J + A!C!DEFG!HI + !C!I + A!BC!D!EFG!HIJ + A!FH
+A!B!C!D!E!FG!HI!J + !E + D!G + A!BCF!G!H!IJ + !C!DF!GHIJ + !ABDEF!G!I!J + AC!F!H!I + CFG!HI + !D + !G
+!BCDEFH + A!DJ + CEF!H + !A!G!H!J + A!B!DG!I!J + !AB!CD!GH + !BC + !C!G!H + AH + A!CE + F + !A!BC!D!E!FGHI + !BC!DH!J
+!AC!EG + !ABC!DEFG!HJ + !BC!H + A + DE
+!B!C!D!EG + A!C!EFGI + !H + !BD!FGIJ + D!E + !A!B!C!D!EFGHI!J + A!BCDEG!H!I
+!ABC!D!HIJ + AG!HI + !HI + A!B!D!E!FGHI!J + AC!E!FGI!J + AB!EHJ + E!FH + A!BD!G!IJ + C!F!G!J + !BDEF!GH!I!J + BCEGI + B!CE!FG!H!I
+ABDE!FGHIJ + !A!G + !A!BDEFGH!J + !HI!J + AC!DE!F!GHI + GH!J + !H + A!BCF!GIJ + A!C!DIJ + FJ
+ACD!E!F!G!HIJ + !ACGI!J + ABDE!FG!H + !E + !AC!FGH!IJ + !A + !B!D!J + A!C!DE!F!HJ + !A!DI + !ABC!DEFG!H!IJ + BC!D!EFGH!J + A!BCE!FG!HIJ + G!H + !BDG!H!I
+B!I + !A!B!C!D!EF!G!IJ + !B!CDE!FGHJ + AB!CE!F!GHIJ + !A!B!CE!GI + !ABF!G
+A!BE!F!IJ + A!BD!H + !BD!E!F!G
+!ABCD!E!FG!H!I + ABCDE!F!G!H!I!J + CD!FH + !D!G + !ABCD!E!FGH!I!J + EFG!I
+A!BC!DE!F!GH!I!J + AB!CDE!F!GHIJ + !AB!CD!E!F!GHIJ
+!D + !A!C!D!E!F!G!H!I!J + !B!C!D!J + ABCDEFGHI!J + ABCD!EFGH!I + BCD!I!J + B!DFG!J + !B!C!DE!FG!H!J + !AC!DIJ + B!EFGH + DE!F!G!IJ + BEF!G
+!C!E!FG!HI!J + !AB!C!D!EHJ + B!G!HI!J + !ABC!D!E!G!IJ + ABC!DE!F!GIJ + !A!BC!D!EFGH!I!J + !A!J
+D!F + !BFJ + A!BCD!EF!GHI!J + A!C!D!F + !C!E + !A!B!C!DEFH!I!J
+!F + C!E!GI + D!H + AB!C!D!E!H!I + BC!E!IJ + AEF!GJ + !EGI!J + !ABEFIJ + A!BCD!E!F!G!H!I!J + !D!F + B!FGH + !A!C!DEGJ
+!BCD!E!F!G!HI!J + A!E!I + !A!B!CDG!HI + F!I + !A!GI + B + !B!DE!G!H + B!DEF!GH!J
+B + !D!GJ + ABCD!EGH + !B!EF!GH!I!J + BEJ + A!B!CEF!H!I!J
+AB!CD!FGH!IJ + !D!IJ + GHJ + !B!C!G!IJ + BCG + !ABH + !ABD!E!FGHI!J + AD!G + A!BC!DEF!GH!I!J + E
+ACF!G + ABCD!EFG!H!I!J + !C!G + !ABCDE!FGI + !B!GJ + !BG + !F!G + ABCD!FG!H!J + !E!G + !CE!FGH!IJ + !AB!CD!EFH!I!J + ABC!EFGI
+BCD!EFG!H!IJ + !A!C + AB!C!DEF!G!H!I!J + A!B!C!DE!F!GH!I!J + AB!DF!GJ + !ACDE!FG!H!I!J + !AC!DEF!HI!J
+!C!D!FH + ABC!DEHI!J + !B!EH + A!B!CDEFG!H!I!J + !CD!E + D!I + !AB!CD!EFHI + BD!FGHI!J + !ABCE!F!G!H
+BI + !DF!HJ + !B!CE!F!HI!J
+!ABCDF!H!IJ + !A!BCD!E!F!I + !AB!DE!FG!H!J + A!C + BC!D!E!GH!I!J + !E!FG!HIJ + D + !BE!F!HI + ADJ + AB!EF!GHI + AB!C!DG
+ABDE!F!G!H!J + !E!GH!IJ + !D!FG!H!IJ + C!F!IJ
+!AD!E + !A!B!C!DG!H!I!J + !ABDFH + AEFHI + BCHI + !ABCEF!GHI!J + !ADEI + A!D
+A!BC!D!EF!GJ + !AD!EFG!HI!J + G + AC!DE!FG!HI + !G + !C!D!EGHI + !CGH!J
+A!BC!DE!FGH!I!J + !EI + A!EG!I
+A!BEF!GHI!J + ABCE!FG + ABCEFGHJ
+A!B!FG!HI + CFI + A + C!E!F!G!I!J + !GI + !AB!D!E!FGHIJ + !AE!FH!I!J + BH + !AB!CDEF!G!H!I!J + B!CFG!I + !C
+!ADE!I!J + H + !AB!C!DEFG!H!IJ + !A!BC!DE!FG!HI!J + !C + ABC!FGI!J
+!ABD!E + B!CD!F!GH!I + BC!E!J + !BCDG!J + !A!BCDE!F!GH!I!J + !B + F + !DFGIJ + !ACEF!I + !AB!C!F!G!H!IJ + !A + !DG + !F
+!J + A!B!C!D!EF!GH!I!J + !A!BC!DEFGH!I!J + !B!H!J + A!BC!D!FG!HIJ + A!B!C!D!F!HIJ + AB!C!D!E!F!G!HIJ + ABC!DE!FG + EH
+!BDE!G!HI + D!E + !C!EH!I + !B!I + !BC!DEF!GH!IJ + !A!C!D!EI!J + A!F!GI
+!A!B!C + !AFGH!I + BCD!H!I + !EF!H!J + BCH + !A!B!C!EFI + AB!C!DE!FHIJ + A!B!CDE!F!H!IJ + !ABCEFH + BE + !B!E!H
+A!B!E!F!H!IJ + !A!D!E!H + !BCD!EFGH!J + !BE!HJ + !BGI + !C!D!G!HJ
+A!C!G!I + !AC!D!H + !D + DF!GHI + B!CE!F!G!H!I!J + !B!CG + !AD!EH!J + !BD!H!I
+!BCGI!J + A!BC!D!EF!G!HI!J + G + !CGI + A!BCDE!F!GH!IJ + A!B!CDG!H!I + !F
+ABC!DEF!I + A!BCJ + !AC!F!GHJ + C + C!DH!I!J + !A!BC!D!EFG!H!J + AC!F!G!I + !E + ABCE!FGH!J + BE + !A!BC!D!E!F!G!H!IJ + CEF!I
+A!B!CDFG!H!I + !ACE!G + !A!B!CDE!FGH!IJ + !AB!CE!F!G!H!I!J + C!D!I + !D!E!F!I + !A!B!EG!H!IJ + !D!H + !A!B!D!E!F!G!H!IJ + BCD!EF!GH!I!J + A!EFG!IJ + BCD!EFGIJ + AB!C!D!E!F!GI!J
+A!BC!D!E!FGH!IJ + C!E!HJ + CD!FGIJ + !B + ABC!D!E!G!HI!J + !AB!CD!E!F!GJ + AB!C!D!EGH!I + ACE!F!G!HJ + !DI + A!CDE!F!GH!IJ
+C!E!FG!H!IJ + CEI + A!B + F + !D!EF!G + ABC!D!E!FGH!I!J
+!A!E + FJ + !ADE + !AB!CD!EGH + !C!G + DE!GHI!J
+!H + AB!C!DE!F!GIJ + AF!H + A!CH!I!J + !ABC!EFGJ + A!B!EJ
+A!BCE!FG!HIJ + C!D + B!DE!FH + B!D!I + !A!BD!FG!H + !C!D!H!IJ + !AB!E!F!GHI + !A!B!H!J + !E + !ACDH
+AB!D!F!H!IJ + !A!B!CD!EF!G!HI!J + !AG!H + !BD + !A!B!C!D!E!FGH!J + AB!C!DEGH!IJ + !C!DH + !J + B!CFI + !BG!H
+AC!D!EFG!HI!J + !A!G!I!J + AB!CD!E!F!G!H!IJ + !B!FI + !C!FG!J + B!CDE!FGHI + G + A!EFG!I!J + !CEG!HI + ACD!EF!GHIJ
+!ACG + !A!B!C!DEF!G!HIJ + CJ + A!BCD!EFGH!I!J + AEH + !B!C!EG!HJ + !A!C!E!GI!J + !BD!FH!I + !A!B!C!D!GIJ + !AB!C!D!E!F!GHI!J + !BGHJ + !A!BCDE!F!GHI + !A!BC!D!E!G!H!IJ + DG
+!A!B!C!E!H + !C!H + A!C!DE!FGHIJ + !AF + AB!FIJ + B!G!I + !A!B!C!DE!FG!H!IJ + !A!FH + !ABCD!E!F!I!J + AB!CFGI!J + EGI!J + !F + ABC!E!FG + ABC!DE!F!GH!I!J
+!A!BC!DEG!HI + !A!DE + A!B!CD!EF!G!H!J + !BCE!I + !ABDEF!G!IJ + !B!FIJ + !ABCD!EFGHIJ + DI + !AB!E!FH!J + A + D!E!GIJ + G!I!J + !BF!GH
+!H + !ABC!DE!F!GH!IJ + B!CDEF!GH!IJ + A!B!D!I + D!F + !A!B!CD!F!H + B + A!BC!DEF!GHI!J + !B!E + ABC!DEFH!IJ + ABCE!FG!HI!J + A!BC!D!E!F!G!H + AF!G!H!J + !B!CDG!IJ
+!B + !A!B!DH + !D!EGHI!J + !A + HIJ + A!BEF!G!H
+!AB!C!EF!G!HIJ + !DGH + D!G!H!I + !CF!G
+AF + !A!C!EG!I!J + !ABE!G!H + !A!BEF!GH!I + DF!G!J + ABC!D!EF!G!HI!J
+B + E!G + !CG + !B!CDF!I
+!AC!EJ + AB!CD!EFGH!IJ + A!BCFG!H!IJ + !ABE!FG!HI!J + !D!E!G!HIJ + H!I + A!B!C!HI + !E + !D!G!H + !B!CDF!G + !HI + !ABE!I!J + BC!F!J
+!AB!CD!E!F!G!HI + B!CE!FG!H!I + A!B!FHI + !A!BC!FG!H + !A!BC!DEG!I!J + EGIJ + ABFG!I!J + !A!C!D!E!HIJ + AB!CD!FH + !A + !CFG!HI + !AD!GIJ
+!DEFI + !B!CDEF!HJ + !ACD!EF!G!I!J + !AC!J + !A!C!DE!FGH + A!BC!D!EF!I!J + !A!B!CDEF!G!H!IJ
+BJ + D + A!BC!DF!G!I!J + !A!B!CD!EFGHI!J + !A!BCD!EFGI + !D + A!BD!EF!H!IJ + !ABCE!FG!HI!J + C!DH!I + !AEF!J
+ABC!D!EF!G!HIJ + C!D!J + !ABC!DEF!GHIJ + A!B!CD!FGHIJ + BCG!H!J + A!BC!D!E!FH!I + J + ADEG!H
+ABC!E!F + C + F!G!H + B!DE!I + !F + BCD!EFH + !A!DF + BE!H!J + !A!B!E!FGH!IJ
+ACFI + !BD!EF!GH + !CG + !B + !B!CE!F + !B!CDE!G!HIJ + !EF + !B!CEF!HJ
+!H + C!DE!HI!J + !C + A!BCDE!FGH!J + !B!CD!E + !A!C!E!F!GHI!J + A!B!DIJ + AB!C!D!EFGH!I + A!B!DE + !ABCD!E!F!G!I + !BC!DEF!G!H!IJ + BCEF!HI!J + !ACF
+!A!B!CD!EFGHIJ + !A!B!CE!F + !GI + A!B!C!D!J + A!BCDEF!GHI!J + CD!EF!H!IJ + ABG + F + CF + !A!B!C!D!E!FGIJ + !AB!CD!F!H!J
+ACEFG!IJ + !DE!F!GHI!J + !G + !CJ + !AB!C!EFG + A!C!EFH!I + !CG!J + CDF + A!B!CDEFGHI!J + !AC!I + !A!E + A!B!CD!E!F!G!HIJ
+!A!B!C!F!G!I!J + A!C + A!B!CFGHJ + A!B!CDEGHI + !A!BJ
+A!B!C!D!EFG!HI!J + A!D!EFGH + !EJ + BE!F!G!I + F + !A!B!C!D!E!FHI!J + B!CI!J + I + !BC!D!EF!G!I!J + A!B!CD!E!F!G!H!IJ + !I
+A!B!C!D!E!GH!I!J + !F!H + B!DE!F!G + CD!FI + !AC!D!H!J + !A!B!CE!FGH!J + !ABE!FH!J
+!ABCD!EFGHI!J + !CD!E!F!GJ + !A!BCDEFGHI!J
+!A!CHJ + AB!C!G!HI!J + ABDE!G + !B!C!DE + !AB!CF!GHI!J + !A!C!D!E!F!GIJ + !AB!DE!FGH!I!J + !ABCDF!HJ + B!C!D!E!FJ + ACEHI!J + !AB!CDE!FI!J
+CE + !A!B!C!DE!GH!I!J + CJ + A!BC!D!E!F!GHI!J + ABCD!EFG!HI!J + !E!J
+!A!BCDGI + !A!BC!D!E!F!G!HI!J + A!B!C!DEF!H + !B!CDEF!G!H!I!J + !A!B!CDEFGHI!J + !A!BC!E!H!I!J + A!B!C!D!E!F!G!H!J + !A!B!E!I + !D!G!HJ + A!B!C!D!EF!G!HIJ
+F + !A!CE!F!G!H!I!J + !BF + A!BCE!F!G!HIJ + !FHI!J + A!D!FH + A!B!DGH!J + !ACE!F + !BCF!HIJ
+!A!B!C!DEF!G!H!IJ + !EG!I + !AC!D!FGHIJ + A!B!DEG!I!J + F + !AB!CD!G!I!J + B!C!DE!FGH!IJ + !A!C!FGI!J + !A!B!C!F!J + !AB!CEFGH!I!J + B!E!G!I + !BD!HI + BC!F!G!J + !BE!G!H!J
+!A!BC!E!IJ + !B!DG!HJ + B!C!D!FG!H + A!DEFGHI!J + F + !AB!DEF!GHI!J + !C!DF!GHJ + A!BG!HIJ + AC!DE!F!G!HIJ + !A!HI + !AC!D!GH!IJ + !ABCD!EF!GH!I + !B!CD!E!F!HI!J + F!G!H!IJ
+!ABCEF!G!HI + BEH + ABC!D!EFHI + !A!BC!DFGH!IJ
+EF + AB!CD!FG + !A!B!C!D!EF!GHIJ + A!C!EG!H!I!J + !ADFG!H!J + !DE + CG + A!B!D + !A + C!G + A!B!CE!FGIJ + !AF + !A!BC!D!EF!H!I!J + G
+!A + !A!B!DE!HI!J + A!BC!D!FG!HI!J + BDF
+!B!CG!HI!J + BC + !CD!F!I + !B!D!F!H + !BC!E!H + !A!BCG!J + AB!C!DEFG!HI!J + !D!E + !ABCD!EF!G!H!IJ + A!FJ
+A!BC!D!E!F!GH!I!J + A!C!DGH!IJ + !A!B!C!D!FHI
+!AG!HI!J + AB!E!F!H!I + GHJ + !A!BGH!J + !AEFG!J + CDE!GHIJ + D!H + !A!B!CD!EF!G!HIJ + !BCDF!G!I + !A!B!C!G!IJ
+!A!B!C!D!FGJ + C!GH + !A!BC!D!EFGH!I!J + !A!B!C!D!EF!G!H!I!J + A!B!C!F!GHI + G!H
+!C + !AC!D!EG!H!I + !ABE!F!GH + !BCEFH!I + !C!FJ + !ABC!D!FG!HIJ
+AC!E!FG!I + ABG!I!J + A!CFG!H + !CDEGH!IJ + A!BIJ
+!C!F + !A!B!DE + DEF!G!H + !AB!CD!E!FGIJ + A!BF + A!B!FIJ + !A!B!DE!FGH!I!J + !A!B!DE!FGH!I + B!DF!G
+!BC!D!E!F!GHI!J + !AC!DE!GH!I + !B!CDE!IJ + BD!E!GHI + !B!EHI!J + B!CEFG!I + A!C!EF!H + !A + !C!E!F + ABCD!E!FGHIJ + CG!H!J
+EHIJ + CI + ABH + !ABD!E!FGI!J + !A!B!DFGH!I!J + A!BCD!E!F!G!HI!J + GJ + !B + !AB!D!EFI!J + !ABC!D!EFGH!I + !A!BE!F!GHI + A!D!FG!J + !B!C!D!FG!HIJ + !AB!CDE!F!GHIJ
+C!H + !ACE!I + A!CD!E!IJ + !F + A!B!C + ACD!EGH + !A!E!GH + A + BDFJ + !D!E!GHI + !E!G
+BCD!F!H!I!J + ADE!FG!H + !EJ + B!CF!I + !B!E + A!DE!F + ABCDFG!I!J + D!E + !BC!D!F!G!I + ACDEH!J
+A!DEGH!I + !A!C!DEF!G!HI!J + A!B!C!E!F!G!H!J + !C!J + CE!FH + !D!HJ + BC!DHI
+!A!BE!FGH + !C!D + !A!B!C!DE!F!GH!IJ + BC!E!F!H!I!J
+A!BC!DE!F!GHI!J + AB!C!E!F!I!J + B!CD!E!F + !D!F!G + !A!B!D!EGJ + !CE!FH + !A!BCD!E!F!G!HI!J + ABC!D!EGH!I + BD!EF!G!IJ + !ABC!D!EF!GHI!J + BC!DGHIJ + !F + !E
+A!C!D!E!F!G!H!I!J + A!B!C!D!EF!GH!I!J + ACDFH!I!J + J
+!A!B!CE!GHI!J + !I + !D!E!H + B!D!E!J + DI
+!D + !G!IJ + D + DE!FG!H + A!BFH + B!FG!J + D!EGIJ + !ABC!DF!G!IJ + !BCHI + !BD!EF!G!IJ + AC!EFGIJ + C!EI + ABCDE!FG!H!IJ + AD!J
+A!B!C!D!FGI + C!DEGJ + ACDE!FG!H!IJ + !DG + !C!DFH!I!J + !BC!D!EFG!H!IJ + !AB + ABC!DE!FGH!IJ + !A + !C
+A!C!D!FG!H!J + !A!BE!FG + B!CD!EF!I + !D!EFJ + J + !AB!CDEF!GH!I!J + !C!D!E!F!GH!J + AC!FGHI!J + !A!CD!E!J + !B!CFI
+AB!DFGH + B!G!HI!J + DJ + !B!DE!FIJ + AB!C!DEF!G!J + ABC!D!EF!G!HIJ
+!A!EFG!IJ + !ABCE!F!G!H!J + !AB!H + AB!CDEF!G!HI + E!GJ + BC!D!EFGI!J + B!CDF!GH + !D + !A!BC!DEFG!H!IJ + A!BC!EG
+ABC!D!EF!G!HIJ + BD!E!F!IJ + !BCDFI + J + !ACD!E!FG!HIJ + !A!CD!EFG!HIJ + !A!BC!DE!F!G!H!I!J
+!BCDF!H!IJ + !A!B!C!DEFGHI!J + !BCF!G!HJ + !AB!D!F!GHI + A!C!DE!F!G!HIJ + !A!J + AB + A!H + !A!BC!G!H + E
+AB!CDEF!G!I!J + A!C!D!E!G!HIJ + C!EG!I + A!BC!EF!G!H!IJ + ACEFGH!IJ + !A!C!DE!F!GIJ + AB!CD!F!G!HI!J + !AC!G + !B!CDF + !D + !A!CDE!FG!I + !B!C!GH + AB!CD!E!FGH!I!J + !F!I
+A!BDE!FG!H!IJ + !C + AB!D!G
+D + !BDE!F + !A!CD!EF!G!I + !I + !B!DE!F!I + !A!B!EF!G!HI + BF!I!J + !AC!DEF!GHI!J + !B!C!D!EFG!J + !AC!EJ + H
+!CD!G + !A!C!D!E!H!IJ + !DE!I!J + !HI!J + !A!BC!DE!FG!HIJ
+!A!B!CD!E!FG + !AC!DEFGH!J + F!HJ + !AB!CD!E!F!GI!J + BCDE!FJ + !BD!FGH!J + !BGI!J + !ABCDFH!IJ + !ABCD!E!FGHI!J + !ABDEFG!HI!J + EF!H + B!FH!I!J + !A!G + !DJ
+AB!C!D!E!F!GH!IJ + !CDE + !A!I + C
+ABC!DEG!HIJ + AC!DE!F!G!HIJ + !A!B!D!E!FHI + C!D!GJ + AB!C!D!GH + !A + !A!C!E!F!H
+CEG!HIJ + BC!D!HI!J + !CD!FG!I + !D!EI + !ACE!G + C!DF!G!I!J + !GJ + ACD!EG!H!IJ + !B!D!G + H + C!D!F!H!J
+A!B!CD!EFH!J + AB!CD!GHJ + AB!DFG!I + A!BCDE!FG!HI!J + F + !I + !ABC!D!E!FHI + !A!G!J
+!H + GI + AB!C!D!E!F!GH!I + !F!J + !A!FJ + !B!G!H + !GJ + !A!BC!EF!IJ + !BCI + AB!CDEF!GHIJ + !A!BDE!G!H!J
+!ABD!H!I!J + !A!C!D!EF!H + !AB!D!EFIJ + !C!HI + !H!J + !ABCDE!FGH!I!J + !A!HJ + A!B!CDEFG!H!I!J + A!B!C!D!FI + A!FGJ + AC!D!F!G!HIJ + !A!B!CD!I + !CDE!I
+A!C!D!E!FG!H + E!J + !AB!D!EFJ + !ABC!D!EFGI + !A!BCD!E!FG!HIJ
+A!B!DFG!I!J + !CDFHJ + !C!D!E!H + !A!BCEHI!J + AB!C!DE!FG!H!IJ
+A!DE!GH!I!J + !AB!DE!FG!H!IJ + A!B!C!DF!GIJ + !DE + !E + FG + A!BC!D!EF!GHIJ + !H + AG!HI + B!DEF!G!H + D!F!G + A!BCDE!F!G!HJ + !EF!HJ
+ABC!DF!G!J + E + !AB!C!D!F!G!I!J + BC!D!EFGHIJ + !AB!CD!E!FGHI!J + A!B!CDE!FGHI!J + A!BCD!EF!HIJ + AB!CDE!F!GH!IJ + AB!C!DF!I!J
+!EHIJ + CEI + D!FG + !AB!CD!EFGH!J + A!BC!D!E!FGHIJ + !G + CDEFHJ + !ABCDEF!GH!IJ + ACHJ + BC!D!EG!I + !A!BDE!F!H!IJ + !A!B!CDEFG!IJ + C!E + A!BCDE!F!G!HIJ
+AB!C!DEF!G!HI!J + !A!B!CDE!F!GHI!J + AB!C!D!EF!GH!I!J + !A!BC!DFG!HI!J + !ABEF!G + !AB!C!D!FG!HJ + F!J + ABFH!I + !CFGJ + AE!G!HJ
+C!D!E!FI + A!B!CD!EFG!H!I!J + !A!CDG!H + AD!EF!J + !ABCD!EFG!HIJ + !A!B!C!D!EF!GI!J + !BE!FH!J + !A!BC!D!EFG!H!IJ + !B!C!G!J + !CEGI + B!D!EF!GHIJ + BCE + E!G!HIJ
+A!EH + !E + !AB!CD!EFGHIJ
+D!F + !AC!DE!G!I + !A!C!F + !ABHIJ
+E!FH!I!J + !B!H!I!J + A!B!C!D!EG!H!I + ACF!G!HI + H + I + !B!G!H!I!J + !A!D + !ABCEFH!IJ + F!J
+!C!HI!J + !AB!C!EH!I + DE!FGI + !A!B!CDE!F!GHJ + A!B!C!D!E!F!G!H!IJ + !A!B!CDFHIJ + !A!B!CDEFG!H!IJ + !AB!CD!E!FGH!I!J + !B!CFH!J + A!BCD!EF!GH!IJ + A!B!CDEG
+A!B!CE!F!GI!J + !C!D!G!HI!J + !ADE!FGH!I!J + !FG + !B!CEH!J + !AFGHI!J + !ABCD!EFGH!I!J
+A!C!DEI + !AB!D!F!H!I!J + !A!B!CEF!I!J + !B!DEFI!J + CEG + AC!DE!F!HI + !AB!D!FGH!J + !B!CGHI + ABC!DE!F!GHIJ
+A!B!CD!EFGIJ + AFI + !BF + !BC!DFG!HJ + ABCD!E!F!GH!IJ + !DEGH!I + B!CDFG!H + !D!J + A!C!EFG!H!IJ + A!CDF!IJ + ABCDEF!G!H!I!J + AB!C!D!E!F!G!H!I!J + A!BC!DG + CG!I
+AC!D!F!I + !A!B!FI!J + !A!B!D + BCD!H!I + !G!J + !ABDE!FG!H!I!J + CFHI!J + AB!C!D!F!G!HJ + E + E!I + !J + !AB!DEFH!I!J
+A!BD!J + H + !B + !G + I + !A!CD!E!F!G!HJ + !ABCD!E!FG!H!I!J + C!D!FG!I + !BC!D!E!GH!I!J + D
+!B!C!DE!G!H!I!J + !B!EI!J + AH + B!C!D!GH!IJ + !AB!C!D!EF!GH + !D + A!B!CD!E!F!G!H!I
+BFJ + !BCF!GI + A!BC!D!E!F!HI!J + !B!E!G!H + !DGI + BG!H + !B!DH + !A!G + ACF + A!BF!J + ABC!EH + BF!GJ + ABCFIJ + !ABC!D!FG!H!I!J
+A!BCE!FG!H!IJ + F + !E + !ACDEF!G!HI!J
+!A!CF!H + !F!G!IJ + !H + A!B!DEG!H!I + BDE!IJ
+E + !AB!C!D!E!F!G!I + !C!DEF!G!HIJ
+CF!I + BEF!G!I!J + A!C!D!FG!H + AB!CDEFG!HI!J + !AD!E!HJ + !A!BC!D!EFG!HIJ + !G!H + !J + !BCDEFGH!J + !AB!C!J + !BHI + A!FG + G
+!AC!EG + A!CH + !ABFJ + DE + I!J + !C!DJ + E!G!J
+!C!D!EH + !BD!E!F!G!H!IJ + C!EJ + C!EGH!J + BC!DF!G!HI!J + A!D!G!I + !BDFI + A!BC!DEFG!HIJ + A!E!H!I + !FGHI
+!C + !ABDEF!IJ + A!BC!DEF!G!J + C!DG!H!I!J
+!CEG!H!J + ABC!D!EF!G!HI!J + ABC!D!E!FG!HI!J + !B!CD!G + BGJ + ABCD!E!FGH!I!J + !B!EF!HJ + !ADG!I + !A!BCDGH!IJ
+!A!BC!DE!FGHIJ + D + E + F + C!EFG + !AB!C!D!E!FG!H + D!E + !D!F!G!IJ + !B!C!DEF!GHI!J + !E!G!I + A!B!CDFH!I!J
+!BD + BC!D!IJ + ABCD!E!FG!HIJ + D + A!B!C!D!EF!G!I!J + A!C!DFG!J + !BC!D!FG
+!A!BEH + D + !A!CF!H
+!A!B!C!E!FG!HIJ + !A + !A!B!C!DE!FGH!I!J + !GI + DG!J + CDFGH!I!J + B!FH!I + AF!H!IJ + H!J + !A!BCD!GH
+!A!BCD!G!IJ + BC!EF!HI + DE!GJ + A
+AB!C!D!E!FGH!J + !A!CDJ + C!I + !ABCFG + !A!B!DFH!IJ + B!C!D!EG!I + ACDE!G!J + BDE!GIJ + !B!DE!FG + !A!B!C!DE!FGHJ + CGHJ + !AB!CD!E!FG!I!J + AB!E!F!G!J
+B!E + !B!C!DE!HJ + C!D!E!GI + !A!B!D!EFGJ
+!B!G!I + !B!D!E!F!G!I + A!BDE!F!G + !B!CDFH!I!J + !AB!CEG!I!J + !C!D!G!H!J + A!D!E!GHIJ + B!CFG!H!IJ
+ABC!D!EF!G!H!IJ + !AEFJ + ABCDE!FGI + ACD!EF!GJ + CEJ + A!B!C!EFG!HJ + B!C!DE!FGHI!J + !ABCDE!F!G!H!I!J + !GI
+!A!D!E!F!GHI!J + !A!C + !AD!G + A!B!D + ABEF!H!I!J + ACEF!GH!IJ + AB!F
+B + A!BC!DEFG!HI!J + !ABCDEF!GIJ + AB!DE!G!H!IJ + A!BD!E!F!G!J + !ABC!DEFGH!J
+G!I + !A!B!CDE!FG!HIJ + F!J + B + H + !E!H + AB!CD!G!HI!J + !F + AB!CD!EFG!HIJ + BC!F!G!HI!J + !CE!F!I
+E + B!E + ABCDE!FGHIJ + AB!EH + !EF!J + A!B!CDEF!G!H!IJ + !BC!D!GIJ + AB!DF!G!HIJ + !AB!CD!EFIJ + !J + A!B!CE!GHIJ
+!C!D!G + !AB!D!E!G!J + BEF + A!D!G + BI!J + A!CDEF!G!H!IJ + !AB!DE!FGH!J + AC!D!EF!HJ + A!B!E!F!G!J + A!B!FHI
+!AD!J + !B!C!DE!F!G!HIJ + !B!C!D!E!F!GHI + !EF + !A!F
+!BDE!HJ + !A!BCD!EFG!HI!J + A!DGHI!J + !A!BE!F!HI + !A!BFG!HI + !A!C!DEF!HI!J + !AB!CD!EFG!HI!J + A!B!CDE!G!H!IJ + A!B!C!D!EFHIJ + !B!CEHJ + !B!I + !AC!EFI!J + A!BDE!GHJ
+A!B!CD!EFG!H!I!J + !AB!C!D!E!F!GHI!J + !B!CD!F + A!C!E!F!H!I!J + !DE!G + A!B!C!D!EHI
+!AB!CDE!F!H!I!J + !H + AB!C!D!EFG!HI + !A!B!DG!I!J + EIJ + EI + !AB!D!EG + !B!D!FG + !A!DIJ + !AE + BFG!J + ABCD!EFG!HJ + !C!EFJ + !CF
+!A!BC!D!E!F!GH!IJ + BC!DF!G!HJ + A!BE!F + B!C!F!H + B!E!G + A!BCEGIJ + A!BC!DEGI + !C + AB!C!DGHIJ
+CDE!G!H + A!BDG!HIJ + ABC!D!EFGH!I!J + !B!DFG + A!B!CD!E!F!G!HI!J + !B!EF!G + A!B!C!D!E!FG!H!I!J + CDG!HJ + !C!G!HJ + !BC!EFH!J + A!B!C!DEF!G!HIJ
+!C + ABCD!EFGI + !A!C!F!G + E!F!I!J + ABCD!EFH!I!J + C!DEJ + !A!E!G + !B!CDG!I + C!E!F!H!I
+!A!G + BC!DE!FGHI!J + !ABHJ + !A!BF!J + AB!CD!E!H!J + !AB!F!H + C!GHJ + A!B!E!J + B!CDEFGH!IJ + CDEFG!H!J + !A!CD!E!FGH!IJ + !A!B!C!D!E!GH!I + AB!C!HI!J
+!A!B!C!E!FGHIJ + AB!CEGI + !AB!C!E!F!GH!IJ + !A!DE!GH!IJ + !BFHI + !A + !AD!FG!I!J + A!C!EF!GHIJ + !C!DE!F!G!I!J + !AD!EGH!I
+E!IJ + !ACD!GHI + FJ + !ABCDEFG!HIJ + AB!FHIJ + ACD!EF!G + !A!E + B + F!G!J + !A!DF!G + E!H + BC!DE!G!HI!J
+B!C!D!F!J + !A!BC!D!EF!G!I!J + B!D!GH + AI!J
+!A!BCFG!HIJ + !ABCDEFG!HIJ + A!BC!D!EFGH!IJ + DGI
+ACD!FGHI!J + !A!BC!D!H!IJ + !A!CD!GHI + !A!B!EG!I!J + !AB!I
+!ABD!EF!H + !DE!F!GH!I + !A!BCDEFG!H!IJ + !A!B!CDE!FHI!J + AD!G!HIJ + !AB!C!D!E!F!G!H!IJ
+ABDEF!HJ + !A!BC!DEF!G!J + !A!B!C!DE!F!GH!J + A!B!G + !BD!E!F!HIJ + G!J
+A!C!DF!G!HJ + !A!F + !AB!C!D!EFGHIJ + AB!C!D!IJ + !CFG!H!I!J + !BCF + B!C!DE!FGH!I!J + !AB!D!EI!J + !A!C!DE!GHIJ + A!B!C!DE!F!G!H!J + !A!BDE!F!GH!IJ + !A!B!E!F!GHIJ + !E!F + !A!B!C!DEGHIJ
+!AB!CD!E!FG!HIJ + D + !CF!GJ + D!E!FG!I + !AF!GHJ + !B!C!D + !A!B!CG!H + A!BCEGHI + !AB!C!D!FG!H!I!J + !A!G + B!DE!H!IJ
+A + !AD!EGI + ABC!DEG!J + AB!C!D!E!FGHI!J + !AC!E!FHIJ + !ACD!E!FGH!I!J + D!F + !B!D!E!F!HJ + AB!C!D!GI!J + !AC!EFGJ + !CE!J
+B!G + !A!B!CEGI + !ABCE!F!I + !BE + !DF!H!J + !ADGH + C!E + !B + !AC!J + !E!F!GH + A!C!D!I!J + A!B!CE!FHIJ + !BC!DE!F!GIJ + !B!C!D!F!G
+AB!CF!GHI!J + B + !AB!C!DEF!I + EF!G!H!IJ + B!DE + AB!CDEF!GHJ + !A!BCD!E!F!G!H!I!J + F
+!DH!J + !B!D!E!FGJ + AC + AB!C!D!EF!G!HIJ + !ACD!EGHI!J
+D + !BCEF!IJ + !ABC!DEF!G!H + G + !ACI
+!B!EFG + !A!F!GJ + ABCDEHI!J + B!FH!J
+ABC!DF!G!IJ + !B!CDG + E + C!E!H + B!CDE!F!GHJ + !AB!C!DEF!G!H!IJ
+!ABC!F!GI + B!F + !A!B!C!DE!F!I!J + !G + !AB!CDG + !FG!H!I + A!C!E + D!E!FGH + C!J
+!ABD!G!H!I!J + A!BC!DEF!GJ + A!B!C!DEFH!J + !AB!E + A!B!CDE!F!G!HI!J
+F + !A!H!J + BCDG!IJ + ACDEGH + A!B!C!D!FG!H + !A!B!C!EFG!HJ
+!ABCD!EF!G!HIJ + !ABDEH!I + !ADF!G!H!I + !C!D!FGI!J + !E!G + A!D!E!FGHI + ACE!GHI + ABC!GI + !ABC!E!GH!J + !B!DH + ABE!F + !AB!CF!IJ
+A!BCE!FH + BCD!E!H!I!J + !A!B!C!D!FH + !EFJ + !AC!D!E!FHI!J + !AC!DEGHI!J + !A!B!C!D!E!FG!HIJ + !B!CDEFGHIJ + AB!C!DE!FGHIJ + !A!B!DE!F!G!H!I + ACD!E!FIJ + !HJ
+F!GJ + !A!D!EHIJ + !CJ + !EH!I + !BDH + A!D
+!BCDE!F!G!HJ + !ABCDEFG!H!I!J + !A!C!DG!I!J + !ABC!DEFGH!I!J + !AB!C!DE!FGHIJ
+G + !A!BCDE!F!GH!J + !E!HI!J + !BF!J + !ABDE!GJ + !A!FJ + B!D!FHI!J + !B!EH!J
+!AB!DGH!IJ + !AB!C + !D + A!B!E!F!G!I + !BCD!F!G!H + ABC!EG!I + !A + !D!F!GJ + BC!D!E!F!G!HI!J + I + !A!BDG!I
+A!BDEFG!H!IJ + BHJ + AGI + AB!CDEF!GIJ + !AC + H + !A!BH + !A + B!EFGJ + !E + I + AB!C!D!E!F!H!I!J + !BCD!GI!J
+!B!E!F!G!H!IJ + !B!C!F!GH!I + !A!BDE!F + AF!G!H!I + C + A!BC!D!EG!IJ
+!A!C!DF!GI + A!BC!D!E!F!GHI!J + DH + !C + !DEFGHI!J + !A!B!C!FGHJ + BEJ + !A!C!DE!F!GH + !F + B!C!E!J + A!BCEF!GJ + !AB!C!E!G!HJ + B!EG!H!J + AB!CDE!F!I!J
+BC!DEG!H!I + AH!J + !BC!EG!HI!J + !AD!HJ + ABC!E!F!GH!IJ
+AJ + !B!C!E!FH!IJ + !A!B!CDG!H!I + I
+!ABD!EFG!HIJ + ABCF + A!BF!J + !A!BD!F!G
+!F + !D + H!J + A!BC!EFG!H!I!J + !A!EH!I!J + !A!B!DEF!G!HI!J + !AB!D!E!H + G!H!I + !A!BCD!E!F!GHI + C!D + !A!BC!DEFG!H!I!J + AB!C!G!H!J + CDEF!G!H!J
+AB!F!HI!J + ABC!D!FG!HIJ + AB!CDEFGH!I!J + !A!FG!J + DEFI + !EI + !EG + E!I + !ABCD!EF!G!H!IJ + BD!H + !C!EF!G!HJ
+AC!EFI + A!C!DE!FGHI!J + A!BCDEF!GHIJ + !A!BC!DEF!GHI!J
+!B!CG!H + BCD!FHIJ + !A!B!C!D!EFG!HI!J + !DE + CD!EG!I + D
+DGH!I!J + !A + ABF + !E!GHI + !A!B!CDEGHI!J + !A!BDE + CD!E!HIJ + !A!E!G!I + EH!J + BD!EGH!I + A!DE!GHI
+BCD!E!FH!I!J + A!B!C!DF!J + !BGJ + !A!BD!F!G!HIJ + ABJ + !A!BC!DE!FH!IJ + !A!C!D!FG!I + !ABC!F!H!IJ + !C!DE!F!G!HI + AC!D!E!GI + A!BCDGHI
+!A!C!DEF!GH!I + !B!C!DEFGJ + !DF!J + D!EF!HIJ + AB!C!F!GHI!J + !AB!CDFG!H!I + C + !A!C!DEGHIJ + I + !B!CEGH!J + !A!B!F!I + AB!CDE!G!HI!J
+AH + !A + A!B!HIJ + H + !A!B!CD!E!F!G!H!IJ + A!BD!E!F!GH!I + A!BE!FGI
+D + !B + !A!F + !A!B!C!D!EF!G!HI!J + !A!B!F!J + !C!FH!I + !AEI + I + !A!BI + !D + ACD!EF!GH!IJ + B!C!D!E!FG!HI!J + A!BD!HIJ + ACFI!J
+A!B!CDE!FGH!IJ + !A!B!CD!HI + !AB!DEGHJ + !AB!C!DE!FHI!J + !DJ + !BDGI + !EH + DFJ + !DF!G + ACD!E!FI!J
+!DE + BD!G + A!BC!D!EF!G!HIJ + J + I + A!BC!E + A!DFGH!I!J + A!DGI!J + !B!H!J
+!EF!G!J + !A!B!CD!E!FGHI!J + !E!F!GH
+ABC!D!EF!G!H!IJ + BE!G + AB!C!DE!FG!IJ + BF + !AB!CDGHIJ + AB!C!DF!G!H!I!J + !AB!C!EFGH!I!J + C!D!H!J + AD!FHIJ + !AB!CE!FG + !BD!HIJ + !A!CH!I
+F + !A!CD!EHI + !C + !C!G + A!BDF!J + A!BCD!EFGHI!J + !AB!C!DE!F!GH!I!J + D!J + !I + !A!B!C!DF!HI!J + !BE
+A + !A!BC!HI + !BEF + A!B!D!EF!G!I + AC!D!E!F!GH!I!J + !A!BCD!E!F!GI!J + BCD!F!G + !AD!FG + !AG!J + !A!B!CD!E!F!I!J + !A!B!C!D!E!GIJ + !B!CDEF!HI!J + !G
+!C!D!EFH!I + B!CDEFGHIJ + !BC!D!E!FHIJ + !A!B!C!D!E!FG!H!IJ + ABCDE!F!G!I!J + B!C!DEF!GHI + !AB!C!D!FGHI!J + !A!C + AGHIJ + !ABDEGI!J + BFH + AC!D!F!G!H!I!J + !A!BC!DE!GHIJ
+A!C!E!FIJ + !A!BEFGH!J + A + B!CD!EFGH!IJ + !AB!CD!E!FGH!IJ + A!BCD!EFH!I!J + A!CD!EF!GH!IJ + !BC!FHJ
+D!F!I + BC!J + AD!HI!J + !C!HJ + DG + AB!C!D!EFG!H!I!J + G!HI!J + A!C!DF!G!HIJ
+BCJ + !D!HIJ + !A!BDE!F!G!HI!J
+!A!B!CD!EFGHIJ + ACE!I + ABC!DEFGH!I + C!DEH!IJ
+A!D!I + A!B!I!J + A!B!DJ
+!A!BF!G!J + !C!D!E!FG!IJ + !AB!C!DE!GHIJ + C + A
+!GI + !AC!E!HIJ + !C + A!F!G!H!I!J + A!C!F + ABD!F!H!IJ + I
+B!C!DF!GH!IJ + !A!BGH + !AB!CDG + A!BC!EFG!HJ + !C + !F + !A!DGHJ + DE + !B + BG + A!BC!DE!FG!H!IJ + !ABCG!HIJ + !ABCD!EF!IJ
+B!C!E!GI + A!BG!H!I + !ABCD!E!FG!H!I
+!AB!C!DE!F!H!IJ + ABD!E!FG!H!IJ + !A!FGH!I!J + A!B!DE!F!GH + !ABC!F!HI + !A!B!CD!EF!G!H!I!J + A!B!C!D!EF!GH!I!J + !D!J + ACD!EHIJ + !B!E!F!H!I
+A!BE!F!G!H!J + !ABCFGJ + ABC!DE!F!HIJ + !A!CJ + !A!BCD!EFGH!I!J + A!B!CD!EFG!H!J + !A!BCD!EFGHIJ + AB!CD!E!GHI!J
+!A!B!C!D!F!GH + !A!B!C!D!E!FG!HI!J + !C!DG!H!I!J + !AB!C!D!E!FG!H
+A!B!C!DE!F!G!IJ + !CDF!GHJ + !C + !A!B!D!E!HJ + BCG + !AB!C!DE!FGH + A!C!DE + ABD!EF!GH + BDEF!G!H!IJ + !BE!IJ + !AD!E!FG!HI + !BC!DE!F!GHI + C + G
+!AB!CDE!F!HIJ + !H + !FHI + ACFG!H + E + !AB!DEJ + D + G + !EF!IJ + B!CE!HIJ + ABCE!FIJ + !BCFHI + !BCEF!GH!I + !EF!G
+!AB!CD!E!F!GHI!J + BC!HIJ + !E!H!I + !AC!E!F!GH!I!J + !C!G + !ACDE!G!I + !D!E!I + G!HIJ + D + !AB!I!J + DE!F!G!I!J + ABCD!EF!GHI!J + A!B!CDE!FGHIJ
+!A!BD!EGHJ + AB!E!FG!H!IJ + BC!EG!I!J + !H!I + ABC!DE!FG!HI!J + J + B!CDGJ + C!H!J + !A!B!C!DE!FIJ + A!CD!EF!GI!J + !D + !B!CD!G!I
+!B!GH!IJ + A!D!EF!GJ + !BCE!I + A!B!D!H!I + C!FG + !DH + !A!B!C!G!IJ
+!D!EG + AB!DE!FG!H!IJ + !DE!G!H + B!CDE!H + DJ + A!B!CD!E!F!GHIJ + !DG + !B!D!H!IJ
+!AB!D!E + !EF + !A!BC!DF!G!HI!J + !E!H + !BC!D!FG!H!I + A!BC!DF!GJ + !C!I + C!DEFGHIJ + ACF!GI + CF!GI + DF!G!IJ + GH + !GI + !BCDE!G!H!I!J
+!CD!EFJ + A!B!C!DFGH!J + !CD!E!F!GH!I!J + !BC!F!G!HIJ + E + I + AF + !B!C!D!EFG!H!I!J + F + B!H + !A!BCEFGJ + !DI + !FG!IJ
+!A!G + !CF!H + B!CDHJ + BDF
+!ABD!F!GHIJ + ABG!H!J + !G + A!B!J + !AD!G + AE!I + !D
+!AB!C!E!F!HI + !H + !A!BDFG!HIJ + !A!BC!DE!F!GHIJ + !BEH + A!BC!D!E!F!G!I!J + !A!BCD!FH + !A!B!CDE!FGHIJ + D!GI + A!B!CDE!F!G!HI!J + !EH!J + ABDEFI!J
+!AFG!J + BHJ + !A!B!C!DEFH!IJ + !ABCDEF!GH!I!J + J + !A!BC!D!EFGIJ + !A!B!CDE!F!GH!IJ + DG!J
+A!B!CD!E!FHI!J + A!H + !B!CEF!G!HI + !A!EG + ACF + B!D!E!H!I!J + A!BCDFG!H + CDJ + !AG + A!BCDEFG!HIJ + DG!HIJ
+D + A!BC!DFG!H!IJ + !A!DE!FI + AC!D!I!J + !A!CE + !A!DFJ + ADGH!J + A!B!C!E!F!GIJ + A!D!E!F!G!HI!J + A!B!C!DE!FG!HIJ + !AB!CDEFGI!J + !J + A!D!G!HI
+AC!G!H!J + !AB!DE!F + A!BEH + !AEI!J + !CDJ + A!BD!E!F!G!H + A!B!C!EF!IJ + !CG + A!BCD!E!F!G!HIJ + !BCDFG!H!IJ
+B!CD!E!F!GI + !A!CD!J + !B!CD!E!F!GHI + !ABF + A!BC!DE!F!G!I!J + E + ABCDEFG!H!I!J + A + EH + B!E!FG!HIJ + C!E!G!I + AB!DEFGH!I!J
+!ABC!DE!FGH!I!J + !A!C!DEFGI!J + !AC!J + !C + !ABC!DE!FHI!J + ABC!DEF!GHIJ + A!B!C!D!E!FGHIJ + !ACE!H + !DF!G + !BC!H + ABC!DI
+!A!BDFIJ + AB!C!DE!F!G!HI!J + !F!G!J + !A!CG!HIJ + !AC!DEFHI + ABC!EGHI + !A!BC!D!EFG!HIJ + E + CD!FGH + BCFHI!J + !A!CD!FG!IJ + !A!B!CD!E!GJ + A!C!D!EFG!HI
+!B!C!H!J + !A!B!C!D!FG!I!J + !A!C!E + H + EF + !DEG + !B + ABCD!E!FGHIJ + ACE!GI + A!D!EIJ + !B!IJ + A!BE + !C!DE!F
+!A!B!CD!E!F!G!HI!J + F!J + !F!HJ + HJ + !E!GH + B!C + !G
+A!BCD!EFG!IJ + A!BCD!E!F!G!HIJ + !ABDG!H!IJ + !F + !B + ABCDEFG!J + !BC!D!E!F!G!I!J + !ABC!D!E!FG!H!I!J + B!C!F!GI!J + !ABC!D!EFG!H!I!J
+!AD!E!FG!HIJ + DEF!G + !ABC!DEGH!I + !A!E!GHJ + !A!BCDFG!HI!J
+AEFH + BCE!G!J + !ABE!FGHIJ + !B!CD!E!G!I
+EGI + ABC!DG!H + !I + A!BCD!EF!G!H!IJ + !AC!DEF!G!H + BC!D!GH!IJ + !BC!D!I + B + !CJ + !BD!J + BCD!F!HI!J + !BCE!G!H!J + BCFG!HJ + A!B!C!D!F!GH!IJ
+AB!CD!EGHI!J + !AC!DE!F!G + !B!EF!G!HIJ + !C + AC!FGIJ + A!B!D!E!F!G!HI!J + !BC!D!FG!H + !A!BC!D!EFG!HI!J + !AB!C!D!E!F!GH!I!J + !AB!C!D!EF!GH!I!J + !AB!C!DEGHIJ + AB!EHI + !AE!F!GIJ
+A!B!CD!E!F!G!H!I!J + !BC!EFIJ + !B!D!EF!J + !B!CDEFGI!J + BC!D!EFGHJ + F!GH + !C + !H + !E + !A!B!C!DEFGHI!J + !AB!C!D!EFGH!I!J + !ACG!HJ
+BCD!GHJ + !A!B!CDF!GHJ + !BI + !BE!FG!I
+CD!FGH + CD!F!H!I + B + !A!BC!D!EF!G!H!J + !B!EFJ + ABC!D!E!F!G!H!IJ + !ABCDEF!GHIJ
+!A + !A!B!C!D!F!GI + B!C!E!FG!I + !C!HJ + !AC!F!G + EF!I + E + !A!C!D!F!G!I!J + !C!D!E!FI!J
+!A!B!CDF!G!H!J + !E + A!B!CD!E!F!G!H!J + A!B!C!DEF!GH!I!J + !AB!CD!EFG!H!I!J + J + !A!BCDE!F!H!I!J + B!CDFG!HIJ + !CDE!F!I + !AG + !AB!CD!EFG!HI!J
+!AB!CD!E!F!GH!I!J + !ABCDE!F!GHIJ + !ABCDEFGHJ + !I + ABDE!F!H!I + B!D + A!BCE!F!I + !A!CDEI + CDJ
+B!D + AB!E!G + GHJ + B!CEG!H!IJ + ABC!DEF!G!HIJ + A!C + C!D!H!J + !A!BC!DE!FG!H!IJ + !B!C!E!FG!HJ + !J + A!BDEFG!H!IJ + !ABC!D!E!F!G!H
+!BF!G!HI + C!IJ + !CF!H + AB!CDE!F!GH!I!J + AB!C!DE!FGH!IJ + !A!BCDEFG!HIJ + !A!D + !ADE!F!G!HI!J + AB!C!DE!GHI
+FG + A!B!D!EFG!H!J + G + A!BC!E!FG!H!I + A!D!EI!J + EF!J + !B!C!J + ACD!E!FGH!J + !B!G + !B!EH!IJ + !FH
+DF!G + !B + !AB!CD!EFG!H!I!J + AD!EI + !B!CD!EFG!HJ + !D!E!I + J + A!FI + A!C!DEFIJ + !A!CD!F!GHI!J + A!B!CD!EFGH!I!J + C!D!EF!H!I!J + A!BCE!FG!HIJ
+!A!CDEFH!J + !CEF!G!HJ + A!BC!F!G!I!J + A!E!H!J + !AB!C!DFG!H!J + !AB!CDEF!GHI!J + E!H!I!J
+C + !A!BDEI + !A!BC
+!ABD!GHI + !A!BC!D!E!HJ + !FH + AD + !BFGJ + BCD!E!F!G!IJ + AB!C!D!E!FG!HJ + ABC!DE!F + !ABD!E!FG!J + !CFI + ABCEF!GHIJ + A!CF!H!J + !F!GH + !ACD!E!F
+!A!BE!H!J + !B!F!G + A!B!CDEFHI!J + !AB!CDE!GIJ + !AB!E!F + !GI + A!C!E!IJ + !J + BD!E!FH!J + !AB!C!DEFHI!J + !AB!CDE!FG!H!IJ + F!G
+A!CDE!FIJ + D + B + !ABC!DEF!G!H!I!J + B!E!FI + F!I + ABCD!EFG!HIJ + AB!CEF!GIJ + AC!DH + !A!B!CD!EFGHJ + !ABC!D!E!F!G!HI!J
+A!HJ + !FG + !BHI + A!B!E!FGJ + ABCD!E!GHJ
+EH + !B!CD!EHIJ + A!BD!G!HI + !D!J + !BDE!F!G!H!I!J + AEH + !E + A!F!GHI!J + A!CDFGHIJ + !C!E + ABCD!EFG!H!J
+A!F!G!I!J + A!B!CE!FG!H!J + BC!D!E!F!G!HI + G + ABD!F!G + AC!D!J + DFGJ + E!F!HJ + !A!BCDEGHI + ABCD!EH!IJ + ADFGHI!J + A!C!D!EG!H + AB!DE!FHI + !AC!DE!FG!HIJ
+!A!B!C!D!E!FG!H!IJ + AC!D!EGI!J + !BD!E!FGH + EH!J + C
+!A!CD!EG!H + C!EFGH!IJ + AB!DG + !BCDE!F!G + !J + !ABC!D!EF!G!H!I + ABC!F!H!I!J + A!BC!DEF!G!H!I!J
+!A!D!EH!I + !AC!H + AB!CE + E + AC!E!FGH!I
+F + !B!D + !AC!D!E!F!G!HIJ + !AB!C!D!EH!I + A!B!C!FH!J + !B!CEH!I!J + A!BGJ + D + A!BD!E!F!G!H!IJ + !B!CJ + !A!BC!DEF!G!HIJ
+!ADH!J + ACH!J + !B + !CDFGHJ + !AB!CE!GH
+!AD!G!J + !AC!D!IJ + A!GJ + !AB!CE!F!GIJ + !I
+!AG!I!J + !A!C!EF!G!IJ + !AC!DE!G!HJ + E + !D + !A!B!C!E!FH!I + !I
+!AB!C!DFG!H + !ABCDEFG!H!IJ + G + !BC!D!FG!HI + ADEFGH!IJ + !A!B!C!D!E!F!GH!IJ + AB!C!DEFGI + ABCD!E!F!GHI!J
+!AB!C!DEFHI!J + !A + !C!F + !A!B!CDE!F!GHIJ + AB!C!D!F!G!H!IJ + A!BDE!FGH!I + A!BCDE!F!G!IJ + BEGJ + A!B!CDE!F!IJ + !B!H
+D!EG!J + !ACF!G!HIJ + !ACD!GH + !CD!H!I + !BC!D!EFGHI!J + !B!C!D!E!I!J + !FI + BEF!GJ + !A!B!CD!F!H!I!J + A + !A!C!DFG!J + !BFHIJ + AB!CDE!F!G!H!I!J + AB!G
+!I + !A!B!CE!F!I + AE!HI + E!J + B!C!H!IJ + H + !A!B!C!D!E!F!G!H!IJ + ABC!F!H!I + !ACDEF!GI + A + BE + !AB!C!DE!FGHJ + !CDGJ
+B!DF!GHJ + !A!B!C!D!EFGJ + AB!CDE!FGHJ + CF!G!IJ + AF!G + !H + !G
+!A!B!D + AB!C!F!G!H!I + !AB!C!DEFGH!IJ + C!DF!G!H!I + CE!HIJ + !A!B!E!H!J + !C!D!E!HI + ABC!E!GI!J
+!A!BCDE!F!HI + A!BDEF!GH!I + !ABCD!EFG!H!I!J + ABE!HJ + DG!H!I + B!C!DEFIJ + !AC!FH!IJ + !A!B!C!D!E!F!G!I!J + BC!DFI + !A!BCEH!I + !ACDEGH!IJ + !D!F!GH
+D!E + I + A!BCEGH!I!J + FJ + DEG!I + !AB!CE!FI!J + F + !AB!C!DE!FGIJ + !AB!C!E!F!G + !A!BD!EFGHIJ + !D + BD + AFG!H!I!J + !ACF!G!HI!J
+!A!B!CDE!F!HIJ + !HIJ + !C!F + A!BC!D!E!H!J + A!BF!GHIJ + BEF + !C!D!E!F!G!HI!J + I + ABCD!GHIJ
+AB!EFG!IJ + FJ + A!B!C!D!E!FGI!J + A!B!CD!F!GIJ + ABC!EFGHI!J
+A!B!CDEF!HI!J + !ABC!DE!F!G!H!IJ + !A!G!H + !A!C!DGHI + !AB!DEF!GHI!J
+B!CFHJ + C + E!I + ABF!HI!J + !AB!CD!EF!G!H!IJ + !ABCD!EG!H!I!J + AB!CEFHJ
+!A + ABC!DE!FGH!IJ + !A!BD!E!FGJ + AE!GI + !AB!CD!E!F!H + ADE!H
+G + A!B!D!EF!J + ABC!EFG!J + EF!I + !A!B!CDE!F!GH!I!J + !A!B!C!D!E!FG!I + AB!CDEF!G!H!I + !B!CGH!I!J + !AB!CD!F!G!HIJ + !A!BCD!EFG!HIJ + ABCDFHIJ + !A!BC!DFG!HIJ
+!AD!E!F!G!HIJ + !B + !D!EJ
+!A!BEH!J + !A!BC!D!FHI + A!B!D!EF!HIJ + D!EFH!IJ + !A!B!C!D!E!HJ + B!I + A!E!I + !AC!DFG!I + !AB!C!EFGI!J + ABDEF!J + A!EH!I + !BCD!FGHI + !B!D!EG!I!J
+C!DE!F!G!H!IJ + BCDEFGJ + !B!J + ABCE!F!H!IJ + ABCDEG + !A!B!CD!EGH!IJ
+BDG!H!IJ + DGI + !DEF!H!J + B!CH!IJ + AD + !C!EF!G!H!J + DEFH!IJ + !A!C!D!FI + !A!C!D!E!F!G!HI + !AE + !C!DE!FH!J + !B!C!DF!G!H!I
+DEH + !AB!CD!E!GI!J + A + !ABC!DE!FG!HI!J + !AB!G!H + BGJ + BCD!E!F!GI + !AB!EF!H + A!BC!DI
+CE!J + !ACDEFG!H!J + !AB!CD!FG!H!IJ + A!DIJ + F + FHI + !A!H + AB!E!F!G!HIJ + FJ + !A!B!C!DEFG!H!I!J + !A!CD!EGHI!J + !ACD!F!G!I!J + !FIJ
+!AD!EF!G + AC!D!EFG!HIJ + !D + !AB!C!DE!FGHIJ + !CH + AB!CDEF!GH!J + !A!B!C!D!EH!I + F + A!B!CE!FHIJ
+A!CEFG!H!J + A!BCDE!FG!H!I + DE!GIJ + B!DIJ + ABDE!FGH!I!J + !CD!GI + D + !C + F!GH + ABC!D!E!F!G + !AEH + !B!CDFGJ
+!A!BC!DE!FG!H!I!J + !ABC!E!FGHJ + !A!B!D!F!G!I!J + BDF + CF!G + !AB!CEFHJ + !A!IJ + !A!BC!D!EF!G!HIJ + AB!C!D!EF!GI!J + !BD
+!B!C!DGH + A!H + CD!G!H + ABC!DEFH!I!J + B!C!D!GI + AD!E!FGH!J + ABC!DEF!G
